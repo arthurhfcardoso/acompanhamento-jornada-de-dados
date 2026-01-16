@@ -2,9 +2,9 @@
 
 ## 📋 Sobre o Projeto
 
-Este é o **projeto prático da Imersão Jornada de Dados**, uma experiência completa de 4 dias onde você vai construir um projeto real de dados, do zero à decisão com IA.
+Este é o **projeto prático da Imersão Jornada de Dados**, uma experiência 4 dias onde eu construí um projeto real de dados, do zero à decisão com IA.
 
-**Em 4 dias, você vai aprender:**
+**Em 4 dias, eu aprendi:**
 - **Dia 1:** SQL & Analytics
 - **Dia 2:** Python & Ingestão de Dados
 - **Dia 3:** Engenharia de Dados
@@ -35,9 +35,9 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 - Comparar preços com o mercado
 - Criar segmentações de clientes
 
-**O que você aprende:** A pensar como analista de dados usando SQL.
+**O que eu aprendi:** Pensar como analista de dados usando SQL.
 
-**Material:** [Aula 1 - SQL & Analytics](./aulas/aula-01-sql/)
+**Material:** [Aula 1 - SQL & Analytics](./aulas/aula01-sql/)
 
 ---
 
@@ -50,7 +50,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Entrega do dia:** Um dataset unificado e confiável.
 
-**Material:** [Aula 2 - Python & Ingestão](./aulas/aula-02-python/) *(em breve)*
+**Material:** [Aula 2 - Python & Ingestão](./aulas/aula02-python/)
 
 ---
 
@@ -63,7 +63,7 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Frase-chave:** Dados bons precisam escalar.
 
-**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-engenharia/) *(em breve)*
+**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula03-dbt/)
 
 ---
 
@@ -76,13 +76,13 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 
 **Exemplo:** "Esse produto está mais caro que o mercado."
 
-**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-ia/) *(em breve)*
+**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula04-n8n/)
 
 ---
 
 ## 🎲 Os 4 Datasets do Projeto
 
-Este projeto usa **4 datasets sintéticos** gerados com Faker para simular dados reais de e-commerce:
+Este projeto usou **4 datasets sintéticos** gerados com Faker para simular dados reais de e-commerce:
 
 - **`produtos.csv`** - 200 produtos do catálogo
 - **`clientes.csv`** - 50 clientes cadastrados
@@ -97,35 +97,15 @@ Este projeto usa **4 datasets sintéticos** gerados com Faker para simular dados
 
 ---
 
-## 🚀 Como Começar
-
-### Passo 1: Gerar os Datasets
-
-```bash
-# Instalar dependências
-pip install faker
-
-# Gerar os CSVs
-python generate_datasets.py
-```
-
-Os arquivos serão criados na pasta `data/`:
-- `produtos.csv`
-- `clientes.csv`
-- `vendas.csv`
-- `preco_competidores.csv`
-
----
-
 ### Passo 2: Começar a Aula 1
 
-Siga as instruções completas em: **[Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)**
+Instruções completas em: **[Aula 1 - SQL & Analytics](./aulas/aula01-sql/README.md)**
 
 **Resumo rápido:**
-1. Importe os CSVs em um banco SQL (SQLite ou PostgreSQL)
-2. Execute os 21 exemplos SQL em ordem
-3. Pratique com os exercícios
-4. Responda perguntas de negócio
+1. Importei os CSVs em um banco SQL (SQLite ou PostgreSQL)
+2. Executei os 21 exemplos SQL em ordem
+3. Pratiquei com os exercícios
+4. Respondi perguntas de negócio
 
 ---
 
@@ -151,7 +131,7 @@ id_produto, nome_produto, categoria, marca, preco_atual, data_criacao
 id_cliente, nome_cliente, estado, pais, data_cadastro
 ```
 
-**Nota:** A segmentação de clientes (VIP, TOP_TIER, REGULAR) deve ser criada usando CASE WHEN baseado no comportamento de compra (receita total). Isso faz parte do aprendizado do Dia 1!
+**Nota:** A segmentação de clientes (VIP, TOP_TIER, REGULAR) foi criada usando CASE WHEN baseado no comportamento de compra (receita total). Isso fez parte do aprendizado do Dia 1!
 
 **Total:** 50 clientes
 
@@ -213,7 +193,7 @@ id_produto, nome_concorrente, preco_concorrente, data_coleta
 
 **Total de registros:** 50 clientes
 
-**Nota:** A segmentação de clientes (VIP, TOP_TIER, REGULAR) deve ser criada usando CASE WHEN baseado no comportamento de compra. Veja o exercício `aulas/aula-01-sql/exercicios/exercicio-case-when-clientes.sql` para aprender como criar essa segmentação.
+**Nota:** A segmentação de clientes (VIP, TOP_TIER, REGULAR) foi criada usando CASE WHEN baseado no comportamento de compra. Veja o exercício `aulas/aula01-sql/exercicios/exercicio-case-when-clientes.sql` para saber como eu criei essa segmentação.
 
 ---
 
@@ -296,7 +276,7 @@ id_produto, nome_concorrente, preco_concorrente, data_coleta
 
 ---
 
-## 🎯 Perguntas de Negócio que Vamos Responder
+## 🎯 Perguntas de Negócio que respondi
 
 Este projeto foi criado para responder perguntas reais de negócio usando dados. Abaixo estão todas as perguntas que podemos responder:
 
@@ -341,41 +321,39 @@ Este projeto foi criado para responder perguntas reais de negócio usando dados.
 ## 📚 Estrutura do Projeto
 
 ```
-Projeto-Jornada-De-Dados/
+00-imersao-jornada/
 ├── data/                          # CSVs gerados
 │   ├── produtos.csv
 │   ├── clientes.csv
 │   ├── vendas.csv
 │   └── preco_competidores.csv
-├── generate_datasets.py          # Gerador de dados sintéticos
 ├── aulas/
-│   ├── aula-01-sql/              # Dia 1: SQL & Analytics
+│   ├── aula01-sql/                # Dia 1: SQL & Analytics
 │   │   ├── queries/               # 21 exemplos SQL
 │   │   ├── exercicios/            # Exercícios práticos
-│   │   ├── README.md             # Guia completo do Dia 1
-│   │   ├── KPIS.md               # KPIs e perguntas de negócio
-│   │   └── ESTRUTURA_DADOS.md    # Documentação dos datasets
-│   ├── aula-02-python/           # Dia 2: Python & Ingestão (em breve)
-│   ├── aula-03-engenharia/       # Dia 3: Engenharia de Dados (em breve)
-│   └── aula-04-ia/               # Dia 4: Inteligência Artificial (em breve)
+│   │   ├── README.md              # Guia completo do Dia 1
+│   │   ├── KPIS.md                # KPIs e perguntas de negócio
+│   │   └── ESTRUTURA_DADOS.md     # Documentação dos datasets
+│   ├── aula02-python/             # Dia 2: Python & Ingestão
+│   │   ├── exemplos/              # 4 exemplos Sde ETL/ELT
+│   │   ├── README.md              # Guia completo do Dia 2
+│   │   └── requirements.txt       # Dependências para manipulação de dados
+│   ├── aula03-dbt/                # Dia 3: dbt & camada analitica
+│   │   ├── dbt_project.yml        # configuracao do projeto dbt
+│   │   ├── profiles.yml           # perfil de conexao
+│   │   ├── README.md              # guia completo do dia 3
+│   │   ├── requirements.txt       # dependencias do dia 3
+│   │   └── models/                # modelos dbt por camada
+│   │       ├── _sources.yml       # definicao das fontes raw
+│   │       ├── bronze/            # camada bronze (dados brutos padronizados)
+│   │       ├── silver/            # camada silver (dados limpos/enriquecidos)
+│   │       └── gold/              # camada gold (KPIs e data marts)
+│   ├── aula04-n8n/                # Dia 4: n8n & automacao
+│   │   ├── GUIA_INSTALACAO.md     # guia de instalacao do n8n
+│   │   ├── README.md              # guia completo do dia 4
+│   │   └── workflows/             # fluxos n8n prontos para importar
 └── README.md                      # Este arquivo
 ```
-
----
-
-## ⚙️ Configurações do Gerador
-
-Você pode ajustar as constantes no início do arquivo `generate_datasets.py`:
-
-```python
-N_PRODUCTS = 200          # Quantidade de produtos
-N_CUSTOMERS = 50         # Quantidade de clientes
-DAYS = 30                # Dias de vendas
-SALES_PER_DAY = 100      # Vendas por dia
-TOP_PRODUCTS = 30        # Produtos "top sellers"
-```
-
-**Nota:** A segmentação de clientes (VIP, TOP_TIER, REGULAR) não é gerada automaticamente. Ela deve ser criada usando CASE WHEN baseado no comportamento de compra (receita total). Isso faz parte do aprendizado do Dia 1!
 
 ---
 
@@ -384,7 +362,7 @@ TOP_PRODUCTS = 30        # Produtos "top sellers"
 ### Distribuições Realistas (Não-Normais)
 
 - **Produtos:** 30 produtos "top sellers" vendem muito mais
-- **Clientes:** Todos os clientes têm peso igual na geração (segmentação será criada depois com CASE WHEN)
+- **Clientes:** Todos os clientes têm peso igual na geração (segmentação foi criada com CASE WHEN)
 - **Preços:** Distribuídos em buckets (R$ 29,90 a R$ 1.499,90)
 - **Quantidades:** Maioria compra 1 unidade (72%), poucos compram mais
 - **Horários:** Picos em manhã (8-12h) e tarde (15-19h)
@@ -416,7 +394,7 @@ Para gerar dados diferentes, altere o `SEED` ou remova a linha `random.seed(SEED
 
 ## ✅ Validação
 
-Após gerar, o script imprime um resumo:
+Após gerar, o script imprimiu um resumo:
 
 ```
 ✅ CSVs gerados com sucesso:
@@ -426,45 +404,18 @@ Após gerar, o script imprime um resumo:
 - data/preco_competidores.csv  (rows=680 | competitors=4)
 ```
 
-**Nota:** A segmentação de clientes deve ser criada usando CASE WHEN baseado no comportamento de compra.
-
----
-
-## 🐛 Troubleshooting
-
-**Erro: "ModuleNotFoundError: No module named 'faker'"**
-```bash
-pip install faker
-```
-
-**Erro: "Permission denied" ao criar pasta data/**
-```bash
-mkdir -p data
-chmod 755 data
-```
-
----
-
-## 🚀 Próximos Passos
-
-### Para Começar a Imersão:
-
-1. **Gere os datasets:** Execute `python generate_datasets.py`
-2. **Comece o Dia 1:** Siga as instruções em [Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)
-3. **Execute os exemplos:** 21 exemplos SQL em ordem progressiva
-4. **Pratique:** Faça os exercícios práticos
-5. **Avance para Dia 2:** Python & Ingestão de Dados
+**Nota:** A segmentação de clientes foi criada usando CASE WHEN baseado no comportamento de compra.
 
 ---
 
 ## 🎯 Resultado Final da Imersão
 
-Ao final dos 4 dias, você terá:
+Ao final dos 4 dias, eu realizei:
 
 ✅ **Projeto real no GitHub**  
 ✅ **SQL aplicado a negócio**  
 ✅ **Pipeline de dados funcionando**  
-✅ **IA interpretando dados e gerando insights**  
+✅ **n8n com IA interpretando dados e gerando insights**  
 
 **Isso é o que o mercado procura.**
 
@@ -472,19 +423,19 @@ Ao final dos 4 dias, você terá:
 
 ## 💡 Frase de Ouro
 
-> **"Você não vai aprender ferramentas. Você vai aprender como dados resolvem problemas reais."**
+> **"Eu não estou aprendendo ferramentas. Estou aprendendo como dados resolvem problemas reais."**
 
-Cada query, cada script, cada pipeline que você construir deve responder uma pergunta de negócio. Sempre pergunte: **"Por que isso importa?"**
+Cada query, cada script, cada pipeline que construí responde uma pergunta de negócio. Sempre me questiono: **"Por que isso importa?"**
 
 ---
 
 ## 📚 Material de Apoio
 
-- **[Aula 1 - SQL & Analytics](./aulas/aula-01-sql/README.md)** - Guia completo do primeiro dia
-- **[KPIs da Aula 1](./aulas/aula-01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
-- **[Estrutura dos Dados](./aulas/aula-01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
-- **[Queries de Exemplo](./aulas/aula-01-sql/queries/README.md)** - 21 exemplos SQL com explicações
+- **[Aula 1 - SQL & Analytics](./aulas/aula01-sql/README.md)** - Guia completo do primeiro dia
+- **[KPIs da Aula 1](./aulas/aula01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
+- **[Estrutura dos Dados](./aulas/aula01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
+- **[Queries de Exemplo](./aulas/aula01-sql/queries/README.md)** - 21 exemplos SQL com explicações
 
 ---
 
-**Boa jornada! 🚀**
+**Uma grande jornada! 🚀**
