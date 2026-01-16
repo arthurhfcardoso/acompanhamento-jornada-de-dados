@@ -34,8 +34,19 @@ Uma empresa de e-commerce está abrindo sua operação digital e precisa usar da
 - Identificar os principais clientes
 - Comparar preços com o mercado
 - Criar segmentações de clientes
-
+n8n & automacao
 **O que eu aprendi:** Pensar como analista de dados usando SQL.
+
+---
+
+## 📚 Material de Apoio
+
+- **[Aula 1 - SQL & Analytics](./aulas/aula01-sql/README.md)**          - Guia completo do primeiro dia
+- **[Aula 2 - Python & Ingestão](./aulas/aula02-python/README.md)**     - Lista completa de KPIs e perguntas
+- **[Aula 3 - dbt & camada analitica](./aulas/aula03-dbt/README.md)**   - Documentação detalhada
+- **[Aula 4 - n8n & automacao](./aulas/aula04-n8n/README.md)**          - 21 exemplos SQL com explicações
+
+---
 
 **Material:** [Aula 1 - SQL & Analytics](./aulas/aula01-sql/)
 
@@ -426,15 +437,6 @@ Ao final dos 4 dias, eu realizei:
 > **"Eu não estou aprendendo ferramentas. Estou aprendendo como dados resolvem problemas reais."**
 
 Cada query, cada script, cada pipeline que construí responde uma pergunta de negócio. Sempre me questiono: **"Por que isso importa?"**
-
----
-
-## 📚 Material de Apoio
-
-- **[Aula 1 - SQL & Analytics](./aulas/aula01-sql/README.md)** - Guia completo do primeiro dia
-- **[KPIs da Aula 1](./aulas/aula01-sql/KPIS.md)** - Lista completa de KPIs e perguntas
-- **[Estrutura dos Dados](./aulas/aula01-sql/ESTRUTURA_DADOS.md)** - Documentação detalhada
-- **[Queries de Exemplo](./aulas/aula01-sql/queries/README.md)** - 21 exemplos SQL com explicações
 
 ---
 
