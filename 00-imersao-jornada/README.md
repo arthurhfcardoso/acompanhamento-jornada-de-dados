@@ -5,11 +5,10 @@
 Este é o **projeto prático da Imersão Jornada de Dados**, uma experiência 4 dias onde eu construí um projeto real de dados, do zero à decisão com IA.
 
 **Em 4 dias, eu aprendi:**
-- **Dia 1:** SQL & Analytics
-- **Dia 2:** Python & Ingestão de Dados
-- **Dia 3:** Engenharia de Dados
-- **Dia 4:** Inteligência Artificial
-
+- **Dia 1:** SQL & analytics
+- **Dia 2:** Python & ingestão de dados
+- **Dia 3:** DBT para transformação de dados
+- **Dia 4:** n8n e agente de IA
 ---
 
 ## 🎯 O Projeto
