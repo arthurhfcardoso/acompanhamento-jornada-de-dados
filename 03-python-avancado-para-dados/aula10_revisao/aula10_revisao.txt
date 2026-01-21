@@ -1,0 +1,1882 @@
+Olá, gente, bom dia.
+Opa, bom dia, Luciano.
+Tudo bem?
+Tranquilo, cara.
+Tranquilo.
+É sexta-feira, né?
+Pô, sexta-feira, né, mano?
+Caraca, mano.
+Pô, é sexta-feira, dia de tomar sorvete.
+Hoje eu vou jantar com a patroa.
+Dá aquela relaxada, espairada da semana.
+Pô, é bom, né?
+Eu não, eu tô ferrado.
+Se no último workshop lá deu a ideia do Pandera lá,
+eu tô me ferrando aí pra entender bem.
+Faz parte, cara.
+Você também é bom, também.
+Mas é legal lá o Pandera lá.
+Cada hora estudando Pandera,
+tu economiza quatro horas corrigindo bug, cara.
+Pior que é bem isso mesmo.
+E as possibilidades com ele lá é muito grande.
+A conta vai chegar.
+Essa é uma parada.
+A conta chega.
+Você pode escolher.
+Prevenir ou remediar.
+Pô, prevenir sempre, né?
+Ó, o Rafael, ele é o cara do BI, tá ligado?
+Tipo, mas eu quero que, tipo assim,
+monta um BI pra ele.
+A primeira coisa que o Rafa pede é
+manda o CSV aí pra mim,
+que eu quero conferir os dados.
+Ele pega todos os...
+Pega tudo, né, Rafa?
+Vai bater o meu nome.
+Eu sou chato.
+Pô, mais é chato do que ficar lá
+até meia-noite lá
+pra consertar um problema, cara.
+Eu trabalhava na empresa lá
+que eles vacilaram numa entrada de dados no RP lá, cara.
+E ninguém descobria por quê, cara.
+Aí o cara lá de inovação lá,
+ele pega e falou,
+não, eu vou descobrir isso daí.
+Duas da manhã ele me manda, assim,
+a mensagem, assim,
+pô, os caras estavam colocando lá
+o dado que era pra ser float
+e os caras estavam metendo como string, mano.
+Falei, não, você tá de zoeira, cara.
+Os caras na integração da RP lá,
+a empresa mesmo.
+Fala, Gustavo.
+Boa tarde, senhores.
+Uma dúvida, aproveitando,
+é se em sejo aí.
+Primeiro porque o Rafael
+tá fazendo um double check
+no seu trabalho, hein, Luciano.
+Isso é óbvio aí.
+Não.
+Na saída.
+Na saída.
+É, na saída.
+Tá fazendo um double check.
+E o segundo ponto,
+aproveitando esse problema
+que até inclusive o colega colocou,
+isso daí não seria um problema
+mais de planejamento,
+ter aquela documentação de modelo,
+de mapeamento dos campos,
+porque aí resolvia, né,
+esse caso do string
+sair como float, né,
+e aí ia acabar o problema.
+Gustavo, eu fiz uma pesquisa recente
+no LinkedIn
+de por que os projetos falham.
+Adivinha o que ganhou
+com 70%?
+Projeto.
+Planejamento.
+Então, o que você falou
+foi o certo, pô.
+Mas será que não faltou?
+É exatamente isso, Gustavo.
+Todo projeto
+não tem planejamento.
+Você falou que matou a charada,
+entendeu?
+Tipo assim, pô.
+A maioria, né,
+então assim, tipo,
+é aquela coisa.
+Eu falo isso por...
+A maioria dos projetos
+tem times pequenos.
+Eu vivi, tipo,
+quando eu vejo,
+eu vivi uma exceção,
+porque eu trabalhei muito tempo
+em consultoria.
+Mas a maioria dos projetos
+são times, pessoas...
+Poucas pessoas no time,
+muito projeto.
+Então, assim,
+mal terminou um projeto,
+já vai entrar o próximo,
+o projeto já começa atrasado, sabe?
+E daí, porque aí
+tornamos o quê?
+Pasteleiro de dados,
+bombeiro de dados,
+não um engenheiro de dados
+ou cientista de dados.
+Todo mundo é pasteleiro.
+E eu vou dizer pra você,
+é tão comum, né?
+Muito comum.
+Mas aí, o que é?
+É a nossa responsabilidade também.
+Então, assim,
+eu também acho que
+é a nossa responsabilidade.
+Eu acho que muitas vezes,
+por exemplo, o Rafael.
+O Rafael é meu...
+Ele faz o double check de tudo,
+mas ele não fica dando pitaco
+de como é que eu acho
+que vai ser o desenvolvimento.
+Então, tipo assim,
+se eu falo ao Rafael,
+vai demorar duas semanas,
+ele vai reclamar,
+vai falar,
+pô, tu não consegue fazer
+em uma semana.
+Eu vou falar,
+não, não dá.
+Aí ele aceita.
+Tá ligado?
+Aí eu também acho que
+cabe um pouco a gente,
+quando for fazer estimativa,
+já colocar a parte de qualidade.
+Então, tipo assim,
+pô, vi um negócio no Luciano
+lá que o Pandera é legal.
+Peguei um projeto de Python,
+não tem Pandera,
+tu tem a obrigação
+de levantar a mão e falar,
+mano, ó,
+como é que a gente vai validar input?
+Como é que a gente vai validar output?
+Como é que a gente vai validar
+a esquema de tab em ela?
+Aí eu quero falar no DBT,
+aí tu fala, beleza,
+mas o DBT ele valida só no final.
+E lá no início,
+quando o cara ligou o Spark lá,
+quando o cara ligou o Databricks,
+vai deixar processar todo o Databricks?
+Aí eu não falo,
+não, falou, pô, tá errado.
+Tá ligado?
+Tipo, eu vou te falar,
+quando eu trabalhava lá com,
+não vou falar a empresa aqui,
+aquela empresa do refrigerante vermelho, né?
+Mano, era 20 mil
+que a gente gastava de AWS por dia.
+Nossa.
+Tá ligado?
+Tipo, como é que tu vai errar isso
+pra no final tu falar,
+ih, processei errado.
+Se a gente fizesse isso,
+você tinha demitido, tá ligado?
+Tipo, eu não podia processar
+um negócio que tu sabia
+que era errado, cara.
+Uma dúvida de hora,
+eu sei que o pessoal
+vai perguntar mais coisas aí,
+mas aproveitar da hora...
+Não, mas hoje é mais leve,
+meio dia e meio,
+a gente vai...
+E aí eu vou até fazer um ponto com vocês.
+Afinal, só pra te adiantar,
+semana que vem o Fábio
+vai dar as de orientação a objeto,
+que é muito boa, tá bom, pessoal?
+Quem estiver vindo de casa,
+próxima semana vai ser inteiro
+com o Fábio passando orientação a objeto,
+e eu vou me concentrar
+em tirar todas as dúvidas
+Então, assim, quem tiver dúvida,
+coloca na plataforma,
+manda pra mim em DM,
+de qualquer coisa, tá bom?
+Pô, poeta, não sei o que,
+manda que eu vou melhorando isso
+pra estar todo mundo junto, tá bom?
+Então, vou estar tirando as dúvidas aqui,
+mas se eu não conseguir tirar todas,
+pra gente respeitar hoje o horário
+pra fazer o sorteio,
+eu me responsabilizo na semana que vem
+respondendo todo mundo, tá bom?
+Pô, então, coisa rápida
+da minha última pergunta.
+Agora, sobre hora de consultoria.
+Eu, por exemplo,
+eu trabalhei sempre em serviços,
+sempre em empresa.
+Depende, depende.
+Não sei te falar, Gustavo.
+Depende muito.
+Mas, não, a minha pergunta,
+minha pergunta, na verdade, é
+o cálculo que é feito
+da pessoa, por exemplo,
+no seu caso,
+agora que você tem uma consultoria própria,
+o cálculo que você faz
+pelo esforço pra fazer uma tarefa,
+por exemplo, de uma task,
+além do nível, né?
+Porque pelo nível,
+o júnior faz em um tempo,
+o pleno e assim por diante.
+O que é o mais complexo
+no planejamento de negócio
+que pra você,
+como agora um líder, né?
+Não mais um programador, né?
+Agora um líder,
+tem pra planejar
+e falar pro cliente,
+olha, vou precisar de tantas
+as pressas a task
+usando um sênior,
+pleno e um júnior.
+Normalmente eu cobraria,
+só pra te dar essa resposta,
+eu cobraria um dinheiro já.
+Tá bom?
+Porque, assim,
+é o segredo de você ter uma consultoria.
+Tipo, eu trabalhei 10 anos
+em consultoria.
+Essa atividade de planejar
+é normalmente onde entra o arquiteto,
+onde entra o líder.
+Porque qual que é o desafio?
+E aí fica até o corte aí.
+Mas não é o problema,
+é o escopo do projeto.
+É muito fácil falar o que você vai fazer.
+O cara tem que pensar
+fora do escopo e nas premissas.
+Então, tipo assim,
+o que eu tenho que fazer
+como um líder
+é fugir de roubada.
+Tá ligado?
+Tipo assim,
+eu converso com um cara
+há 5 minutos
+e eu já sei qual o nível de roubada.
+O que vai ser roubada
+que eu falo é tipo,
+ah, sistema legado,
+que ninguém nem sabe
+como é que funciona.
+Então vai chegar num cliente
+e ele vai falar
+que não tem nada de segurança.
+Que você vai ter que fazer
+a infra dele.
+Que, por exemplo,
+não tem git.
+Que, cara,
+tem muito dado
+que ele não tem sistema
+de desenvolvimento.
+Então tem um cheque,
+se não tiver problema,
+o desenvolvimento é muito fácil.
+O problema é que
+todo projeto tem problema.
+Só que você não pode pegar
+só problema.
+Tem que escolher 1, 2, 3, entendeu?
+Até 3 dá.
+E tentar encurtar o projeto
+para ficar com menos riscos.
+Mas, mano,
+você é 10 anos
+e não tem um resumo
+em 1 minuto, tá bom?
+Beleza, beleza.
+Tá bom?
+Assim, acho que é
+experiência, Gustavo.
+Tipo, a parada é
+eu tive um diretor,
+eu só acho que eu tive
+diretores muito bons
+que eu aprendi há muito.
+Aí ele falou assim,
+para a minha primeira proposta
+comercial que eu fiz.
+Ele falou, cara,
+você só colocou escopo.
+Escuta a palavra
+que ele falou para mim.
+Ele falou, cara,
+qualquer idiota
+sabe escrever um escopo
+de proposta.
+Qualquer idiota
+sabe escrever um escopo
+de proposta.
+Engenheiros tem que escrever
+fora de escopo e premissa.
+Porque todo mundo
+sabe prometer tudo.
+Então, tu pega assim
+as propostas,
+elas são todas iguais.
+Todo mundo promete tudo.
+Vou fazer o DW todo,
+vou fazer o negócio todo,
+vou fazer o negócio todo,
+sou fodão.
+Só que aí,
+se não tiver documentação,
+se não tiver ambiente
+de desenvolvimento,
+se quebrar o banco
+lá no meio do teu trabalho,
+tu vai ser responsável
+por isso, é foda.
+Mas bora lá
+para as outras perguntas aí.
+Dá para instalar o PyEnvy
+já tendo uma versão
+do Python instalada?
+Dá.
+Qual momento eu tenho
+que instalar o PyEnvy
+no meu projeto?
+Quem sabe?
+Qual?
+Vai lendo aí.
+Não está vendo nada essa.
+Mas qual o momento
+devo instalar o PyEnvy?
+E alguém sabe responder?
+Quando for definido ali
+o tipo de...
+Agora.
+Quando for definição
+do projeto ali.
+Isso.
+É agora.
+Projeto em andamento?
+Agora.
+Primeira coisa que você tem que fazer
+é parar e fazer isso.
+Tá bom?
+Porque isso demora 15 minutos.
+Então projetos em...
+Que vão iniciar.
+Projetos que vão iniciar.
+Agora também.
+Por quê?
+Isso aqui você faz em 15 minutos.
+Não é muito difícil não.
+Tu vai pegar ali.
+Como é que é o passo a passo disso?
+Tu vai vir.
+Vai chegar aqui.
+Verificar.
+Quem são as dependências?
+E qual versão do Python?
+Aí você fala.
+Pô, Luciano.
+Beleza.
+Peguei um projeto em produção aqui.
+Vamos lá.
+Fui contratado.
+Vou pegar um projeto legado.
+Tá bom?
+Deixa eu pegar um projeto meu antigo.
+Que eu não coloquei PyEnvy.
+DuckDB Showcase.
+Será que esse eu botei?
+PyEnvy botei.
+Vamos pegar o mais antigo meu ainda.
+Cara, eu faço muito projeto, né?
+Gustavo, vai falando aí.
+Que eu vou tentar achar um projeto meu
+que não tem.
+Excel to Streaming.
+É justamente isso.
+Há quanto tempo que você está usando
+os seus projetos o PyEnvy
+para virtualizar os versionamentos de aplicação?
+Desde que ele foi lançado.
+Tipo assim, a gente sempre tem que...
+A parada é o seguinte.
+Sempre quando você vai fazer deploy,
+você escolhe a versão do Python.
+Então, tipo assim,
+você não consegue fazer deploy
+sem escolher essas coisas.
+Só que aí o que você faz,
+muitas vezes, você só vê isso
+na hora que você vai fazer o deploy.
+Então, acho que desde que eu comecei
+a trabalhar com sete anos.
+Porque, tipo assim,
+ou você vai fazer no acaso...
+Deixa eu achar algum aqui.
+Deixa eu pegar...
+Projeto Print Pattern.
+Ó, esse aqui não tem nada.
+Vamos lá, cara.
+Projeto...
+Beleza.
+Projeto de Jupyter Notebook
+meu há dois anos atrás.
+Beleza.
+Esse projeto não tem nada.
+Fiz um triângulo
+com Jupyter Notebook.
+Imagina que esse é o projeto
+que eu cheguei na minha empresa.
+Ele não tem...
+Só de ver os arquivos,
+ele não tem nada.
+Não tem PyEnvy.
+Primeira coisa que você vai ter que vir
+é pegar ele aqui.
+Posso até pegar
+e fazer um fork dele.
+Vou forcar esse projeto.
+Eu não sei se consigo criar
+o fork do meu mesmo, né?
+Criar o fork,
+fork, fork, repositório.
+Ó, deixa eu pegar aqui.
+Abri meu VS Code.
+Meu Bash.
+Abri tudo.
+Quem nunca tinha mexido...
+Acho que vocês nunca mexeram
+tanto Bash
+como vocês estão mexendo aqui agora, né?
+Pelo menos...
+Ó, tô perdendo o medo
+da tela preta, né?
+LS, CD, Workshop.
+Workspace, CD, LV, Galvão Filho.
+LS.
+MKDIR, definindo, projeto.
+CD, definindo projeto.
+Vem git, clone.
+Vou entrar no VS Code.
+Então, beleza.
+Entrei no meu projeto
+da minha empresa aqui.
+Um projeto que já tá em andamento
+e não tem PyEnvy.
+O que vai acontecer
+quando eu entro nesse projeto aqui?
+Pelo menos ele tá na frente
+de muito projeto já, né?
+Porque ele já tá no git.
+Se o projeto não tiver git,
+a primeira coisa que você tem
+que fazer é git.
+Você vai entrar aqui.
+Eu entrei na pasta errada.
+Beleza?
+O que acontece
+quando eu entro num projeto
+que não tem PyEnvy?
+O que acontece
+quando eu entro num projeto...
+Qual vai ser a versão
+do meu Python aqui?
+Primeira coisa
+seria verificar
+a versão do Python?
+Qual é a versão
+do meu Python aqui?
+Já que tiver instalado
+no global, né?
+No meu computador.
+Então, qual que é o problema aqui?
+A gente vai ter aqui...
+eu vou ter aqui
+computador dev 1
+computador dev 2
+vou falar que é um projeto
+que tá em produção.
+Vou ter o ambiente de prod.
+O problema de eu não ter definido
+o PyEnvy
+é que
+aqui tem um Python global
+dessa máquina
+global dessa máquina
+global dessa máquina
+global dessa máquina
+vou mostrar um...
+Mas o VEnvy não tá no git.
+Não tá.
+Calma que a gente vai chegar lá.
+Ainda bem que ele não tá.
+Beleza?
+Ó.
+Qual que é o problema
+disso aqui?
+Às vezes
+esse aqui é o famoso erro
+na minha máquina
+funciona.
+Porque o Python
+ele tem uma versão
+que tá definida
+então tipo
+o ambiente de desenvolvimento
+se for um ambiente
+que tá em produção
+hoje ele tem uma versão
+do Python.
+Você pode entrar
+via SSH lá
+dar um Python versus
+vamos dizer que é um
+3.10 ali
+ou é muito velho
+tá ligado?
+É um 2.7
+Isso aí é muito legado
+tá ligado?
+Se você tem que trabalhar
+em banco
+você deve ter aqui
+2.7
+talvez banco
+financeira
+hospital
+hospital
+aqui é red flag
+tá ligado?
+Red flag
+O problema é que
+quanto mais afastado
+da versão 3.2
+a gente tá
+mais risco
+a gente vai ter
+se não escolher o Python
+em vir certo.
+Então vamos dizer que aqui
+o dev
+sou eu
+Luciano
+eu tô usando essa.
+se eu faço um código
+aqui no meu projeto
+e dou
+ele pra produção
+com um código
+de 3.12
+e ele chegar aqui
+o que vai acontecer?
+Vai acontecer igual
+essa mulherzinha aqui
+quebrar a aplicação
+humm
+hoje é o dia
+do
+do deploy on Friday
+né?
+Então
+acontece exatamente
+então sempre que vocês
+vêem esse meme aqui
+é exatamente isso
+é um projeto
+que não tem
+payend
+aí você contrata
+o cara novo
+contrata um estagiário
+normalmente o estagiário
+faz isso
+aí o estagiário nem se preocupa
+com a versão do Python
+porque normalmente
+tem o dev velho
+dev sênior
+cansado já
+tá ligado?
+É o dev que
+quando esse projeto começou
+2.7 era novidade
+a máquina dele
+é o 2.7
+contratou um cara
+com uma máquina diferente
+fez o deploy aqui
+aí tu fala
+Luciano
+mas é possível
+explodir
+um projeto?
+Ô Luciano
+como é que você fala
+com tanta propriedade disso?
+Quero ver quem sabe
+porque você fala isso
+com tanta propriedade disso
+já sofreu né
+com isso
+cara
+quando eu falo assim
+é coisa de estagiário
+porque eu já fui estagiário
+pessoal
+já derrubei um projeto
+com um comentário
+deixa eu mostrar aqui
+que eu fiz um artigo
+desse daqui
+exibir todos
+publicação
+como é que eu acho
+as coisas do LinkedIn
+nossa achar as coisas
+do LinkedIn é muito ruim
+eu não acho as minhas coisas
+artigos
+não é artigo
+é documento
+último dia
+bootcamp
+chá chá chá chá
+chá chá chá
+chá chá
+ó
+tô terminando aqui
+vou te mostrar
+aqui
+eu vou botar depois
+pra vocês verem aqui
+ó
+tá quase chegando
+já aqui
+caraca
+quanta coisa que eu posto
+é Flow
+Black Friday
+Python
+programação
+deploy
+tá chegando
+tá chegando
+caramba
+quanta coisa
+pô
+tá tudo
+oh
+derrubei
+achei
+ah aqui
+foi o primeiro tutorial
+que eu fiz
+de GitHub Actions
+há 7 meses atrás
+deixa eu achar
+derrubei todo o sistema da empresa com comentário
+essa foi a minha primeira como estagiário
+então quando eu falo essa coisa de estagiário
+não é desmerecendo do estagiário
+mas é porque eu já fui estagiário
+e a melhor coisa do ser estagiário é que você pode fazer merda
+sem ser demitido, tá ligado?
+porque tu é estagiário
+eu tô falando, Luciano, como é que tu estima isso?
+eu olho tudo que eu fiz errado quando era estagiário
+penso, já derrubei uns 20 sistemas
+eu tava contando pro Gita
+o primeiro deploy que eu fiz
+sabe quanto tempo durou o primeiro deploy que eu fiz?
+foi por aí que eu fiz sozinho, nunca tinha mexido com Azure e com nada
+chuta, durou uma hora
+fiz o deploy e uma hora caiu o sistema
+porque eu não sabia de nada dessas coisas
+botei lá pra fazer, só quero estagiário
+aí não fui demitido
+mas aí foi isso, pra vocês terem uma ideia
+no Python 2.7 não pode acento
+então, poxa, fiz um comentário
+o servidor de produção era um Python 2.7
+o meu era um 3 alguma coisa
+tu faz o commit, não tinha teste
+não tinha nada verificando, dá um erro, acabou
+deu ruim a aplicação
+tá ligado? tipo assim, por isso que eu falo
+qual é a hora que eu tenho que ver o payenv?
+agora, tá ligado?
+tipo, a primeira coisa que você tem que fazer
+é verificar a versão do seu projeto
+então, tipo assim, como é que você descobre a versão do seu projeto?
+você vai no seu ambiente de produção e checa lá
+aí vamos dizer que é o 3.2
+vamos dizer que tem, que é novo
+o que tu vai fazer agora?
+pegar esse projeto aqui
+vai vir aqui, touch
+então pode vir aqui, quer ver?
+payenv, local
+e qual? isso é até o 3.2.1
+fez isso? já criou isso aqui
+aí já vai vir em git, add.git, commit
+aí pode botar aí
+dois pontos
+build
+build
+adicionar
+definir versão do python
+para 3.2.1
+um excelente commit
+tem um arquivo só
+beleza
+meu projeto já tá definido
+10 minutos
+tá ligado? tipo
+então, como é que vai fazer?
+vai ser a primeira versão que tiver do seu ambiente de desenvolvimento
+por quê? porque eu não quero fazer nada
+eu só quero definir
+se não tiver definido um projeto que não tá
+você vai tentar utilizar a mais nova
+preferencialmente 3.12
+aí vai olhar em todas as bibliotecas
+que você quer tentar usar
+tá bom?
+se encontrar uma que não dê 3.12
+dê 3.11
+você usa 3.11
+não encontrou uma que pega 3.11
+pega 3.10
+vai escolher qual?
+vai botar uma hat flag
+porque
+essa biblioteca não tá sendo atualizada há dois anos
+será que é uma biblioteca que você quer botar no teu projeto?
+pode botar
+mas tem que pensar nisso
+o ideal é sempre pegar bibliotecas que estão atualizadas na 3.12
+que isso mostra que ela é uma biblioteca que tá sendo bem usada
+tá tendo manutenção
+isso é uma coisa que você tem que fazer no início do projeto no primeiro dia
+vai chegar no kick-off
+você tem que ter definido tudo isso já
+20 minutos de Paeve
+acho que eu nunca falei tanto de Paeve
+vai, outra pergunta
+fez sentido?
+Gustavo, todo mundo entendeu?
+que momento eu tenho que definir o Paeve?
+agora
+tá bom?
+agora
+agora
+primeiro é
+o meu projeto não tem Paeve
+vai chegar na semana que vem
+no Scromaster
+vai falar Scromaster
+o Rafael Pio
+ele adora ser Pio
+ele é o cara que faz trelo
+tá ligado?
+meu Deus, eu odeio trelo
+não sei se vocês gostam
+vocês gostam de trelo?
+odeio, vejo trelo
+meu Deus, calafreou
+mas assim, você vai falar
+pessoal, na minha treine
+Rafael
+
+---
+meu projeto não tem Paeve
+o Luciano falou que tem que ter Paeve
+você me dá 3 horas
+pra eu fazer atividade do Paeve?
+senão vai cair o projeto
+Rafael
+então aprova 3 horas
+pra eu definir a versão do meu pai
+então aqui
+3 horas de atividade
+você também aprova?
+muito tempo?
+cara, senão vai cair tudo
+eu preciso de 3 horas
+tá, então vou fazer o seguinte
+você é capaz de fazer mais rápido
+sei que eu sou
+mas você precisa ter uma qualidade
+muito boa dos seus produtos
+então
+3 horas então, Rafael
+tá bom?
+e eu vou querer um aumento
+Rafael
+tô brincando
+vou pedir um aumento
+deixou eu entregar primeiro em 3 horas
+então assim, ó
+não vou perder essa parada
+de 3 horas
+tá, você tá ligado?
+que eu falei que é 3 horas
+então já vai fazer
+a primeira coisa que você vai fazer
+é definir o Paeve
+é nessa ordem do checklist
+do
+vai da merda
+git
+Paeve
+Poetre
+---
+vai, Renan
+ó Luciano
+lá naquele vídeo do setup
+que tu fez lá no início
+a gente baixa o Python
+depois do Paeve
+com o Paeve
+setado
+local e global
+se eu desinstalar
+aquele primeiro Python
+continua rodando normal
+dá ruim
+dá ruim no Python
+dá ruim
+deixa aquele Python
+só pra aí
+independência daquele arquivo
+tipo assim, por exemplo
+eu vou te falar uma coisa
+eu não sei
+do Windows
+mas no Linux
+e no Mac
+por que ele vem
+instalado?
+porque o sistema
+usa aquilo
+pra outras coisas
+então, por exemplo
+o Windows
+é o único que você tem
+que instalar o Python
+o Mac
+e o Linux
+já vem com o Python instalado
+então assim
+tipo, eles usam
+pra outras coisas
+então deixa aquela versão
+pra qualquer coisa
+é só você não usar
+você sempre vai usar
+uma versão do seu projeto
+com o path do Paeve
+tá bom?
+aí tipo assim
+vai ter aquela
+aquela que você não usa
+pra nada
+e todas as outras
+do seu Paeve
+aqui, né?
+se eu venho aqui
+um Paeve
+list, né?
+Paeve
+Paeve
+help
+Paeve
+h
+g
+paeve
+paeve
+versions
+aí, boa
+então, ó
+tô aqui com a minha
+do Paeve
+tá bom?
+então, tipo
+Python
+versions
+acho que também tem, né?
+Python
+é
+tipo, não tem problema
+tipo, você ter mais de uma
+de uma versão, não
+tá bom?
+não precisa deletar, não
+qual Linux você usa?
+só por curiosidade
+cara, faz muito tempo
+que eu não uso Linux
+eu uso Mac, meu
+pessoal
+faz tempo que eu não uso Linux
+se a gente desenvolve
+um projeto
+com o Poetry
+pois
+quiser rodar
+com o ambiente virtual
+do PIP mesmo
+isso é possível?
+sim, você vem assim
+tem que criar
+aquele requirement
+com o Poetry
+se liga
+vamos pegar um projeto
+que usa Poetry
+Poetry
+acho que o Paidentic
+usa Poetry
+boa tarde, senhores
+boa tarde, Cabanet
+tudo bem?
+é, tudo certo
+bem é quando
+vocês fazem
+as lives
+eu tenho sempre
+uma reunião
+com o cliente
+só pra terminar
+de responder aqui
+Cabanet
+um minutinho aqui
+senão vou perder
+o raciocínio
+ó, esse aqui
+o Paidentic
+ele só usa
+o arquivo
+do Poetry
+provavelmente
+olha que legal
+isso aqui é interessante
+eu sempre
+no meu
+quando eu vou
+o Poetry
+eu dou
+enter
+aqui
+ele teve que
+colocar e fazer
+uma edição melhor
+ele usa o PDM
+ele não usa nem
+o Poetry
+mas o que você
+pode fazer
+é a mesma coisa
+você vai no seu
+ambiente de produção
+vamos dizer que
+aqui é um ambiente
+de produção
+ele usa
+Poetry
+vou dar um
+Poetry
+aqui
+aí vou vir aqui
+um Poetry
+é de pandas
+Poetry
+quase que fiz besteira
+Poetry
+é de pandas
+beleza
+vou adicionar aqui
+git
+add
+git
+commit
+build
+adicionar
+arquivo
+de
+dependências
+dependências
+pyproject
+pyproject
+ponto
+tomelo
+isso é uma coisa
+que tem que
+defender também
+no início
+do projeto
+a gente vai
+usar qual
+instalador
+mas se eu
+quiser
+se eu
+faço
+o pip list
+ele lista
+para mim
+todas as bibliotecas
+então se eu
+quiser
+eu posso
+continuar
+fazendo
+pip
+freeze
+requirements
+.txt
+e ele cria
+eu escrevi
+freeze errado
+criou esse arquivo
+aqui para mim
+aí eu posso
+vir aqui
+git
+add
+requirements
+git
+commit
+build
+adicionar
+lista
+de requirements
+para
+prod
+vai fazer
+deploy
+e se quiser
+fazer até o seguinte
+tipo
+vamos dizer
+que
+no meu negócio
+vamos pegar
+aqui
+poetry
+add
+mkdocs
+opa
+besteira
+que eu fiz
+poetry
+add
+mkdocs
+mkdocs
+é uma biblioteca
+muito boa
+quem gosta
+de mkdocs
+muito boa
+mas
+eu não preciso
+do mkdocs
+no meu deploy
+né
+então opa
+eu posso vir aqui
+pip
+freeze
+requirements
+e eu deixo
+dois requirements
+no meu projeto
+um
+para o ambiente
+de dev
+ou um para o ambiente
+de prod
+porque no ambiente
+de produção
+não precisa estar
+rodando um negócio
+de documentação
+tá ligado
+negócio de documentação
+eu vou rodar
+num outro servidor
+depois
+da minha aplicação
+vai ser uma API
+vai ser alguma coisa
+não precisa ficar
+renderizando uma
+paginazinha
+eu não vou acessar
+de lá
+então a gente pode
+ter diferentes
+requirements
+um para o ambiente
+de dev
+um ambiente
+de prod
+se eu tiver
+tipo um
+um ambiente
+de v2
+um ambiente
+de v3
+lembra que isso aqui
+está me ajudando
+porque quando eu for
+pegar uma máquina
+lá na AWS
+na AWS
+eu tenho que configurar
+tudo isso
+ele pergunta para mim
+ele fala
+qual é a sua versão do Python
+vou ter que responder
+vou botar
+escolhe
+aí pode
+eu sempre coloco
+para alguém escolher
+para mim
+a chance
+é essa aqui
+se eu vou rodar
+na minha máquina
+um projeto
+que foi
+no caso
+feito com
+usando o Poetry
+ele vai buscar
+as dependências
+lá naquele ponto
+lock
+isso
+o Poetry
+quando você dá
+o Poetry install
+ele usa esse
+e esse aqui
+tá bom
+esse requirement
+seria só
+para um ambiente virtual
+usando o pip
+esse aqui
+se eu quero
+quiser usar o pip
+ou qualquer coisa
+porque tipo assim
+se eu for começar
+um outro projeto do zero
+eu posso fazer o pip
+install pandas
+mas eu posso vir em
+pip install
+r requirements
+dev
+aí ele vai instalar
+todas as bibliotecas
+daquele lugar aqui
+então tipo assim
+tanto o Poetry
+quanto o Pip
+eles fazem a mesma coisa
+a diferença é que o Poetry
+é mais moderno
+isso aqui
+o que tu prefere
+começar um projeto
+com isso
+que vai falar assim
+Renato
+foi contratado
+qual é a especificação
+do projeto
+isso aqui
+agora um desse aqui
+tá ligado
+quem tu tem que procurar
+a versão do Python
+a versão das bibliotecas
+que usa
+o requirement
+do pip
+ele joga tudo
+tá ligado
+porque ele pega
+as dependências
+das dependências
+mas vale a pena
+num projeto
+eu pôr
+como é que se roda
+com o Pip
+também ou não
+o que é mais implementado
+hoje
+o Poetry já é
+os dois
+os dois
+Poetry e Pip
+os dois são maduros
+tipo assim
+o líder do projeto
+tem que charar
+tem o V
+que é tipo Poetry
+porém mais rápido
+pelos testes
+é
+eu nunca usei esse o V
+eu uso Poetry
+Pip
+tem vários
+tem tipo assim
+isso aqui não tem
+um preferido
+até pensei em fazer
+um tier list
+disso
+mas assim
+o importante é definir um
+é assim
+dois minutos
+chegou assim
+Rafael
+escolhe um
+Pip ou Poetry
+Poetry
+Pip
+vamos lá
+seja uma coisa
+que você não discute
+mas discute no início
+do projeto
+eles fazem a mesma coisa
+é um comando
+o outro só
+eu gosto do Poetry
+porque o Poetry
+é o recomendado
+você já me respondeu
+o que eu ia perguntar
+mais uma pergunta
+então
+vamos lá
+sobre as aulas aí
+tem dois minutos
+você precisa fazer
+um sorteio pontual
+se uma pergunta difícil
+eu não vou responder
+ó
+caramba assim
+tem que ser
+coisa sim difícil
+pra você ficar
+carimbado já
+bem
+eu vou ter que entrar
+aqui numa reunião
+com o gringo
+já falto
+daqui dois minutos
+boa
+boa reunião
+aí
+tá ligado
+todo mundo falando
+com o gringo
+até que eu vou ter
+uma reunião
+com o gringo
+hoje né
+é boato
+só
+fala aí
+decoreitor
+faz aí
+toda vez que a gente
+cria um decoreitor
+precisa importar
+aquela da
+punk tool
+a rap
+pra indicar
+que é um decoreitor
+quando você vai criar
+sim
+não como você vai importar
+mas quando você vai criar
+sim
+ou você pode criar
+o seu rapper
+tá ele tá perguntando
+disso aqui
+pra usar um decoreitor
+eu tenho que usar
+o rapper
+obrigatoriamente
+do python
+a parada é
+não
+não obrigatoriamente
+você precisa
+mas ele tem várias vantagens
+eu vou botar aqui
+pra tu ler depois
+aí depois tu vai falar
+pô se eu não quiser
+essas vantagens
+eu não uso
+mas fizeram coisas
+pra facilitar
+roda normal
+isso aqui é uma coisa
+que é uma funcionalidade
+que ele faz
+pra você
+porque qual que é a questão
+se eu jogo
+essa função aqui
+essa aqui
+acaba sendo caracterizada
+então quando eu
+eu posso chamar
+o docstring dela
+pra ver a documentação
+ela vai estar mostrando
+dessa aqui
+não dessa aqui
+essa aqui
+ela garante
+que eu não vou perder
+nenhuma função
+da área da minha função
+não
+então é uma segurança
+tá bom
+mas assim tipo
+essa foi uma coisa
+desenvolvida no python
+né
+então tipo assim
+todas essas coisas
+que são desenvolvidas
+no python
+tu consegue vir
+na documentação
+e aí tu vai
+acho que nem
+não era isso aqui não
+né
+mas aí tu consegue vir
+ó
+boa
+mais usa
+fala aí
+xará
+oi pessoal
+boa tarde
+boa tarde
+xará
+tinha feito uma pergunta
+aí nas mensagens
+aí mas eu vou
+replicar aqui
+cara você tem como
+explicar aí
+de forma resumida
+qual é o problema
+que esses decorators
+aí ele resolve
+né
+se for extenso
+cara a gente pode deixar
+pra outro momento
+certo
+não
+mais assim
+dois minutos
+e aí a gente
+realmente eu fiquei com dúvida
+em relação a isso
+tá
+a gente vai ter aqui
+prepara aí o corte
+editor
+beleza
+esse negócio
+faz seta muito feio
+aqui
+deixa eu dar um zoom
+aqui
+imagina que a gente
+tem uma etélica
+qualquer
+dá um exemplo
+de uma etélica
+ela pega
+pdf
+e transforma
+num banco
+oracle
+projeto que tem
+toda a empresa
+oracle
+assim é oracle
+oracle
+começa um pdf
+projeto de engenharia
+básico
+engenharia de dados
+básicos
+eu tenho um pdf
+que transforma em oracle
+vem aqui no
+e-mail
+que eu chego
+do júris brasil
+e eu tenho que colocar
+no meu
+dw
+ou premise
+tudo aqui
+é um arquivo python
+minha etélica vai ser aqui
+tudo feito em python
+blá blá blá blá
+tranquilo
+qual que é o desafio
+que a gente tem
+na vida real
+e aí eu falei
+tipo assim
+beleza
+eu gostei de log
+vou implementar o log
+qual o desafio
+que a gente tem
+na vida real
+o desafio da real
+é que isso aqui
+é uma etélica
+na vida real
+você vai ter
+o Fabio falando
+a gente tinha 33
+na coca cola
+qual é a maneira burra
+de implementar o log
+você vai pegar
+em cada um
+desses códigos python
+e implementar ele
+aí você vai ter
+um cara
+só para cuidar de log
+porque ele vai ter
+que entrar
+em cada projeto
+e implementar
+então o que você vai fazer
+você vai fazer
+um decorator de log
+você vai fazer
+um código log só
+vai chamar de
+log decorator
+toda a sua lógica
+o que é a sua lógica
+quando a gente fala
+é se você vai usar
+o centre
+se você vai salvar
+o critical
+se você quer
+colocar o usuário
+beleza
+toda essa lógica
+você vai fazer
+nesse arquivo só
+e nos outros
+você vai fazer o que
+você vai decorar ele
+porque eu quero
+que toda a função minha
+gtl
+tenha a função
+do log
+do decorator
+só que eu não quero
+ter que desenvolver
+aí qual que é a vantagem
+de eu usar um decorator
+é que não quero mais
+usar o centre
+quero usar o
+qual outro lá
+que vocês falaram
+que é melhor que o centre
+centre demora duas horas
+quero usar o que paga
+data dog
+data dog
+ele recebe na hora
+data
+data dog
+só que custa
+200 mil reais
+200 mil
+centre demora
+duas horas
+e é de graça
+e aí
+qual que você escolhe
+uma decisão
+que você vai ter que tomar
+de arquitetura
+aí vamos dizer que você mudou
+data dog
+área de negócio
+tá com dinheiro
+pá
+que é recido
+na hora ali
+beleza
+mas se eu tivesse feito
+daquela maneira
+eu ia ter que mudar
+em 33 códigos
+aqui eu vou mudar
+só aqui
+nessa classe
+que vai afetar
+todos os que estão decorados
+posso fazer só
+pra isso
+pra dog
+não
+o decorei
+é qualquer coisa
+que a gente chama
+de bibliotecas
+que são úteis
+que são pacotes
+que a gente vai usar
+em vários projetos
+então sei lá
+log
+pandera
+pydentic
+airflow
+fast
+api
+tudo que é moderno
+você acaba usando
+decorators
+aí muitas vezes
+a gente usa
+se você fala
+cara já trabalhei
+com qualquer um desses aqui
+você já trabalhou
+com decorators
+sem saber que é decorators
+então o python
+você também pode criar o seu
+quais
+o que você quiser
+aí você pode tipo assim
+fazer qualquer coisa
+tá ligado
+você pode tipo assim
+eu quero criar um decorator
+do pipeline importante
+pipeline importante
+vai ser uma função
+que vai ser o seguinte
+sempre quando eu rodar
+uma ETL específica
+ou melhor ainda
+vou fazer um
+sabe um decorator real
+power bi
+atualizar
+você vai fazer o seguinte
+eu tenho um power bi
+aqui na empresa
+e eu tenho que atualizar ele manual
+essas três pipelines aqui
+quando eu tiver aqui no oracle
+eu quero que atualize o power bi
+aí eu vou fazer o seguinte
+eu vou ter um código só
+que atualizar power bi
+toda a ETL que eu tiver
+eu vou botar aqui
+esse decorador
+provavelmente vai ter um
+parâmetro
+que vai ser
+o meu pbx
+pbx.pbx
+né
+é power bi pbx né
+pbx né
+arquivo
+vai ser arquivo
+jornada pbx
+aí vai ter um decorator
+chamado
+vai ter um decorator
+chamado
+atualizar
+dash.py
+aí qual é a vantagem
+de eu ter um decorator
+atualizar dash.py
+porque vai dizer
+que depois eu quero
+utilizar o
+quelic
+do nosso general
+eu consigo fazer
+uma transferência
+de power bi
+pro pelic
+em uma tarde
+quanto tempo eu preciso
+demorar ali na tua empresa
+pra mudar o beta bicho
+eu mudo em um dia
+aqui eu posso botar
+as validações
+o decorador
+é tudo que você vai usar
+mais de uma vez
+em várias
+pensa que a gente é engenheiro
+de dados
+a gente tem que se multiplicar
+então se você tem um código
+que você usa mais de uma vez
+o decorador pode ser uma solução
+e onde você vai usar
+onde você quiser
+é a criatividade
+vamos fazer o sorteio
+respondido?
+respondido
+cara, muito obrigado
+um abraço
+nada, faz sentido?
+fez sentido?
+ó, mas eu vou te falar
+esse do Fábio
+ele era super contra
+de fazer isso
+porque ele falava
+cara, na nossa equipe
+tem sênior que não usa decorador
+e não sabe
+tu vai falar
+pras pessoas de duas semanas
+o que é decorador
+por isso que a gente tem que fazer
+porque a gente tem que falar
+pras pessoas que elas tem que usar
+então tipo assim
+você pode não entender nada
+pode acontecer
+mas chega depois
+aplica
+aplica
+tipo, porra
+e vai começando
+e tipo assim
+isso que eu falei
+as pessoas usam
+quem não usa Airflow?
+todo mundo usa Airflow, cara
+duvido que metade das pessoas
+que usam Airflow
+sabe o que é um decorador
+ele coloca o arroba ali
+arroba deg
+porque ele decorou
+o decorator é o decorou, né
+decorou que tem que botar
+o arroba deg
+o que é aquele arroba deg?
+aí depois a empresa dele
+muda pro degster
+ele se fudeu
+ele virou um apertador
+de ferramenta
+mas beleza
+bora sortear
+nossa, eu fico
+eu gosto que a gente
+põe perguntas assim
+na lata
+mas é difícil, mano
+perguntas difíceis de vocês
+o outro perguntou ali
+caralho
+perguntas difíceis de vocês
+são boas, hein
+pessoal
+vamos sortear agora
+responder e entrar na live
+quanto tá o tempo de sorteio?
+posso fazer mais uma pergunta?
+pode
+você já falou do
+do
+do
+do
+do
+do
+do
+rapidamente
+foi o
+workshop inteiro
+de DataQuality
+não consigo
+tem que assistir o DataQuality
+todo mundo consegue assistir
+que eu acesse na plataforma
+mas assim
+ele é um decorator
+vou conseguir falar
+porque eu sou pica, né
+vamos lá
+pergunta difícil de 4 horas
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+ovo, muito melhor que você, muito melhor que qualquer um
+aqui, fez o seguinte. Falou, vou dedicar a minha
+vida a fazer a melhor parada de qualidade
+possível. Aí ele foi e contratou
+mais 50 caras, que são pica.
+Se você colocar um arroba
+em qualquer código seu,
+automaticamente tu vai pegar esse código inteiro
+que ele fez e aplicar a qualidade
+na tua empresa. Isso é o pai dente que o pandeira.
+Com um arroba que tu coloca
+na tua função, tu já não se preocupa
+com contrato de dados, não se preocupa com input,
+não se preocupa com validação.
+Esse eu resumo. Deu pra responder?
+Entendeu? Deu um motivo de assistir
+quatro horas de live lá? Porque você tem direito, você pode,
+você vai chegar e no final de semana vai ver aquela live lá.
+Sim, sim, vai ser
+ao vivo, mas realmente porque ele é
+bem denso. Pega, mas pensa
+nesse daí. Pensa o seguinte também, por que
+utilizar o pai dente? Ele
+é o mais utilizado de Python.
+Mais dois minutos pra escrever a camisa, hein, pessoal? Vamos lá.
+Ele é utilizado por 400 mil
+pessoas. Pensa o seguinte,
+tem 400 mil desenvolvedores que usam
+isso hoje. Se você usa essa ferramenta
+bem, é uma maneira de você poder
+trabalhar com 377 mil pessoas.
+Tá ligado? Tipo, pessoas que usam no dia a dia.
+Então, assim, muitas pessoas usam isso hoje.
+Tá ligado? Então, tipo, ó,
+e é uma, e tipo,
+é o mais utilizado de Python.
+Por quê? O pai dente que pensa no seguinte,
+já viu falar em JavaScript
+e TypeScript?
+E você viu que todo mundo migrou do JavaScript pro TypeScript?
+É mais ou menos isso.
+O pai dente que tipa o seu
+Python. Só que é diferente. Aí foram
+estratégias diferentes aí. Mais um minuto aí
+pra gente sortear a camiseta. Pode ir ligando a câmera
+pra gente tirar foto. Mais um minuto.
+Vai colocar, ó,
+faz o seguinte, ó, nessa ordem.
+Git
+Piedentic.
+Essa é outra coisa também.
+Quando o pessoal tirando o último minuto, não tenta implementar
+tudo de uma vez no seu time.
+Senão tu morre.
+Tá bom?
+Escolhe.
+Faz o seguinte.
+O teu time não tem nada.
+Cheguei num projeto muito ruim. Já peguei isso várias vezes.
+Cheguei num projeto que, caraca, o que salva ali?
+As pessoas, tá bom?
+Então, tipo assim,
+cada semana tu tenta implementar uma coisa
+e conquista isso.
+Senão tu vai ser só o dev maluco, tá ligado?
+Vai chegar lá.
+Pessoal, tô cheio de ideias.
+Quinze ideias.
+Aí eu trabalhei num lugar que a gente chamava que tinha
+o mural das grandes ideias
+que nunca foram implementadas.
+Então sempre quando alguém chegava com uma ideia,
+assim, ó, tô com uma ideia aqui.
+A gente falava, aí, bota mais ali no mural das ideias
+que nunca vão ser implementadas.
+Não adianta. Só trazer ideia, tá ligado?
+Então, tipo, ó, pessoal,
+vou botar o Pai Envy aqui
+nessas duas semanas.
+Hoje eu vou ser o responsável.
+Alô, Sênio,
+eu vou ser o responsável por isso,
+vou mostrar o valor pra todo mundo aqui,
+vou me responsabilizar pra ver isso, não sei o que, não sei o que.
+E o Pandera?
+O Pai Envy é mais importante que o Pandera.
+Semana que vem tu faz essa briga, tá ligado?
+Não...

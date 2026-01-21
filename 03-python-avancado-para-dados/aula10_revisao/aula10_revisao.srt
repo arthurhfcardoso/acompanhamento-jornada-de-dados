@@ -1,0 +1,7515 @@
+1
+00:00:00,000 --> 00:00:01,060
+Olá, gente, bom dia.
+
+2
+00:00:02,120 --> 00:00:03,400
+Opa, bom dia, Luciano.
+
+3
+00:00:04,040 --> 00:00:04,540
+Tudo bem?
+
+4
+00:00:05,440 --> 00:00:06,060
+Tranquilo, cara.
+
+5
+00:00:07,180 --> 00:00:07,580
+Tranquilo.
+
+6
+00:00:07,700 --> 00:00:08,640
+É sexta-feira, né?
+
+7
+00:00:09,260 --> 00:00:10,500
+Pô, sexta-feira, né, mano?
+
+8
+00:00:11,140 --> 00:00:11,780
+Caraca, mano.
+
+9
+00:00:11,880 --> 00:00:13,840
+Pô, é sexta-feira, dia de tomar sorvete.
+
+10
+00:00:13,920 --> 00:00:16,680
+Hoje eu vou jantar com a patroa.
+
+11
+00:00:17,740 --> 00:00:19,780
+Dá aquela relaxada, espairada da semana.
+
+12
+00:00:20,140 --> 00:00:20,980
+Pô, é bom, né?
+
+13
+00:00:21,460 --> 00:00:22,520
+Eu não, eu tô ferrado.
+
+14
+00:00:22,680 --> 00:00:25,640
+Se no último workshop lá deu a ideia do Pandera lá,
+
+15
+00:00:25,760 --> 00:00:27,560
+eu tô me ferrando aí pra entender bem.
+
+16
+00:00:27,560 --> 00:00:30,460
+Faz parte, cara.
+
+17
+00:00:30,580 --> 00:00:31,460
+Você também é bom, também.
+
+18
+00:00:31,940 --> 00:00:33,400
+Mas é legal lá o Pandera lá.
+
+19
+00:00:33,600 --> 00:00:35,040
+Cada hora estudando Pandera,
+
+20
+00:00:35,160 --> 00:00:37,660
+tu economiza quatro horas corrigindo bug, cara.
+
+21
+00:00:38,220 --> 00:00:39,280
+Pior que é bem isso mesmo.
+
+22
+00:00:39,280 --> 00:00:41,960
+E as possibilidades com ele lá é muito grande.
+
+23
+00:00:42,100 --> 00:00:43,240
+A conta vai chegar.
+
+24
+00:00:43,440 --> 00:00:44,080
+Essa é uma parada.
+
+25
+00:00:44,220 --> 00:00:44,980
+A conta chega.
+
+26
+00:00:45,080 --> 00:00:45,800
+Você pode escolher.
+
+27
+00:00:46,960 --> 00:00:48,540
+Prevenir ou remediar.
+
+28
+00:00:51,000 --> 00:00:52,520
+Pô, prevenir sempre, né?
+
+29
+00:00:52,720 --> 00:00:57,320
+Ó, o Rafael, ele é o cara do BI, tá ligado?
+
+30
+00:00:57,320 --> 00:00:59,140
+Tipo, mas eu quero que, tipo assim,
+
+31
+00:00:59,200 --> 00:01:00,060
+monta um BI pra ele.
+
+32
+00:01:00,140 --> 00:01:01,320
+A primeira coisa que o Rafa pede é
+
+33
+00:01:01,320 --> 00:01:02,380
+manda o CSV aí pra mim,
+
+34
+00:01:02,420 --> 00:01:03,460
+que eu quero conferir os dados.
+
+35
+00:01:03,600 --> 00:01:04,780
+Ele pega todos os...
+
+36
+00:01:04,780 --> 00:01:05,700
+Pega tudo, né, Rafa?
+
+37
+00:01:06,440 --> 00:01:07,460
+Vai bater o meu nome.
+
+38
+00:01:07,600 --> 00:01:08,160
+Eu sou chato.
+
+39
+00:01:09,680 --> 00:01:11,820
+Pô, mais é chato do que ficar lá
+
+40
+00:01:11,820 --> 00:01:13,100
+até meia-noite lá
+
+41
+00:01:13,100 --> 00:01:14,500
+pra consertar um problema, cara.
+
+42
+00:01:14,780 --> 00:01:16,800
+Eu trabalhava na empresa lá
+
+43
+00:01:16,800 --> 00:01:19,600
+que eles vacilaram numa entrada de dados no RP lá, cara.
+
+44
+00:01:19,760 --> 00:01:21,180
+E ninguém descobria por quê, cara.
+
+45
+00:01:21,400 --> 00:01:23,840
+Aí o cara lá de inovação lá,
+
+46
+00:01:23,900 --> 00:01:24,380
+ele pega e falou,
+
+47
+00:01:24,460 --> 00:01:25,840
+não, eu vou descobrir isso daí.
+
+48
+00:01:25,840 --> 00:01:27,300
+Duas da manhã ele me manda, assim,
+
+49
+00:01:27,360 --> 00:01:28,320
+a mensagem, assim,
+
+50
+00:01:28,880 --> 00:01:30,620
+pô, os caras estavam colocando lá
+
+51
+00:01:30,620 --> 00:01:32,160
+o dado que era pra ser float
+
+52
+00:01:32,160 --> 00:01:33,740
+e os caras estavam metendo como string, mano.
+
+53
+00:01:33,840 --> 00:01:35,680
+Falei, não, você tá de zoeira, cara.
+
+54
+00:01:36,040 --> 00:01:38,300
+Os caras na integração da RP lá,
+
+55
+00:01:38,360 --> 00:01:39,020
+a empresa mesmo.
+
+56
+00:01:39,440 --> 00:01:40,060
+Fala, Gustavo.
+
+57
+00:01:40,600 --> 00:01:41,340
+Boa tarde, senhores.
+
+58
+00:01:42,020 --> 00:01:43,260
+Uma dúvida, aproveitando,
+
+59
+00:01:43,400 --> 00:01:44,280
+é se em sejo aí.
+
+60
+00:01:44,580 --> 00:01:45,420
+Primeiro porque o Rafael
+
+61
+00:01:45,420 --> 00:01:46,280
+tá fazendo um double check
+
+62
+00:01:46,280 --> 00:01:47,740
+no seu trabalho, hein, Luciano.
+
+63
+00:01:47,840 --> 00:01:49,040
+Isso é óbvio aí.
+
+64
+00:01:49,140 --> 00:01:49,340
+Não.
+
+65
+00:01:49,500 --> 00:01:49,980
+Na saída.
+
+66
+00:01:49,980 --> 00:01:50,560
+Na saída.
+
+67
+00:01:51,560 --> 00:01:52,640
+É, na saída.
+
+68
+00:01:52,740 --> 00:01:53,880
+Tá fazendo um double check.
+
+69
+00:01:53,880 --> 00:01:55,980
+E o segundo ponto,
+
+70
+00:01:56,080 --> 00:01:58,100
+aproveitando esse problema
+
+71
+00:01:58,100 --> 00:01:59,880
+que até inclusive o colega colocou,
+
+72
+00:02:00,820 --> 00:02:02,080
+isso daí não seria um problema
+
+73
+00:02:02,080 --> 00:02:03,820
+mais de planejamento,
+
+74
+00:02:03,920 --> 00:02:05,600
+ter aquela documentação de modelo,
+
+75
+00:02:06,760 --> 00:02:09,660
+de mapeamento dos campos,
+
+76
+00:02:09,760 --> 00:02:11,100
+porque aí resolvia, né,
+
+77
+00:02:11,100 --> 00:02:12,060
+esse caso do string
+
+78
+00:02:12,060 --> 00:02:14,060
+sair como float, né,
+
+79
+00:02:14,420 --> 00:02:15,940
+e aí ia acabar o problema.
+
+80
+00:02:16,100 --> 00:02:17,760
+Gustavo, eu fiz uma pesquisa recente
+
+81
+00:02:17,760 --> 00:02:18,580
+no LinkedIn
+
+82
+00:02:18,580 --> 00:02:19,880
+de por que os projetos falham.
+
+83
+00:02:19,880 --> 00:02:21,440
+Adivinha o que ganhou
+
+84
+00:02:21,440 --> 00:02:22,760
+com 70%?
+
+85
+00:02:23,500 --> 00:02:23,820
+Projeto.
+
+86
+00:02:24,380 --> 00:02:24,700
+Planejamento.
+
+87
+00:02:25,020 --> 00:02:25,760
+Então, o que você falou
+
+88
+00:02:25,760 --> 00:02:26,660
+foi o certo, pô.
+
+89
+00:02:26,720 --> 00:02:27,540
+Mas será que não faltou?
+
+90
+00:02:27,980 --> 00:02:29,120
+É exatamente isso, Gustavo.
+
+91
+00:02:29,180 --> 00:02:29,820
+Todo projeto
+
+92
+00:02:29,820 --> 00:02:30,780
+não tem planejamento.
+
+93
+00:02:31,260 --> 00:02:32,560
+Você falou que matou a charada,
+
+94
+00:02:32,620 --> 00:02:32,780
+entendeu?
+
+95
+00:02:32,880 --> 00:02:33,220
+Tipo assim, pô.
+
+96
+00:02:33,720 --> 00:02:34,680
+A maioria, né,
+
+97
+00:02:34,680 --> 00:02:35,380
+então assim, tipo,
+
+98
+00:02:35,620 --> 00:02:36,320
+é aquela coisa.
+
+99
+00:02:36,500 --> 00:02:37,300
+Eu falo isso por...
+
+100
+00:02:37,300 --> 00:02:38,200
+A maioria dos projetos
+
+101
+00:02:38,200 --> 00:02:39,320
+tem times pequenos.
+
+102
+00:02:39,840 --> 00:02:40,280
+Eu vivi, tipo,
+
+103
+00:02:40,280 --> 00:02:40,660
+quando eu vejo,
+
+104
+00:02:40,700 --> 00:02:41,300
+eu vivi uma exceção,
+
+105
+00:02:41,380 --> 00:02:42,100
+porque eu trabalhei muito tempo
+
+106
+00:02:42,100 --> 00:02:42,860
+em consultoria.
+
+107
+00:02:43,440 --> 00:02:44,400
+Mas a maioria dos projetos
+
+108
+00:02:44,400 --> 00:02:44,880
+são times, pessoas...
+
+109
+00:02:44,880 --> 00:02:46,480
+Poucas pessoas no time,
+
+110
+00:02:46,620 --> 00:02:47,220
+muito projeto.
+
+111
+00:02:47,460 --> 00:02:47,640
+Então, assim,
+
+112
+00:02:47,640 --> 00:02:49,100
+mal terminou um projeto,
+
+113
+00:02:49,180 --> 00:02:49,960
+já vai entrar o próximo,
+
+114
+00:02:50,080 --> 00:02:51,400
+o projeto já começa atrasado, sabe?
+
+115
+00:02:52,420 --> 00:02:53,020
+E daí, porque aí
+
+116
+00:02:53,020 --> 00:02:53,840
+tornamos o quê?
+
+117
+00:02:54,300 --> 00:02:55,320
+Pasteleiro de dados,
+
+118
+00:02:55,700 --> 00:02:56,760
+bombeiro de dados,
+
+119
+00:02:57,020 --> 00:02:58,700
+não um engenheiro de dados
+
+120
+00:02:58,700 --> 00:02:59,820
+ou cientista de dados.
+
+121
+00:02:59,940 --> 00:03:01,580
+Todo mundo é pasteleiro.
+
+122
+00:03:01,960 --> 00:03:03,500
+E eu vou dizer pra você,
+
+123
+00:03:03,700 --> 00:03:05,720
+é tão comum, né?
+
+124
+00:03:05,820 --> 00:03:06,340
+Muito comum.
+
+125
+00:03:06,620 --> 00:03:07,280
+Mas aí, o que é?
+
+126
+00:03:07,280 --> 00:03:09,020
+É a nossa responsabilidade também.
+
+127
+00:03:09,180 --> 00:03:09,420
+Então, assim,
+
+128
+00:03:09,440 --> 00:03:10,060
+eu também acho que
+
+129
+00:03:10,060 --> 00:03:11,280
+é a nossa responsabilidade.
+
+130
+00:03:11,940 --> 00:03:12,660
+Eu acho que muitas vezes,
+
+131
+00:03:12,760 --> 00:03:13,380
+por exemplo, o Rafael.
+
+132
+00:03:13,420 --> 00:03:14,480
+O Rafael é meu...
+
+133
+00:03:14,480 --> 00:03:16,020
+Ele faz o double check de tudo,
+
+134
+00:03:16,020 --> 00:03:17,780
+mas ele não fica dando pitaco
+
+135
+00:03:17,780 --> 00:03:18,360
+de como é que eu acho
+
+136
+00:03:18,360 --> 00:03:19,240
+que vai ser o desenvolvimento.
+
+137
+00:03:19,360 --> 00:03:19,720
+Então, tipo assim,
+
+138
+00:03:19,760 --> 00:03:20,360
+se eu falo ao Rafael,
+
+139
+00:03:20,500 --> 00:03:22,040
+vai demorar duas semanas,
+
+140
+00:03:22,520 --> 00:03:23,100
+ele vai reclamar,
+
+141
+00:03:23,140 --> 00:03:23,300
+vai falar,
+
+142
+00:03:23,420 --> 00:03:24,380
+pô, tu não consegue fazer
+
+143
+00:03:24,380 --> 00:03:24,940
+em uma semana.
+
+144
+00:03:25,020 --> 00:03:25,260
+Eu vou falar,
+
+145
+00:03:25,320 --> 00:03:25,740
+não, não dá.
+
+146
+00:03:26,120 --> 00:03:26,680
+Aí ele aceita.
+
+147
+00:03:27,540 --> 00:03:27,800
+Tá ligado?
+
+148
+00:03:27,880 --> 00:03:28,900
+Aí eu também acho que
+
+149
+00:03:28,900 --> 00:03:30,160
+cabe um pouco a gente,
+
+150
+00:03:31,240 --> 00:03:32,400
+quando for fazer estimativa,
+
+151
+00:03:32,620 --> 00:03:33,820
+já colocar a parte de qualidade.
+
+152
+00:03:34,040 --> 00:03:34,400
+Então, tipo assim,
+
+153
+00:03:34,820 --> 00:03:35,880
+pô, vi um negócio no Luciano
+
+154
+00:03:35,880 --> 00:03:36,860
+lá que o Pandera é legal.
+
+155
+00:03:37,340 --> 00:03:38,420
+Peguei um projeto de Python,
+
+156
+00:03:38,520 --> 00:03:39,320
+não tem Pandera,
+
+157
+00:03:39,560 --> 00:03:40,220
+tu tem a obrigação
+
+158
+00:03:40,220 --> 00:03:41,040
+de levantar a mão e falar,
+
+159
+00:03:41,120 --> 00:03:41,440
+mano, ó,
+
+160
+00:03:41,920 --> 00:03:43,200
+como é que a gente vai validar input?
+
+161
+00:03:43,760 --> 00:03:45,000
+Como é que a gente vai validar output?
+
+162
+00:03:45,360 --> 00:03:46,920
+Como é que a gente vai validar
+
+163
+00:03:46,920 --> 00:03:48,320
+a esquema de tab em ela?
+
+164
+00:03:48,860 --> 00:03:49,940
+Aí eu quero falar no DBT,
+
+165
+00:03:50,020 --> 00:03:50,460
+aí tu fala, beleza,
+
+166
+00:03:50,580 --> 00:03:52,280
+mas o DBT ele valida só no final.
+
+167
+00:03:52,980 --> 00:03:53,620
+E lá no início,
+
+168
+00:03:53,720 --> 00:03:54,980
+quando o cara ligou o Spark lá,
+
+169
+00:03:55,140 --> 00:03:56,520
+quando o cara ligou o Databricks,
+
+170
+00:03:56,560 --> 00:03:57,940
+vai deixar processar todo o Databricks?
+
+171
+00:03:58,800 --> 00:03:59,200
+Aí eu não falo,
+
+172
+00:03:59,280 --> 00:04:00,120
+não, falou, pô, tá errado.
+
+173
+00:04:00,600 --> 00:04:00,840
+Tá ligado?
+
+174
+00:04:00,940 --> 00:04:01,460
+Tipo, eu vou te falar,
+
+175
+00:04:01,640 --> 00:04:02,580
+quando eu trabalhava lá com,
+
+176
+00:04:03,580 --> 00:04:04,500
+não vou falar a empresa aqui,
+
+177
+00:04:04,580 --> 00:04:06,100
+aquela empresa do refrigerante vermelho, né?
+
+178
+00:04:06,880 --> 00:04:07,980
+Mano, era 20 mil
+
+179
+00:04:07,980 --> 00:04:09,560
+que a gente gastava de AWS por dia.
+
+180
+00:04:10,120 --> 00:04:10,300
+Nossa.
+
+181
+00:04:10,300 --> 00:04:10,540
+Tá ligado?
+
+182
+00:04:10,680 --> 00:04:11,900
+Tipo, como é que tu vai errar isso
+
+183
+00:04:11,900 --> 00:04:12,540
+pra no final tu falar,
+
+184
+00:04:12,680 --> 00:04:13,320
+ih, processei errado.
+
+185
+00:04:14,280 --> 00:04:14,820
+Se a gente fizesse isso,
+
+186
+00:04:14,860 --> 00:04:15,860
+você tinha demitido, tá ligado?
+
+187
+00:04:15,940 --> 00:04:16,780
+Tipo, eu não podia processar
+
+188
+00:04:16,780 --> 00:04:17,420
+um negócio que tu sabia
+
+189
+00:04:17,420 --> 00:04:18,180
+que era errado, cara.
+
+190
+00:04:19,120 --> 00:04:20,400
+Uma dúvida de hora,
+
+191
+00:04:20,720 --> 00:04:22,300
+eu sei que o pessoal
+
+192
+00:04:22,300 --> 00:04:23,320
+vai perguntar mais coisas aí,
+
+193
+00:04:23,360 --> 00:04:24,300
+mas aproveitar da hora...
+
+194
+00:04:24,300 --> 00:04:25,340
+Não, mas hoje é mais leve,
+
+195
+00:04:25,420 --> 00:04:25,800
+meio dia e meio,
+
+196
+00:04:25,840 --> 00:04:26,340
+a gente vai...
+
+197
+00:04:26,340 --> 00:04:28,020
+E aí eu vou até fazer um ponto com vocês.
+
+198
+00:04:28,560 --> 00:04:30,020
+Afinal, só pra te adiantar,
+
+199
+00:04:30,120 --> 00:04:30,960
+semana que vem o Fábio
+
+200
+00:04:30,960 --> 00:04:32,680
+vai dar as de orientação a objeto,
+
+201
+00:04:32,780 --> 00:04:33,940
+que é muito boa, tá bom, pessoal?
+
+202
+00:04:34,520 --> 00:04:35,240
+Quem estiver vindo de casa,
+
+203
+00:04:35,340 --> 00:04:36,440
+próxima semana vai ser inteiro
+
+204
+00:04:36,440 --> 00:04:37,920
+com o Fábio passando orientação a objeto,
+
+205
+00:04:38,040 --> 00:04:38,880
+e eu vou me concentrar
+
+206
+00:04:38,880 --> 00:04:40,000
+em tirar todas as dúvidas
+
+207
+00:04:41,900 --> 00:04:43,220
+Então, assim, quem tiver dúvida,
+
+208
+00:04:43,320 --> 00:04:44,380
+coloca na plataforma,
+
+209
+00:04:44,540 --> 00:04:45,980
+manda pra mim em DM,
+
+210
+00:04:46,100 --> 00:04:47,040
+de qualquer coisa, tá bom?
+
+211
+00:04:47,160 --> 00:04:48,220
+Pô, poeta, não sei o que,
+
+212
+00:04:48,300 --> 00:04:49,960
+manda que eu vou melhorando isso
+
+213
+00:04:49,960 --> 00:04:51,240
+pra estar todo mundo junto, tá bom?
+
+214
+00:04:52,200 --> 00:04:53,540
+Então, vou estar tirando as dúvidas aqui,
+
+215
+00:04:53,600 --> 00:04:54,740
+mas se eu não conseguir tirar todas,
+
+216
+00:04:55,240 --> 00:04:56,440
+pra gente respeitar hoje o horário
+
+217
+00:04:56,440 --> 00:04:57,360
+pra fazer o sorteio,
+
+218
+00:04:57,460 --> 00:04:58,900
+eu me responsabilizo na semana que vem
+
+219
+00:04:58,900 --> 00:05:00,000
+respondendo todo mundo, tá bom?
+
+220
+00:05:00,460 --> 00:05:01,720
+Pô, então, coisa rápida
+
+221
+00:05:01,720 --> 00:05:02,420
+da minha última pergunta.
+
+222
+00:05:02,500 --> 00:05:03,940
+Agora, sobre hora de consultoria.
+
+223
+00:05:04,140 --> 00:05:04,460
+Eu, por exemplo,
+
+224
+00:05:04,520 --> 00:05:05,940
+eu trabalhei sempre em serviços,
+
+225
+00:05:06,020 --> 00:05:06,680
+sempre em empresa.
+
+226
+00:05:06,700 --> 00:05:06,940
+Depende, depende.
+
+227
+00:05:06,960 --> 00:05:07,820
+Não sei te falar, Gustavo.
+
+228
+00:05:07,980 --> 00:05:08,500
+Depende muito.
+
+229
+00:05:09,100 --> 00:05:10,500
+Mas, não, a minha pergunta,
+
+230
+00:05:10,500 --> 00:05:11,640
+minha pergunta, na verdade, é
+
+231
+00:05:11,640 --> 00:05:14,960
+o cálculo que é feito
+
+232
+00:05:14,960 --> 00:05:17,700
+da pessoa, por exemplo,
+
+233
+00:05:17,780 --> 00:05:18,340
+no seu caso,
+
+234
+00:05:18,400 --> 00:05:19,800
+agora que você tem uma consultoria própria,
+
+235
+00:05:20,420 --> 00:05:22,260
+o cálculo que você faz
+
+236
+00:05:22,260 --> 00:05:24,320
+pelo esforço pra fazer uma tarefa,
+
+237
+00:05:24,360 --> 00:05:25,560
+por exemplo, de uma task,
+
+238
+00:05:26,100 --> 00:05:27,500
+além do nível, né?
+
+239
+00:05:27,500 --> 00:05:28,060
+Porque pelo nível,
+
+240
+00:05:28,300 --> 00:05:29,520
+o júnior faz em um tempo,
+
+241
+00:05:29,680 --> 00:05:30,700
+o pleno e assim por diante.
+
+242
+00:05:31,320 --> 00:05:33,000
+O que é o mais complexo
+
+243
+00:05:33,000 --> 00:05:34,700
+no planejamento de negócio
+
+244
+00:05:34,700 --> 00:05:36,080
+que pra você,
+
+245
+00:05:36,260 --> 00:05:37,400
+como agora um líder, né?
+
+246
+00:05:37,460 --> 00:05:38,940
+Não mais um programador, né?
+
+247
+00:05:38,940 --> 00:05:39,520
+Agora um líder,
+
+248
+00:05:39,520 --> 00:05:41,260
+tem pra planejar
+
+249
+00:05:41,260 --> 00:05:41,820
+e falar pro cliente,
+
+250
+00:05:41,880 --> 00:05:43,040
+olha, vou precisar de tantas
+
+251
+00:05:43,040 --> 00:05:43,920
+as pressas a task
+
+252
+00:05:43,920 --> 00:05:45,100
+usando um sênior,
+
+253
+00:05:45,200 --> 00:05:46,340
+pleno e um júnior.
+
+254
+00:05:46,680 --> 00:05:47,600
+Normalmente eu cobraria,
+
+255
+00:05:47,720 --> 00:05:48,620
+só pra te dar essa resposta,
+
+256
+00:05:48,720 --> 00:05:49,880
+eu cobraria um dinheiro já.
+
+257
+00:05:50,400 --> 00:05:50,620
+Tá bom?
+
+258
+00:05:50,740 --> 00:05:51,260
+Porque, assim,
+
+259
+00:05:51,580 --> 00:05:53,160
+é o segredo de você ter uma consultoria.
+
+260
+00:05:53,700 --> 00:05:55,060
+Tipo, eu trabalhei 10 anos
+
+261
+00:05:55,060 --> 00:05:55,620
+em consultoria.
+
+262
+00:05:56,000 --> 00:05:57,580
+Essa atividade de planejar
+
+263
+00:05:57,580 --> 00:05:59,520
+é normalmente onde entra o arquiteto,
+
+264
+00:06:00,040 --> 00:06:01,240
+onde entra o líder.
+
+265
+00:06:01,700 --> 00:06:02,780
+Porque qual que é o desafio?
+
+266
+00:06:02,860 --> 00:06:04,580
+E aí fica até o corte aí.
+
+267
+00:06:05,240 --> 00:06:06,080
+Mas não é o problema,
+
+268
+00:06:06,080 --> 00:06:07,120
+é o escopo do projeto.
+
+269
+00:06:07,120 --> 00:06:09,000
+É muito fácil falar o que você vai fazer.
+
+270
+00:06:09,520 --> 00:06:10,380
+O cara tem que pensar
+
+271
+00:06:10,380 --> 00:06:12,220
+fora do escopo e nas premissas.
+
+272
+00:06:12,420 --> 00:06:12,900
+Então, tipo assim,
+
+273
+00:06:12,960 --> 00:06:13,820
+o que eu tenho que fazer
+
+274
+00:06:13,820 --> 00:06:14,420
+como um líder
+
+275
+00:06:14,420 --> 00:06:15,900
+é fugir de roubada.
+
+276
+00:06:16,180 --> 00:06:16,520
+Tá ligado?
+
+277
+00:06:16,600 --> 00:06:16,940
+Tipo assim,
+
+278
+00:06:17,020 --> 00:06:17,960
+eu converso com um cara
+
+279
+00:06:17,960 --> 00:06:18,540
+há 5 minutos
+
+280
+00:06:18,540 --> 00:06:20,040
+e eu já sei qual o nível de roubada.
+
+281
+00:06:20,120 --> 00:06:20,640
+O que vai ser roubada
+
+282
+00:06:20,640 --> 00:06:21,180
+que eu falo é tipo,
+
+283
+00:06:21,240 --> 00:06:22,180
+ah, sistema legado,
+
+284
+00:06:22,420 --> 00:06:23,060
+que ninguém nem sabe
+
+285
+00:06:23,060 --> 00:06:23,760
+como é que funciona.
+
+286
+00:06:24,060 --> 00:06:24,860
+Então vai chegar num cliente
+
+287
+00:06:24,860 --> 00:06:25,200
+e ele vai falar
+
+288
+00:06:25,200 --> 00:06:26,180
+que não tem nada de segurança.
+
+289
+00:06:26,660 --> 00:06:27,480
+Que você vai ter que fazer
+
+290
+00:06:27,480 --> 00:06:28,060
+a infra dele.
+
+291
+00:06:28,320 --> 00:06:28,680
+Que, por exemplo,
+
+292
+00:06:28,760 --> 00:06:29,400
+não tem git.
+
+293
+00:06:29,840 --> 00:06:30,260
+Que, cara,
+
+294
+00:06:30,260 --> 00:06:30,960
+tem muito dado
+
+295
+00:06:30,960 --> 00:06:31,840
+que ele não tem sistema
+
+296
+00:06:31,840 --> 00:06:32,620
+de desenvolvimento.
+
+297
+00:06:32,900 --> 00:06:33,600
+Então tem um cheque,
+
+298
+00:06:37,120 --> 00:06:38,060
+se não tiver problema,
+
+299
+00:06:38,200 --> 00:06:39,180
+o desenvolvimento é muito fácil.
+
+300
+00:06:39,460 --> 00:06:40,000
+O problema é que
+
+301
+00:06:40,000 --> 00:06:40,800
+todo projeto tem problema.
+
+302
+00:06:40,920 --> 00:06:41,560
+Só que você não pode pegar
+
+303
+00:06:41,560 --> 00:06:42,100
+só problema.
+
+304
+00:06:42,200 --> 00:06:44,260
+Tem que escolher 1, 2, 3, entendeu?
+
+305
+00:06:44,400 --> 00:06:44,960
+Até 3 dá.
+
+306
+00:06:45,200 --> 00:06:46,800
+E tentar encurtar o projeto
+
+307
+00:06:46,800 --> 00:06:47,760
+para ficar com menos riscos.
+
+308
+00:06:48,080 --> 00:06:48,540
+Mas, mano,
+
+309
+00:06:48,640 --> 00:06:49,940
+você é 10 anos
+
+310
+00:06:49,940 --> 00:06:50,480
+e não tem um resumo
+
+311
+00:06:50,480 --> 00:06:51,140
+em 1 minuto, tá bom?
+
+312
+00:06:51,800 --> 00:06:52,400
+Beleza, beleza.
+
+313
+00:06:52,720 --> 00:06:52,920
+Tá bom?
+
+314
+00:06:53,660 --> 00:06:54,320
+Assim, acho que é
+
+315
+00:06:54,320 --> 00:06:55,220
+experiência, Gustavo.
+
+316
+00:06:55,360 --> 00:06:56,060
+Tipo, a parada é
+
+317
+00:06:56,060 --> 00:06:56,920
+eu tive um diretor,
+
+318
+00:06:57,360 --> 00:06:58,340
+eu só acho que eu tive
+
+319
+00:06:58,340 --> 00:06:59,200
+diretores muito bons
+
+320
+00:06:59,200 --> 00:06:59,840
+que eu aprendi há muito.
+
+321
+00:07:00,300 --> 00:07:00,900
+Aí ele falou assim,
+
+322
+00:07:00,940 --> 00:07:01,840
+para a minha primeira proposta
+
+323
+00:07:01,840 --> 00:07:02,720
+comercial que eu fiz.
+
+324
+00:07:02,800 --> 00:07:03,400
+Ele falou, cara,
+
+325
+00:07:03,720 --> 00:07:04,920
+você só colocou escopo.
+
+326
+00:07:04,920 --> 00:07:05,820
+Escuta a palavra
+
+327
+00:07:05,820 --> 00:07:07,220
+que ele falou para mim.
+
+328
+00:07:07,300 --> 00:07:07,680
+Ele falou, cara,
+
+329
+00:07:08,260 --> 00:07:09,340
+qualquer idiota
+
+330
+00:07:09,340 --> 00:07:10,220
+sabe escrever um escopo
+
+331
+00:07:10,220 --> 00:07:10,840
+de proposta.
+
+332
+00:07:11,240 --> 00:07:11,860
+Qualquer idiota
+
+333
+00:07:11,860 --> 00:07:12,600
+sabe escrever um escopo
+
+334
+00:07:12,600 --> 00:07:13,180
+de proposta.
+
+335
+00:07:13,440 --> 00:07:14,200
+Engenheiros tem que escrever
+
+336
+00:07:14,200 --> 00:07:15,460
+fora de escopo e premissa.
+
+337
+00:07:15,920 --> 00:07:16,380
+Porque todo mundo
+
+338
+00:07:16,380 --> 00:07:17,160
+sabe prometer tudo.
+
+339
+00:07:17,500 --> 00:07:18,280
+Então, tu pega assim
+
+340
+00:07:18,280 --> 00:07:18,960
+as propostas,
+
+341
+00:07:19,100 --> 00:07:19,820
+elas são todas iguais.
+
+342
+00:07:19,900 --> 00:07:20,620
+Todo mundo promete tudo.
+
+343
+00:07:20,700 --> 00:07:21,660
+Vou fazer o DW todo,
+
+344
+00:07:21,740 --> 00:07:22,560
+vou fazer o negócio todo,
+
+345
+00:07:22,600 --> 00:07:23,240
+vou fazer o negócio todo,
+
+346
+00:07:23,280 --> 00:07:23,700
+sou fodão.
+
+347
+00:07:24,100 --> 00:07:24,540
+Só que aí,
+
+348
+00:07:24,900 --> 00:07:25,800
+se não tiver documentação,
+
+349
+00:07:25,920 --> 00:07:26,520
+se não tiver ambiente
+
+350
+00:07:26,520 --> 00:07:27,200
+de desenvolvimento,
+
+351
+00:07:27,300 --> 00:07:27,980
+se quebrar o banco
+
+352
+00:07:27,980 --> 00:07:28,940
+lá no meio do teu trabalho,
+
+353
+00:07:29,040 --> 00:07:29,720
+tu vai ser responsável
+
+354
+00:07:29,720 --> 00:07:30,360
+por isso, é foda.
+
+355
+00:07:30,700 --> 00:07:31,120
+Mas bora lá
+
+356
+00:07:31,120 --> 00:07:31,880
+para as outras perguntas aí.
+
+357
+00:07:31,940 --> 00:07:33,060
+Dá para instalar o PyEnvy
+
+358
+00:07:33,060 --> 00:07:34,120
+já tendo uma versão
+
+359
+00:07:34,120 --> 00:07:34,960
+do Python instalada?
+
+360
+00:07:35,040 --> 00:07:35,160
+Dá.
+
+361
+00:07:35,520 --> 00:07:36,220
+Qual momento eu tenho
+
+362
+00:07:36,220 --> 00:07:37,380
+que instalar o PyEnvy
+
+363
+00:07:37,380 --> 00:07:38,100
+no meu projeto?
+
+364
+00:07:38,460 --> 00:07:38,920
+Quem sabe?
+
+365
+00:07:39,160 --> 00:07:39,580
+Qual?
+
+366
+00:07:40,120 --> 00:07:40,700
+Vai lendo aí.
+
+367
+00:07:40,860 --> 00:07:41,720
+Não está vendo nada essa.
+
+368
+00:07:41,880 --> 00:07:43,540
+Mas qual o momento
+
+369
+00:07:43,540 --> 00:07:46,040
+devo instalar o PyEnvy?
+
+370
+00:07:46,460 --> 00:07:47,140
+E alguém sabe responder?
+
+371
+00:07:48,140 --> 00:07:49,860
+Quando for definido ali
+
+372
+00:07:49,860 --> 00:07:51,120
+o tipo de...
+
+373
+00:07:51,840 --> 00:07:52,240
+Agora.
+
+374
+00:07:52,240 --> 00:07:53,500
+Quando for definição
+
+375
+00:07:53,500 --> 00:07:54,360
+do projeto ali.
+
+376
+00:07:54,580 --> 00:07:54,920
+Isso.
+
+377
+00:07:55,160 --> 00:07:55,680
+É agora.
+
+378
+00:07:56,900 --> 00:07:58,300
+Projeto em andamento?
+
+379
+00:07:58,960 --> 00:07:59,300
+Agora.
+
+380
+00:07:59,300 --> 00:08:00,520
+Primeira coisa que você tem que fazer
+
+381
+00:08:00,520 --> 00:08:01,560
+é parar e fazer isso.
+
+382
+00:08:01,700 --> 00:08:01,820
+Tá bom?
+
+383
+00:08:02,260 --> 00:08:03,420
+Porque isso demora 15 minutos.
+
+384
+00:08:03,860 --> 00:08:05,800
+Então projetos em...
+
+385
+00:08:05,800 --> 00:08:06,660
+Que vão iniciar.
+
+386
+00:08:07,200 --> 00:08:08,660
+Projetos que vão iniciar.
+
+387
+00:08:09,440 --> 00:08:10,080
+Agora também.
+
+388
+00:08:10,960 --> 00:08:11,260
+Por quê?
+
+389
+00:08:11,760 --> 00:08:12,860
+Isso aqui você faz em 15 minutos.
+
+390
+00:08:13,300 --> 00:08:14,600
+Não é muito difícil não.
+
+391
+00:08:15,060 --> 00:08:15,720
+Tu vai pegar ali.
+
+392
+00:08:16,160 --> 00:08:17,400
+Como é que é o passo a passo disso?
+
+393
+00:08:17,620 --> 00:08:18,060
+Tu vai vir.
+
+394
+00:08:18,420 --> 00:08:19,140
+Vai chegar aqui.
+
+395
+00:08:20,360 --> 00:08:20,720
+Verificar.
+
+396
+00:08:21,380 --> 00:08:23,220
+Quem são as dependências?
+
+397
+00:08:23,220 --> 00:08:25,240
+E qual versão do Python?
+
+398
+00:08:25,860 --> 00:08:26,320
+Aí você fala.
+
+399
+00:08:26,400 --> 00:08:26,840
+Pô, Luciano.
+
+400
+00:08:27,280 --> 00:08:27,520
+Beleza.
+
+401
+00:08:27,520 --> 00:08:30,240
+Peguei um projeto em produção aqui.
+
+402
+00:08:30,460 --> 00:08:30,740
+Vamos lá.
+
+403
+00:08:30,980 --> 00:08:31,840
+Fui contratado.
+
+404
+00:08:32,340 --> 00:08:33,520
+Vou pegar um projeto legado.
+
+405
+00:08:34,020 --> 00:08:34,240
+Tá bom?
+
+406
+00:08:34,420 --> 00:08:35,660
+Deixa eu pegar um projeto meu antigo.
+
+407
+00:08:36,340 --> 00:08:37,520
+Que eu não coloquei PyEnvy.
+
+408
+00:08:38,780 --> 00:08:39,920
+DuckDB Showcase.
+
+409
+00:08:40,040 --> 00:08:40,760
+Será que esse eu botei?
+
+410
+00:08:41,220 --> 00:08:42,080
+PyEnvy botei.
+
+411
+00:08:42,320 --> 00:08:43,660
+Vamos pegar o mais antigo meu ainda.
+
+412
+00:08:44,020 --> 00:08:45,060
+Cara, eu faço muito projeto, né?
+
+413
+00:08:46,920 --> 00:08:47,780
+Gustavo, vai falando aí.
+
+414
+00:08:47,800 --> 00:08:48,640
+Que eu vou tentar achar um projeto meu
+
+415
+00:08:48,640 --> 00:08:49,060
+que não tem.
+
+416
+00:08:49,200 --> 00:08:49,960
+Excel to Streaming.
+
+417
+00:08:50,700 --> 00:08:51,940
+É justamente isso.
+
+418
+00:08:51,940 --> 00:08:54,260
+Há quanto tempo que você está usando
+
+419
+00:08:54,260 --> 00:08:56,960
+os seus projetos o PyEnvy
+
+420
+00:08:56,960 --> 00:09:00,760
+para virtualizar os versionamentos de aplicação?
+
+421
+00:09:01,400 --> 00:09:02,440
+Desde que ele foi lançado.
+
+422
+00:09:02,700 --> 00:09:03,700
+Tipo assim, a gente sempre tem que...
+
+423
+00:09:03,700 --> 00:09:04,120
+A parada é o seguinte.
+
+424
+00:09:04,220 --> 00:09:05,340
+Sempre quando você vai fazer deploy,
+
+425
+00:09:05,440 --> 00:09:06,660
+você escolhe a versão do Python.
+
+426
+00:09:07,420 --> 00:09:07,880
+Então, tipo assim,
+
+427
+00:09:07,920 --> 00:09:09,080
+você não consegue fazer deploy
+
+428
+00:09:09,080 --> 00:09:10,160
+sem escolher essas coisas.
+
+429
+00:09:10,560 --> 00:09:11,540
+Só que aí o que você faz,
+
+430
+00:09:11,600 --> 00:09:12,680
+muitas vezes, você só vê isso
+
+431
+00:09:12,680 --> 00:09:13,620
+na hora que você vai fazer o deploy.
+
+432
+00:09:13,760 --> 00:09:14,440
+Então, acho que desde que eu comecei
+
+433
+00:09:14,440 --> 00:09:16,360
+a trabalhar com sete anos.
+
+434
+00:09:16,720 --> 00:09:17,080
+Porque, tipo assim,
+
+435
+00:09:17,120 --> 00:09:18,940
+ou você vai fazer no acaso...
+
+436
+00:09:18,940 --> 00:09:20,400
+Deixa eu achar algum aqui.
+
+437
+00:09:20,760 --> 00:09:21,760
+Deixa eu pegar...
+
+438
+00:09:21,760 --> 00:09:22,940
+Projeto Print Pattern.
+
+439
+00:09:23,720 --> 00:09:24,480
+Ó, esse aqui não tem nada.
+
+440
+00:09:24,540 --> 00:09:25,080
+Vamos lá, cara.
+
+441
+00:09:25,160 --> 00:09:25,960
+Projeto...
+
+442
+00:09:25,960 --> 00:09:26,280
+Beleza.
+
+443
+00:09:26,360 --> 00:09:27,400
+Projeto de Jupyter Notebook
+
+444
+00:09:27,400 --> 00:09:28,400
+meu há dois anos atrás.
+
+445
+00:09:28,780 --> 00:09:29,080
+Beleza.
+
+446
+00:09:29,760 --> 00:09:30,380
+Esse projeto não tem nada.
+
+447
+00:09:30,840 --> 00:09:31,620
+Fiz um triângulo
+
+448
+00:09:31,620 --> 00:09:32,880
+com Jupyter Notebook.
+
+449
+00:09:33,020 --> 00:09:33,820
+Imagina que esse é o projeto
+
+450
+00:09:33,820 --> 00:09:34,640
+que eu cheguei na minha empresa.
+
+451
+00:09:34,780 --> 00:09:35,300
+Ele não tem...
+
+452
+00:09:35,300 --> 00:09:35,980
+Só de ver os arquivos,
+
+453
+00:09:36,040 --> 00:09:36,460
+ele não tem nada.
+
+454
+00:09:37,040 --> 00:09:37,800
+Não tem PyEnvy.
+
+455
+00:09:38,100 --> 00:09:39,200
+Primeira coisa que você vai ter que vir
+
+456
+00:09:39,200 --> 00:09:40,380
+é pegar ele aqui.
+
+457
+00:09:40,640 --> 00:09:41,300
+Posso até pegar
+
+458
+00:09:41,300 --> 00:09:42,420
+e fazer um fork dele.
+
+459
+00:09:43,180 --> 00:09:44,260
+Vou forcar esse projeto.
+
+460
+00:09:44,700 --> 00:09:45,360
+Eu não sei se consigo criar
+
+461
+00:09:45,360 --> 00:09:46,360
+o fork do meu mesmo, né?
+
+462
+00:09:46,720 --> 00:09:47,520
+Criar o fork,
+
+463
+00:09:47,520 --> 00:09:48,700
+fork, fork, repositório.
+
+464
+00:09:49,500 --> 00:09:50,320
+Ó, deixa eu pegar aqui.
+
+465
+00:09:50,900 --> 00:09:51,840
+Abri meu VS Code.
+
+466
+00:09:52,100 --> 00:09:52,760
+Meu Bash.
+
+467
+00:09:53,600 --> 00:09:54,400
+Abri tudo.
+
+468
+00:09:55,060 --> 00:09:55,920
+Quem nunca tinha mexido...
+
+469
+00:09:55,920 --> 00:09:56,980
+Acho que vocês nunca mexeram
+
+470
+00:09:56,980 --> 00:09:57,580
+tanto Bash
+
+471
+00:09:57,580 --> 00:09:59,160
+como vocês estão mexendo aqui agora, né?
+
+472
+00:09:59,180 --> 00:10:00,480
+Pelo menos...
+
+473
+00:10:00,480 --> 00:10:01,420
+Ó, tô perdendo o medo
+
+474
+00:10:01,420 --> 00:10:02,300
+da tela preta, né?
+
+475
+00:10:02,960 --> 00:10:04,380
+LS, CD, Workshop.
+
+476
+00:10:05,140 --> 00:10:06,960
+Workspace, CD, LV, Galvão Filho.
+
+477
+00:10:07,000 --> 00:10:07,360
+LS.
+
+478
+00:10:08,320 --> 00:10:11,060
+MKDIR, definindo, projeto.
+
+479
+00:10:11,280 --> 00:10:12,960
+CD, definindo projeto.
+
+480
+00:10:13,120 --> 00:10:14,580
+Vem git, clone.
+
+481
+00:10:15,020 --> 00:10:16,020
+Vou entrar no VS Code.
+
+482
+00:10:16,240 --> 00:10:16,500
+Então, beleza.
+
+483
+00:10:16,500 --> 00:10:17,220
+Entrei no meu projeto
+
+484
+00:10:17,220 --> 00:10:18,020
+da minha empresa aqui.
+
+485
+00:10:18,140 --> 00:10:19,220
+Um projeto que já tá em andamento
+
+486
+00:10:19,220 --> 00:10:21,200
+e não tem PyEnvy.
+
+487
+00:10:22,080 --> 00:10:23,060
+O que vai acontecer
+
+488
+00:10:23,060 --> 00:10:24,440
+quando eu entro nesse projeto aqui?
+
+489
+00:10:25,040 --> 00:10:25,960
+Pelo menos ele tá na frente
+
+490
+00:10:25,960 --> 00:10:26,940
+de muito projeto já, né?
+
+491
+00:10:26,940 --> 00:10:27,680
+Porque ele já tá no git.
+
+492
+00:10:28,200 --> 00:10:29,520
+Se o projeto não tiver git,
+
+493
+00:10:29,980 --> 00:10:30,560
+a primeira coisa que você tem
+
+494
+00:10:30,560 --> 00:10:31,140
+que fazer é git.
+
+495
+00:10:32,300 --> 00:10:33,080
+Você vai entrar aqui.
+
+496
+00:10:33,120 --> 00:10:33,920
+Eu entrei na pasta errada.
+
+497
+00:10:35,140 --> 00:10:35,420
+Beleza?
+
+498
+00:10:36,220 --> 00:10:36,760
+O que acontece
+
+499
+00:10:36,760 --> 00:10:37,560
+quando eu entro num projeto
+
+500
+00:10:37,560 --> 00:10:38,420
+que não tem PyEnvy?
+
+501
+00:10:38,980 --> 00:10:39,620
+O que acontece
+
+502
+00:10:39,620 --> 00:10:40,640
+quando eu entro num projeto...
+
+503
+00:10:40,640 --> 00:10:41,240
+Qual vai ser a versão
+
+504
+00:10:41,240 --> 00:10:41,980
+do meu Python aqui?
+
+505
+00:10:41,980 --> 00:10:43,520
+Primeira coisa
+
+506
+00:10:43,520 --> 00:10:44,140
+seria verificar
+
+507
+00:10:44,140 --> 00:10:44,880
+a versão do Python?
+
+508
+00:10:45,580 --> 00:10:46,100
+Qual é a versão
+
+509
+00:10:46,100 --> 00:10:46,820
+do meu Python aqui?
+
+510
+00:10:47,860 --> 00:10:48,660
+Já que tiver instalado
+
+511
+00:10:48,660 --> 00:10:49,340
+no global, né?
+
+512
+00:10:49,380 --> 00:10:50,100
+No meu computador.
+
+513
+00:10:50,600 --> 00:10:51,640
+Então, qual que é o problema aqui?
+
+514
+00:10:52,640 --> 00:10:53,700
+A gente vai ter aqui...
+
+515
+00:10:53,700 --> 00:10:55,060
+eu vou ter aqui
+
+516
+00:10:55,060 --> 00:10:57,400
+computador dev 1
+
+517
+00:10:57,400 --> 00:10:59,680
+computador dev 2
+
+518
+00:10:59,680 --> 00:11:01,100
+vou falar que é um projeto
+
+519
+00:11:01,100 --> 00:11:01,740
+que tá em produção.
+
+520
+00:11:02,300 --> 00:11:03,320
+Vou ter o ambiente de prod.
+
+521
+00:11:03,680 --> 00:11:05,420
+O problema de eu não ter definido
+
+522
+00:11:05,420 --> 00:11:06,220
+o PyEnvy
+
+523
+00:11:06,220 --> 00:11:06,920
+é que
+
+524
+00:11:06,920 --> 00:11:09,240
+aqui tem um Python global
+
+525
+00:11:09,240 --> 00:11:10,320
+dessa máquina
+
+526
+00:11:10,320 --> 00:11:12,440
+global dessa máquina
+
+527
+00:11:12,440 --> 00:11:14,480
+global dessa máquina
+
+528
+00:11:14,480 --> 00:11:16,320
+global dessa máquina
+
+529
+00:11:16,320 --> 00:11:17,480
+vou mostrar um...
+
+530
+00:11:18,480 --> 00:11:19,940
+Mas o VEnvy não tá no git.
+
+531
+00:11:20,240 --> 00:11:20,880
+Não tá.
+
+532
+00:11:21,040 --> 00:11:21,940
+Calma que a gente vai chegar lá.
+
+533
+00:11:22,400 --> 00:11:23,340
+Ainda bem que ele não tá.
+
+534
+00:11:23,820 --> 00:11:24,140
+Beleza?
+
+535
+00:11:24,740 --> 00:11:24,880
+Ó.
+
+536
+00:11:25,120 --> 00:11:25,860
+Qual que é o problema
+
+537
+00:11:25,860 --> 00:11:26,220
+disso aqui?
+
+538
+00:11:26,780 --> 00:11:27,220
+Às vezes
+
+539
+00:11:27,220 --> 00:11:28,400
+esse aqui é o famoso erro
+
+540
+00:11:28,400 --> 00:11:30,960
+na minha máquina
+
+541
+00:11:30,960 --> 00:11:31,600
+funciona.
+
+542
+00:11:32,380 --> 00:11:33,260
+Porque o Python
+
+543
+00:11:33,260 --> 00:11:34,240
+ele tem uma versão
+
+544
+00:11:34,240 --> 00:11:35,540
+que tá definida
+
+545
+00:11:35,540 --> 00:11:36,500
+então tipo
+
+546
+00:11:36,500 --> 00:11:37,560
+o ambiente de desenvolvimento
+
+547
+00:11:37,560 --> 00:11:38,240
+se for um ambiente
+
+548
+00:11:38,240 --> 00:11:39,580
+que tá em produção
+
+549
+00:11:39,580 --> 00:11:40,360
+hoje ele tem uma versão
+
+550
+00:11:40,360 --> 00:11:40,620
+do Python.
+
+551
+00:11:40,680 --> 00:11:41,100
+Você pode entrar
+
+552
+00:11:41,100 --> 00:11:41,940
+via SSH lá
+
+553
+00:11:41,940 --> 00:11:42,820
+dar um Python versus
+
+554
+00:11:42,820 --> 00:11:44,120
+vamos dizer que é um
+
+555
+00:11:44,120 --> 00:11:45,340
+3.10 ali
+
+556
+00:11:45,340 --> 00:11:46,540
+ou é muito velho
+
+557
+00:11:46,540 --> 00:11:47,300
+tá ligado?
+
+558
+00:11:47,360 --> 00:11:48,540
+É um 2.7
+
+559
+00:11:48,540 --> 00:11:50,060
+Isso aí é muito legado
+
+560
+00:11:50,060 --> 00:11:50,300
+tá ligado?
+
+561
+00:11:50,360 --> 00:11:50,860
+Se você tem que trabalhar
+
+562
+00:11:50,860 --> 00:11:51,340
+em banco
+
+563
+00:11:51,340 --> 00:11:52,140
+você deve ter aqui
+
+564
+00:11:52,140 --> 00:11:52,860
+2.7
+
+565
+00:11:52,860 --> 00:11:54,360
+talvez banco
+
+566
+00:11:54,360 --> 00:11:55,620
+financeira
+
+567
+00:11:55,620 --> 00:11:56,880
+hospital
+
+568
+00:11:56,880 --> 00:12:00,020
+hospital
+
+569
+00:12:00,020 --> 00:12:01,400
+aqui é red flag
+
+570
+00:12:01,400 --> 00:12:01,840
+tá ligado?
+
+571
+00:12:02,020 --> 00:12:02,860
+Red flag
+
+572
+00:12:02,860 --> 00:12:04,000
+O problema é que
+
+573
+00:12:04,000 --> 00:12:04,920
+quanto mais afastado
+
+574
+00:12:04,920 --> 00:12:06,140
+da versão 3.2
+
+575
+00:12:06,140 --> 00:12:06,660
+a gente tá
+
+576
+00:12:06,660 --> 00:12:08,380
+mais risco
+
+577
+00:12:08,380 --> 00:12:09,040
+a gente vai ter
+
+578
+00:12:09,040 --> 00:12:10,140
+se não escolher o Python
+
+579
+00:12:10,140 --> 00:12:11,120
+em vir certo.
+
+580
+00:12:12,240 --> 00:12:12,820
+Então vamos dizer que aqui
+
+581
+00:12:12,820 --> 00:12:13,260
+o dev
+
+582
+00:12:13,260 --> 00:12:14,140
+sou eu
+
+583
+00:12:14,140 --> 00:12:15,060
+Luciano
+
+584
+00:12:15,060 --> 00:12:15,780
+eu tô usando essa.
+
+585
+00:12:15,780 --> 00:12:17,540
+se eu faço um código
+
+586
+00:12:17,540 --> 00:12:18,500
+aqui no meu projeto
+
+587
+00:12:18,500 --> 00:12:19,340
+e dou
+
+588
+00:12:19,340 --> 00:12:20,780
+ele pra produção
+
+589
+00:12:20,780 --> 00:12:22,000
+com um código
+
+590
+00:12:22,000 --> 00:12:22,940
+de 3.12
+
+591
+00:12:22,940 --> 00:12:24,060
+e ele chegar aqui
+
+592
+00:12:24,060 --> 00:12:25,080
+o que vai acontecer?
+
+593
+00:12:25,620 --> 00:12:26,220
+Vai acontecer igual
+
+594
+00:12:26,220 --> 00:12:26,980
+essa mulherzinha aqui
+
+595
+00:12:26,980 --> 00:12:28,600
+quebrar a aplicação
+
+596
+00:12:28,600 --> 00:12:29,800
+humm
+
+597
+00:12:29,800 --> 00:12:31,360
+hoje é o dia
+
+598
+00:12:31,360 --> 00:12:31,700
+do
+
+599
+00:12:31,700 --> 00:12:33,420
+do deploy on Friday
+
+600
+00:12:33,420 --> 00:12:33,660
+né?
+
+601
+00:12:33,720 --> 00:12:33,860
+Então
+
+602
+00:12:33,860 --> 00:12:36,040
+acontece exatamente
+
+603
+00:12:36,040 --> 00:12:36,700
+então sempre que vocês
+
+604
+00:12:36,700 --> 00:12:37,520
+vêem esse meme aqui
+
+605
+00:12:37,520 --> 00:12:39,000
+é exatamente isso
+
+606
+00:12:39,000 --> 00:12:39,440
+é um projeto
+
+607
+00:12:39,440 --> 00:12:39,820
+que não tem
+
+608
+00:12:39,820 --> 00:12:40,280
+payend
+
+609
+00:12:40,280 --> 00:12:41,320
+aí você contrata
+
+610
+00:12:41,320 --> 00:12:41,900
+o cara novo
+
+611
+00:12:41,900 --> 00:12:42,900
+contrata um estagiário
+
+612
+00:12:42,900 --> 00:12:43,540
+normalmente o estagiário
+
+613
+00:12:43,540 --> 00:12:43,940
+faz isso
+
+614
+00:12:43,940 --> 00:12:44,940
+aí o estagiário nem se preocupa
+
+615
+00:12:44,940 --> 00:12:45,780
+com a versão do Python
+
+616
+00:12:45,780 --> 00:12:46,940
+porque normalmente
+
+617
+00:12:46,940 --> 00:12:48,180
+tem o dev velho
+
+618
+00:12:48,180 --> 00:12:48,820
+dev sênior
+
+619
+00:12:48,820 --> 00:12:49,540
+cansado já
+
+620
+00:12:49,540 --> 00:12:50,020
+tá ligado?
+
+621
+00:12:50,480 --> 00:12:50,980
+É o dev que
+
+622
+00:12:50,980 --> 00:12:52,420
+quando esse projeto começou
+
+623
+00:12:52,420 --> 00:12:54,520
+2.7 era novidade
+
+624
+00:12:54,520 --> 00:12:55,880
+a máquina dele
+
+625
+00:12:55,880 --> 00:12:57,600
+é o 2.7
+
+626
+00:12:57,600 --> 00:12:58,960
+contratou um cara
+
+627
+00:12:58,960 --> 00:13:00,220
+com uma máquina diferente
+
+628
+00:13:00,220 --> 00:13:01,280
+fez o deploy aqui
+
+629
+00:13:01,280 --> 00:13:02,120
+aí tu fala
+
+630
+00:13:02,120 --> 00:13:02,580
+Luciano
+
+631
+00:13:02,580 --> 00:13:04,000
+mas é possível
+
+632
+00:13:04,000 --> 00:13:05,580
+explodir
+
+633
+00:13:05,580 --> 00:13:06,480
+um projeto?
+
+634
+00:13:06,840 --> 00:13:07,180
+Ô Luciano
+
+635
+00:13:07,180 --> 00:13:07,780
+como é que você fala
+
+636
+00:13:07,780 --> 00:13:09,180
+com tanta propriedade disso?
+
+637
+00:13:09,980 --> 00:13:10,740
+Quero ver quem sabe
+
+638
+00:13:10,740 --> 00:13:11,640
+porque você fala isso
+
+639
+00:13:11,640 --> 00:13:12,880
+com tanta propriedade disso
+
+640
+00:13:12,880 --> 00:13:14,100
+já sofreu né
+
+641
+00:13:14,100 --> 00:13:15,200
+com isso
+
+642
+00:13:15,200 --> 00:13:16,760
+cara
+
+643
+00:13:16,760 --> 00:13:17,480
+quando eu falo assim
+
+644
+00:13:17,480 --> 00:13:18,680
+é coisa de estagiário
+
+645
+00:13:18,680 --> 00:13:19,760
+porque eu já fui estagiário
+
+646
+00:13:19,760 --> 00:13:20,100
+pessoal
+
+647
+00:13:20,100 --> 00:13:21,200
+já derrubei um projeto
+
+648
+00:13:21,200 --> 00:13:22,360
+com um comentário
+
+649
+00:13:22,360 --> 00:13:23,440
+deixa eu mostrar aqui
+
+650
+00:13:23,440 --> 00:13:24,280
+que eu fiz um artigo
+
+651
+00:13:24,280 --> 00:13:24,760
+desse daqui
+
+652
+00:13:24,760 --> 00:13:26,360
+exibir todos
+
+653
+00:13:26,360 --> 00:13:27,820
+publicação
+
+654
+00:13:27,820 --> 00:13:28,420
+como é que eu acho
+
+655
+00:13:28,420 --> 00:13:28,980
+as coisas do LinkedIn
+
+656
+00:13:28,980 --> 00:13:29,600
+nossa achar as coisas
+
+657
+00:13:29,600 --> 00:13:30,380
+do LinkedIn é muito ruim
+
+658
+00:13:30,380 --> 00:13:31,280
+eu não acho as minhas coisas
+
+659
+00:13:31,280 --> 00:13:32,580
+artigos
+
+660
+00:13:32,580 --> 00:13:33,540
+não é artigo
+
+661
+00:13:33,540 --> 00:13:34,700
+é documento
+
+662
+00:13:34,700 --> 00:13:35,500
+último dia
+
+663
+00:13:35,500 --> 00:13:36,200
+bootcamp
+
+664
+00:13:36,200 --> 00:13:39,460
+chá chá chá chá
+
+665
+00:13:39,460 --> 00:13:39,640
+chá chá chá
+
+666
+00:13:39,640 --> 00:13:40,180
+chá chá
+
+667
+00:13:40,180 --> 00:13:40,720
+ó
+
+668
+00:13:40,720 --> 00:13:41,760
+tô terminando aqui
+
+669
+00:13:41,760 --> 00:13:42,600
+vou te mostrar
+
+670
+00:13:42,600 --> 00:13:43,500
+aqui
+
+671
+00:13:43,500 --> 00:13:44,160
+eu vou botar depois
+
+672
+00:13:44,160 --> 00:13:45,300
+pra vocês verem aqui
+
+673
+00:13:45,300 --> 00:13:45,640
+ó
+
+674
+00:13:45,640 --> 00:13:46,280
+tá quase chegando
+
+675
+00:13:46,280 --> 00:13:46,760
+já aqui
+
+676
+00:13:46,760 --> 00:13:47,480
+caraca
+
+677
+00:13:47,480 --> 00:13:48,820
+quanta coisa que eu posto
+
+678
+00:13:48,820 --> 00:13:49,300
+é Flow
+
+679
+00:13:49,300 --> 00:13:50,100
+Black Friday
+
+680
+00:13:50,100 --> 00:13:50,860
+Python
+
+681
+00:13:50,860 --> 00:13:52,180
+programação
+
+682
+00:13:52,180 --> 00:13:52,880
+deploy
+
+683
+00:13:52,880 --> 00:13:53,640
+tá chegando
+
+684
+00:13:53,640 --> 00:13:54,600
+tá chegando
+
+685
+00:13:54,600 --> 00:13:56,420
+caramba
+
+686
+00:13:56,420 --> 00:13:57,080
+quanta coisa
+
+687
+00:13:57,080 --> 00:13:57,620
+pô
+
+688
+00:13:57,620 --> 00:13:58,040
+tá tudo
+
+689
+00:13:58,040 --> 00:13:58,500
+oh
+
+690
+00:13:58,500 --> 00:13:58,980
+derrubei
+
+691
+00:13:58,980 --> 00:13:59,340
+achei
+
+692
+00:13:59,340 --> 00:14:00,480
+ah aqui
+
+693
+00:14:00,480 --> 00:14:01,900
+foi o primeiro tutorial
+
+694
+00:14:01,900 --> 00:14:02,220
+que eu fiz
+
+695
+00:14:02,220 --> 00:14:03,140
+de GitHub Actions
+
+696
+00:14:03,140 --> 00:14:04,140
+há 7 meses atrás
+
+697
+00:14:04,140 --> 00:14:05,540
+deixa eu achar
+
+698
+00:14:05,540 --> 00:14:08,920
+derrubei todo o sistema da empresa com comentário
+
+699
+00:14:08,920 --> 00:14:10,680
+essa foi a minha primeira como estagiário
+
+700
+00:14:10,680 --> 00:14:12,260
+então quando eu falo essa coisa de estagiário
+
+701
+00:14:12,260 --> 00:14:14,040
+não é desmerecendo do estagiário
+
+702
+00:14:14,040 --> 00:14:15,920
+mas é porque eu já fui estagiário
+
+703
+00:14:15,920 --> 00:14:19,000
+e a melhor coisa do ser estagiário é que você pode fazer merda
+
+704
+00:14:19,000 --> 00:14:20,140
+sem ser demitido, tá ligado?
+
+705
+00:14:20,160 --> 00:14:21,040
+porque tu é estagiário
+
+706
+00:14:21,040 --> 00:14:23,620
+eu tô falando, Luciano, como é que tu estima isso?
+
+707
+00:14:24,020 --> 00:14:25,860
+eu olho tudo que eu fiz errado quando era estagiário
+
+708
+00:14:25,860 --> 00:14:28,560
+penso, já derrubei uns 20 sistemas
+
+709
+00:14:28,560 --> 00:14:29,780
+eu tava contando pro Gita
+
+710
+00:14:29,780 --> 00:14:30,980
+o primeiro deploy que eu fiz
+
+711
+00:14:30,980 --> 00:14:33,080
+sabe quanto tempo durou o primeiro deploy que eu fiz?
+
+712
+00:14:33,080 --> 00:14:36,440
+foi por aí que eu fiz sozinho, nunca tinha mexido com Azure e com nada
+
+713
+00:14:36,440 --> 00:14:37,720
+chuta, durou uma hora
+
+714
+00:14:37,720 --> 00:14:39,400
+fiz o deploy e uma hora caiu o sistema
+
+715
+00:14:39,400 --> 00:14:40,800
+porque eu não sabia de nada dessas coisas
+
+716
+00:14:40,800 --> 00:14:43,020
+botei lá pra fazer, só quero estagiário
+
+717
+00:14:43,020 --> 00:14:44,100
+aí não fui demitido
+
+718
+00:14:44,100 --> 00:14:46,220
+mas aí foi isso, pra vocês terem uma ideia
+
+719
+00:14:46,220 --> 00:14:48,600
+no Python 2.7 não pode acento
+
+720
+00:14:48,600 --> 00:14:50,400
+então, poxa, fiz um comentário
+
+721
+00:14:50,400 --> 00:14:53,840
+o servidor de produção era um Python 2.7
+
+722
+00:14:53,840 --> 00:14:56,220
+o meu era um 3 alguma coisa
+
+723
+00:14:56,220 --> 00:14:58,320
+tu faz o commit, não tinha teste
+
+724
+00:14:58,320 --> 00:15:00,160
+não tinha nada verificando, dá um erro, acabou
+
+725
+00:15:00,160 --> 00:15:01,140
+deu ruim a aplicação
+
+726
+00:15:01,140 --> 00:15:02,500
+tá ligado? tipo assim, por isso que eu falo
+
+727
+00:15:02,500 --> 00:15:04,060
+qual é a hora que eu tenho que ver o payenv?
+
+728
+00:15:04,340 --> 00:15:05,340
+agora, tá ligado?
+
+729
+00:15:05,420 --> 00:15:07,100
+tipo, a primeira coisa que você tem que fazer
+
+730
+00:15:07,100 --> 00:15:08,780
+é verificar a versão do seu projeto
+
+731
+00:15:08,780 --> 00:15:10,920
+então, tipo assim, como é que você descobre a versão do seu projeto?
+
+732
+00:15:11,040 --> 00:15:13,280
+você vai no seu ambiente de produção e checa lá
+
+733
+00:15:13,280 --> 00:15:15,260
+aí vamos dizer que é o 3.2
+
+734
+00:15:15,260 --> 00:15:17,040
+vamos dizer que tem, que é novo
+
+735
+00:15:17,040 --> 00:15:18,200
+o que tu vai fazer agora?
+
+736
+00:15:18,500 --> 00:15:19,700
+pegar esse projeto aqui
+
+737
+00:15:19,700 --> 00:15:20,900
+vai vir aqui, touch
+
+738
+00:15:20,900 --> 00:15:22,380
+então pode vir aqui, quer ver?
+
+739
+00:15:22,780 --> 00:15:24,060
+payenv, local
+
+740
+00:15:24,060 --> 00:15:25,940
+e qual? isso é até o 3.2.1
+
+741
+00:15:25,940 --> 00:15:27,200
+fez isso? já criou isso aqui
+
+742
+00:15:27,200 --> 00:15:30,640
+aí já vai vir em git, add.git, commit
+
+743
+00:15:30,640 --> 00:15:31,760
+aí pode botar aí
+
+744
+00:15:31,760 --> 00:15:33,160
+dois pontos
+
+745
+00:15:33,160 --> 00:15:34,120
+build
+
+746
+00:15:34,120 --> 00:15:34,960
+build
+
+747
+00:15:34,960 --> 00:15:36,820
+adicionar
+
+748
+00:15:36,820 --> 00:15:39,300
+definir versão do python
+
+749
+00:15:39,300 --> 00:15:41,640
+para 3.2.1
+
+750
+00:15:41,640 --> 00:15:42,600
+um excelente commit
+
+751
+00:15:42,600 --> 00:15:44,000
+tem um arquivo só
+
+752
+00:15:44,000 --> 00:15:44,560
+beleza
+
+753
+00:15:44,560 --> 00:15:45,920
+meu projeto já tá definido
+
+754
+00:15:45,920 --> 00:15:46,680
+10 minutos
+
+755
+00:15:46,680 --> 00:15:47,880
+tá ligado? tipo
+
+756
+00:15:47,880 --> 00:15:49,460
+então, como é que vai fazer?
+
+757
+00:15:49,740 --> 00:15:52,580
+vai ser a primeira versão que tiver do seu ambiente de desenvolvimento
+
+758
+00:15:52,580 --> 00:15:53,620
+por quê? porque eu não quero fazer nada
+
+759
+00:15:53,620 --> 00:15:54,320
+eu só quero definir
+
+760
+00:15:54,320 --> 00:15:56,360
+se não tiver definido um projeto que não tá
+
+761
+00:15:56,360 --> 00:15:57,780
+você vai tentar utilizar a mais nova
+
+762
+00:15:57,780 --> 00:15:59,120
+preferencialmente 3.12
+
+763
+00:15:59,120 --> 00:16:01,040
+aí vai olhar em todas as bibliotecas
+
+764
+00:16:01,040 --> 00:16:02,400
+que você quer tentar usar
+
+765
+00:16:02,400 --> 00:16:02,920
+tá bom?
+
+766
+00:16:03,020 --> 00:16:04,580
+se encontrar uma que não dê 3.12
+
+767
+00:16:04,580 --> 00:16:05,400
+dê 3.11
+
+768
+00:16:05,400 --> 00:16:06,500
+você usa 3.11
+
+769
+00:16:06,500 --> 00:16:08,440
+não encontrou uma que pega 3.11
+
+770
+00:16:08,440 --> 00:16:09,440
+pega 3.10
+
+771
+00:16:09,440 --> 00:16:10,380
+vai escolher qual?
+
+772
+00:16:10,700 --> 00:16:11,720
+vai botar uma hat flag
+
+773
+00:16:11,720 --> 00:16:12,240
+porque
+
+774
+00:16:12,240 --> 00:16:14,840
+essa biblioteca não tá sendo atualizada há dois anos
+
+775
+00:16:14,840 --> 00:16:16,880
+será que é uma biblioteca que você quer botar no teu projeto?
+
+776
+00:16:17,140 --> 00:16:17,720
+pode botar
+
+777
+00:16:17,720 --> 00:16:19,040
+mas tem que pensar nisso
+
+778
+00:16:19,040 --> 00:16:21,700
+o ideal é sempre pegar bibliotecas que estão atualizadas na 3.12
+
+779
+00:16:21,700 --> 00:16:24,000
+que isso mostra que ela é uma biblioteca que tá sendo bem usada
+
+780
+00:16:24,000 --> 00:16:24,900
+tá tendo manutenção
+
+781
+00:16:24,900 --> 00:16:27,740
+isso é uma coisa que você tem que fazer no início do projeto no primeiro dia
+
+782
+00:16:27,740 --> 00:16:28,800
+vai chegar no kick-off
+
+783
+00:16:28,800 --> 00:16:30,040
+você tem que ter definido tudo isso já
+
+784
+00:16:30,040 --> 00:16:31,360
+20 minutos de Paeve
+
+785
+00:16:31,360 --> 00:16:32,580
+acho que eu nunca falei tanto de Paeve
+
+786
+00:16:32,580 --> 00:16:33,860
+vai, outra pergunta
+
+787
+00:16:33,860 --> 00:16:34,520
+fez sentido?
+
+788
+00:16:34,880 --> 00:16:35,820
+Gustavo, todo mundo entendeu?
+
+789
+00:16:35,980 --> 00:16:37,200
+que momento eu tenho que definir o Paeve?
+
+790
+00:16:37,360 --> 00:16:37,680
+agora
+
+791
+00:16:37,680 --> 00:16:38,200
+tá bom?
+
+792
+00:16:38,320 --> 00:16:38,680
+agora
+
+793
+00:16:38,680 --> 00:16:39,160
+agora
+
+794
+00:16:39,160 --> 00:16:39,560
+primeiro é
+
+795
+00:16:39,560 --> 00:16:40,420
+o meu projeto não tem Paeve
+
+796
+00:16:40,420 --> 00:16:41,600
+vai chegar na semana que vem
+
+797
+00:16:41,600 --> 00:16:42,560
+no Scromaster
+
+798
+00:16:42,560 --> 00:16:43,460
+vai falar Scromaster
+
+799
+00:16:43,460 --> 00:16:45,060
+o Rafael Pio
+
+800
+00:16:45,060 --> 00:16:45,780
+ele adora ser Pio
+
+801
+00:16:45,780 --> 00:16:47,620
+ele é o cara que faz trelo
+
+802
+00:16:47,620 --> 00:16:48,060
+tá ligado?
+
+803
+00:16:48,440 --> 00:16:49,560
+meu Deus, eu odeio trelo
+
+804
+00:16:49,560 --> 00:16:50,160
+não sei se vocês gostam
+
+805
+00:16:50,160 --> 00:16:50,780
+vocês gostam de trelo?
+
+806
+00:16:51,820 --> 00:16:52,700
+odeio, vejo trelo
+
+807
+00:16:52,700 --> 00:16:53,640
+meu Deus, calafreou
+
+808
+00:16:53,640 --> 00:16:54,600
+mas assim, você vai falar
+
+809
+00:16:54,600 --> 00:16:55,620
+pessoal, na minha treine
+
+810
+00:16:55,620 --> 00:16:55,960
+Rafael
+
+811
+00:16:55,960 --> 00:16:57,700
+meu projeto não tem Paeve
+
+812
+00:16:57,700 --> 00:16:59,220
+o Luciano falou que tem que ter Paeve
+
+813
+00:16:59,220 --> 00:17:00,340
+você me dá 3 horas
+
+814
+00:17:00,340 --> 00:17:01,540
+pra eu fazer atividade do Paeve?
+
+815
+00:17:01,720 --> 00:17:02,600
+senão vai cair o projeto
+
+816
+00:17:02,600 --> 00:17:03,100
+Rafael
+
+817
+00:17:03,100 --> 00:17:04,140
+então aprova 3 horas
+
+818
+00:17:04,140 --> 00:17:05,420
+pra eu definir a versão do meu pai
+
+819
+00:17:05,420 --> 00:17:05,820
+então aqui
+
+820
+00:17:05,820 --> 00:17:07,740
+3 horas de atividade
+
+821
+00:17:07,740 --> 00:17:08,300
+você também aprova?
+
+822
+00:17:08,720 --> 00:17:09,180
+muito tempo?
+
+823
+00:17:09,560 --> 00:17:10,400
+cara, senão vai cair tudo
+
+824
+00:17:10,400 --> 00:17:11,280
+eu preciso de 3 horas
+
+825
+00:17:11,280 --> 00:17:12,320
+tá, então vou fazer o seguinte
+
+826
+00:17:12,320 --> 00:17:13,880
+você é capaz de fazer mais rápido
+
+827
+00:17:13,880 --> 00:17:14,620
+sei que eu sou
+
+828
+00:17:14,620 --> 00:17:16,380
+mas você precisa ter uma qualidade
+
+829
+00:17:16,380 --> 00:17:17,420
+muito boa dos seus produtos
+
+830
+00:17:17,420 --> 00:17:17,640
+então
+
+831
+00:17:17,640 --> 00:17:19,800
+3 horas então, Rafael
+
+832
+00:17:19,800 --> 00:17:20,100
+tá bom?
+
+833
+00:17:20,380 --> 00:17:21,360
+e eu vou querer um aumento
+
+834
+00:17:21,360 --> 00:17:21,800
+Rafael
+
+835
+00:17:21,800 --> 00:17:22,720
+tô brincando
+
+836
+00:17:22,720 --> 00:17:26,160
+vou pedir um aumento
+
+837
+00:17:26,160 --> 00:17:27,900
+deixou eu entregar primeiro em 3 horas
+
+838
+00:17:27,900 --> 00:17:28,340
+então assim, ó
+
+839
+00:17:28,340 --> 00:17:30,460
+não vou perder essa parada
+
+840
+00:17:30,460 --> 00:17:31,460
+de 3 horas
+
+841
+00:17:31,460 --> 00:17:31,980
+tá, você tá ligado?
+
+842
+00:17:32,020 --> 00:17:32,760
+que eu falei que é 3 horas
+
+843
+00:17:32,760 --> 00:17:33,500
+então já vai fazer
+
+844
+00:17:33,500 --> 00:17:34,520
+a primeira coisa que você vai fazer
+
+845
+00:17:34,520 --> 00:17:35,420
+é definir o Paeve
+
+846
+00:17:35,420 --> 00:17:36,900
+é nessa ordem do checklist
+
+847
+00:17:36,900 --> 00:17:37,180
+do
+
+848
+00:17:37,180 --> 00:17:38,680
+vai da merda
+
+849
+00:17:38,680 --> 00:17:39,100
+git
+
+850
+00:17:39,100 --> 00:17:39,940
+Paeve
+
+851
+00:17:39,940 --> 00:17:40,940
+Poetre
+
+852
+00:17:40,940 --> 00:17:41,380
+vai, né?
+
+853
+00:17:41,720 --> 00:17:42,240
+ó Luciano
+
+854
+00:17:42,240 --> 00:17:44,660
+lá naquele vídeo do setup
+
+855
+00:17:44,660 --> 00:17:46,840
+que tu fez lá no início
+
+856
+00:17:46,840 --> 00:17:48,460
+a gente baixa o Python
+
+857
+00:17:48,460 --> 00:17:49,380
+depois do Paeve
+
+858
+00:17:49,380 --> 00:17:50,880
+com o Paeve
+
+859
+00:17:50,880 --> 00:17:51,300
+setado
+
+860
+00:17:51,300 --> 00:17:52,220
+local e global
+
+861
+00:17:52,220 --> 00:17:53,240
+se eu desinstalar
+
+862
+00:17:53,240 --> 00:17:54,020
+aquele primeiro Python
+
+863
+00:17:54,020 --> 00:17:54,960
+continua rodando normal
+
+864
+00:17:54,960 --> 00:17:55,500
+dá ruim
+
+865
+00:17:55,500 --> 00:17:56,500
+dá ruim no Python
+
+866
+00:17:56,500 --> 00:17:57,180
+dá ruim
+
+867
+00:17:57,180 --> 00:17:57,880
+deixa aquele Python
+
+868
+00:17:57,880 --> 00:17:58,360
+só pra aí
+
+869
+00:17:58,360 --> 00:17:59,480
+independência daquele arquivo
+
+870
+00:17:59,480 --> 00:18:00,340
+tipo assim, por exemplo
+
+871
+00:18:00,340 --> 00:18:01,500
+eu vou te falar uma coisa
+
+872
+00:18:01,500 --> 00:18:02,040
+eu não sei
+
+873
+00:18:02,040 --> 00:18:04,440
+do Windows
+
+874
+00:18:04,440 --> 00:18:05,520
+mas no Linux
+
+875
+00:18:05,520 --> 00:18:06,100
+e no Mac
+
+876
+00:18:06,100 --> 00:18:06,840
+por que ele vem
+
+877
+00:18:06,840 --> 00:18:07,720
+instalado?
+
+878
+00:18:08,560 --> 00:18:09,480
+porque o sistema
+
+879
+00:18:09,480 --> 00:18:09,980
+usa aquilo
+
+880
+00:18:09,980 --> 00:18:10,620
+pra outras coisas
+
+881
+00:18:10,620 --> 00:18:11,580
+então, por exemplo
+
+882
+00:18:11,580 --> 00:18:12,700
+o Windows
+
+883
+00:18:12,700 --> 00:18:13,360
+é o único que você tem
+
+884
+00:18:13,360 --> 00:18:13,940
+que instalar o Python
+
+885
+00:18:13,940 --> 00:18:14,720
+o Mac
+
+886
+00:18:14,720 --> 00:18:15,360
+e o Linux
+
+887
+00:18:15,360 --> 00:18:16,880
+já vem com o Python instalado
+
+888
+00:18:16,880 --> 00:18:17,360
+então assim
+
+889
+00:18:17,360 --> 00:18:18,220
+tipo, eles usam
+
+890
+00:18:18,220 --> 00:18:18,860
+pra outras coisas
+
+891
+00:18:18,860 --> 00:18:19,880
+então deixa aquela versão
+
+892
+00:18:19,880 --> 00:18:21,200
+pra qualquer coisa
+
+893
+00:18:21,200 --> 00:18:22,600
+é só você não usar
+
+894
+00:18:22,600 --> 00:18:23,480
+você sempre vai usar
+
+895
+00:18:23,480 --> 00:18:24,580
+uma versão do seu projeto
+
+896
+00:18:24,580 --> 00:18:25,980
+com o path do Paeve
+
+897
+00:18:25,980 --> 00:18:26,620
+tá bom?
+
+898
+00:18:26,960 --> 00:18:27,420
+aí tipo assim
+
+899
+00:18:27,420 --> 00:18:28,040
+vai ter aquela
+
+900
+00:18:28,040 --> 00:18:28,980
+aquela que você não usa
+
+901
+00:18:28,980 --> 00:18:29,440
+pra nada
+
+902
+00:18:29,440 --> 00:18:30,640
+e todas as outras
+
+903
+00:18:30,640 --> 00:18:31,300
+do seu Paeve
+
+904
+00:18:31,300 --> 00:18:31,620
+aqui, né?
+
+905
+00:18:31,620 --> 00:18:32,080
+se eu venho aqui
+
+906
+00:18:32,080 --> 00:18:33,680
+um Paeve
+
+907
+00:18:33,680 --> 00:18:35,200
+list, né?
+
+908
+00:18:36,060 --> 00:18:36,460
+Paeve
+
+909
+00:18:36,460 --> 00:18:37,800
+Paeve
+
+910
+00:18:37,800 --> 00:18:38,380
+help
+
+911
+00:18:38,380 --> 00:18:39,160
+Paeve
+
+912
+00:18:39,160 --> 00:18:39,500
+h
+
+913
+00:18:39,500 --> 00:18:40,580
+g
+
+914
+00:18:40,580 --> 00:18:41,820
+paeve
+
+915
+00:18:41,820 --> 00:18:42,640
+paeve
+
+916
+00:18:42,640 --> 00:18:43,400
+versions
+
+917
+00:18:43,400 --> 00:18:45,180
+aí, boa
+
+918
+00:18:45,180 --> 00:18:45,860
+então, ó
+
+919
+00:18:45,860 --> 00:18:47,240
+tô aqui com a minha
+
+920
+00:18:47,240 --> 00:18:48,400
+do Paeve
+
+921
+00:18:48,400 --> 00:18:48,880
+tá bom?
+
+922
+00:18:49,200 --> 00:18:49,600
+então, tipo
+
+923
+00:18:49,600 --> 00:18:50,640
+Python
+
+924
+00:18:50,640 --> 00:18:51,820
+versions
+
+925
+00:18:51,820 --> 00:18:52,660
+acho que também tem, né?
+
+926
+00:18:52,940 --> 00:18:53,180
+Python
+
+927
+00:18:53,180 --> 00:18:53,520
+é
+
+928
+00:18:53,520 --> 00:18:55,200
+tipo, não tem problema
+
+929
+00:18:55,200 --> 00:18:56,140
+tipo, você ter mais de uma
+
+930
+00:18:56,140 --> 00:18:57,120
+de uma versão, não
+
+931
+00:18:57,120 --> 00:18:57,320
+tá bom?
+
+932
+00:18:57,340 --> 00:18:58,140
+não precisa deletar, não
+
+933
+00:18:58,140 --> 00:18:59,260
+qual Linux você usa?
+
+934
+00:18:59,300 --> 00:19:00,060
+só por curiosidade
+
+935
+00:19:00,060 --> 00:19:01,000
+cara, faz muito tempo
+
+936
+00:19:01,000 --> 00:19:01,520
+que eu não uso Linux
+
+937
+00:19:01,520 --> 00:19:02,620
+eu uso Mac, meu
+
+938
+00:19:02,620 --> 00:19:03,140
+pessoal
+
+939
+00:19:03,140 --> 00:19:04,380
+faz tempo que eu não uso Linux
+
+940
+00:19:04,380 --> 00:19:05,600
+se a gente desenvolve
+
+941
+00:19:05,600 --> 00:19:06,460
+um projeto
+
+942
+00:19:06,460 --> 00:19:07,380
+com o Poetry
+
+943
+00:19:07,380 --> 00:19:08,540
+pois
+
+944
+00:19:08,540 --> 00:19:09,400
+quiser rodar
+
+945
+00:19:09,400 --> 00:19:10,840
+com o ambiente virtual
+
+946
+00:19:10,840 --> 00:19:11,980
+do PIP mesmo
+
+947
+00:19:11,980 --> 00:19:12,780
+isso é possível?
+
+948
+00:19:12,940 --> 00:19:13,560
+sim, você vem assim
+
+949
+00:19:13,560 --> 00:19:13,960
+tem que criar
+
+950
+00:19:13,960 --> 00:19:15,320
+aquele requirement
+
+951
+00:19:15,320 --> 00:19:16,260
+com o Poetry
+
+952
+00:19:16,260 --> 00:19:17,340
+se liga
+
+953
+00:19:17,340 --> 00:19:18,520
+vamos pegar um projeto
+
+954
+00:19:18,520 --> 00:19:19,960
+que usa Poetry
+
+955
+00:19:19,960 --> 00:19:20,880
+Poetry
+
+956
+00:19:20,880 --> 00:19:22,500
+acho que o Paidentic
+
+957
+00:19:22,500 --> 00:19:24,160
+usa Poetry
+
+958
+00:19:24,160 --> 00:19:25,600
+boa tarde, senhores
+
+959
+00:19:25,600 --> 00:19:26,560
+boa tarde, Cabanet
+
+960
+00:19:26,560 --> 00:19:26,880
+tudo bem?
+
+961
+00:19:27,240 --> 00:19:28,220
+é, tudo certo
+
+962
+00:19:28,220 --> 00:19:29,140
+bem é quando
+
+963
+00:19:29,140 --> 00:19:29,940
+vocês fazem
+
+964
+00:19:29,940 --> 00:19:30,940
+as lives
+
+965
+00:19:30,940 --> 00:19:31,760
+eu tenho sempre
+
+966
+00:19:31,760 --> 00:19:32,940
+uma reunião
+
+967
+00:19:32,940 --> 00:19:34,480
+com o cliente
+
+968
+00:19:34,480 --> 00:19:35,300
+só pra terminar
+
+969
+00:19:35,300 --> 00:19:35,940
+de responder aqui
+
+970
+00:19:35,940 --> 00:19:36,260
+Cabanet
+
+971
+00:19:36,260 --> 00:19:36,980
+um minutinho aqui
+
+972
+00:19:36,980 --> 00:19:37,580
+senão vou perder
+
+973
+00:19:37,580 --> 00:19:38,260
+o raciocínio
+
+974
+00:19:38,260 --> 00:19:39,040
+ó, esse aqui
+
+975
+00:19:39,040 --> 00:19:40,180
+o Paidentic
+
+976
+00:19:40,180 --> 00:19:41,040
+ele só usa
+
+977
+00:19:41,040 --> 00:19:41,760
+o arquivo
+
+978
+00:19:41,760 --> 00:19:42,600
+do Poetry
+
+979
+00:19:42,600 --> 00:19:43,600
+provavelmente
+
+980
+00:19:43,600 --> 00:19:44,220
+olha que legal
+
+981
+00:19:44,220 --> 00:19:45,120
+isso aqui é interessante
+
+982
+00:19:45,120 --> 00:19:46,180
+eu sempre
+
+983
+00:19:46,180 --> 00:19:46,460
+no meu
+
+984
+00:19:46,460 --> 00:19:48,320
+quando eu vou
+
+985
+00:19:48,320 --> 00:19:48,760
+o Poetry
+
+986
+00:19:48,760 --> 00:19:49,180
+eu dou
+
+987
+00:19:49,180 --> 00:19:49,440
+enter
+
+988
+00:19:49,440 --> 00:19:51,560
+aqui
+
+989
+00:19:51,560 --> 00:19:52,540
+ele teve que
+
+990
+00:19:52,540 --> 00:19:53,280
+colocar e fazer
+
+991
+00:19:53,280 --> 00:19:54,700
+uma edição melhor
+
+992
+00:19:54,700 --> 00:19:55,960
+ele usa o PDM
+
+993
+00:19:55,960 --> 00:19:56,560
+ele não usa nem
+
+994
+00:19:56,560 --> 00:19:57,000
+o Poetry
+
+995
+00:19:57,000 --> 00:19:58,420
+mas o que você
+
+996
+00:19:58,420 --> 00:19:59,060
+pode fazer
+
+997
+00:19:59,060 --> 00:20:00,140
+é a mesma coisa
+
+998
+00:20:00,140 --> 00:20:00,580
+você vai no seu
+
+999
+00:20:00,580 --> 00:20:01,540
+ambiente de produção
+
+1000
+00:20:01,540 --> 00:20:02,300
+vamos dizer que
+
+1001
+00:20:02,300 --> 00:20:02,700
+aqui é um ambiente
+
+1002
+00:20:02,700 --> 00:20:03,180
+de produção
+
+1003
+00:20:03,180 --> 00:20:04,020
+ele usa
+
+1004
+00:20:04,020 --> 00:20:04,880
+Poetry
+
+1005
+00:20:04,880 --> 00:20:05,640
+vou dar um
+
+1006
+00:20:05,640 --> 00:20:05,900
+Poetry
+
+1007
+00:20:05,900 --> 00:20:06,320
+aqui
+
+1008
+00:20:06,320 --> 00:20:07,620
+aí vou vir aqui
+
+1009
+00:20:07,620 --> 00:20:08,320
+um Poetry
+
+1010
+00:20:08,320 --> 00:20:09,700
+é de pandas
+
+1011
+00:20:09,700 --> 00:20:10,920
+Poetry
+
+1012
+00:20:10,920 --> 00:20:12,080
+quase que fiz besteira
+
+1013
+00:20:12,080 --> 00:20:13,020
+Poetry
+
+1014
+00:20:13,020 --> 00:20:14,520
+é de pandas
+
+1015
+00:20:14,520 --> 00:20:16,440
+beleza
+
+1016
+00:20:16,440 --> 00:20:18,820
+vou adicionar aqui
+
+1017
+00:20:18,820 --> 00:20:19,140
+git
+
+1018
+00:20:19,140 --> 00:20:19,560
+add
+
+1019
+00:20:19,560 --> 00:20:20,380
+git
+
+1020
+00:20:20,380 --> 00:20:20,900
+commit
+
+1021
+00:20:20,900 --> 00:20:23,380
+build
+
+1022
+00:20:23,380 --> 00:20:25,340
+adicionar
+
+1023
+00:20:25,340 --> 00:20:26,240
+arquivo
+
+1024
+00:20:26,240 --> 00:20:27,440
+de
+
+1025
+00:20:27,440 --> 00:20:28,860
+dependências
+
+1026
+00:20:28,860 --> 00:20:30,520
+dependências
+
+1027
+00:20:30,520 --> 00:20:32,300
+pyproject
+
+1028
+00:20:32,300 --> 00:20:33,800
+pyproject
+
+1029
+00:20:33,800 --> 00:20:34,740
+ponto
+
+1030
+00:20:34,740 --> 00:20:35,220
+tomelo
+
+1031
+00:20:35,220 --> 00:20:35,920
+isso é uma coisa
+
+1032
+00:20:35,920 --> 00:20:36,120
+que tem que
+
+1033
+00:20:36,120 --> 00:20:36,560
+defender também
+
+1034
+00:20:36,560 --> 00:20:36,860
+no início
+
+1035
+00:20:36,860 --> 00:20:37,220
+do projeto
+
+1036
+00:20:37,220 --> 00:20:37,480
+a gente vai
+
+1037
+00:20:37,480 --> 00:20:38,000
+usar qual
+
+1038
+00:20:38,000 --> 00:20:38,840
+instalador
+
+1039
+00:20:38,840 --> 00:20:39,320
+mas se eu
+
+1040
+00:20:39,320 --> 00:20:39,600
+quiser
+
+1041
+00:20:39,600 --> 00:20:40,300
+se eu
+
+1042
+00:20:40,300 --> 00:20:40,480
+faço
+
+1043
+00:20:40,480 --> 00:20:41,220
+o pip list
+
+1044
+00:20:41,220 --> 00:20:42,240
+ele lista
+
+1045
+00:20:42,240 --> 00:20:42,500
+para mim
+
+1046
+00:20:42,500 --> 00:20:43,520
+todas as bibliotecas
+
+1047
+00:20:43,520 --> 00:20:44,320
+então se eu
+
+1048
+00:20:44,320 --> 00:20:44,540
+quiser
+
+1049
+00:20:44,540 --> 00:20:44,980
+eu posso
+
+1050
+00:20:44,980 --> 00:20:45,320
+continuar
+
+1051
+00:20:45,320 --> 00:20:45,760
+fazendo
+
+1052
+00:20:45,760 --> 00:20:46,600
+pip
+
+1053
+00:20:46,600 --> 00:20:47,600
+freeze
+
+1054
+00:20:47,600 --> 00:20:48,680
+requirements
+
+1055
+00:20:48,680 --> 00:20:49,740
+.txt
+
+1056
+00:20:49,740 --> 00:20:50,980
+e ele cria
+
+1057
+00:20:50,980 --> 00:20:52,580
+eu escrevi
+
+1058
+00:20:52,580 --> 00:20:53,220
+freeze errado
+
+1059
+00:20:53,220 --> 00:20:54,100
+criou esse arquivo
+
+1060
+00:20:54,100 --> 00:20:54,540
+aqui para mim
+
+1061
+00:20:54,540 --> 00:20:55,280
+aí eu posso
+
+1062
+00:20:55,280 --> 00:20:55,800
+vir aqui
+
+1063
+00:20:55,800 --> 00:20:56,480
+git
+
+1064
+00:20:56,480 --> 00:20:56,860
+add
+
+1065
+00:20:56,860 --> 00:20:57,920
+requirements
+
+1066
+00:20:57,920 --> 00:20:58,720
+git
+
+1067
+00:20:58,720 --> 00:20:59,200
+commit
+
+1068
+00:20:59,200 --> 00:21:00,040
+build
+
+1069
+00:21:00,040 --> 00:21:01,540
+adicionar
+
+1070
+00:21:01,540 --> 00:21:02,040
+lista
+
+1071
+00:21:02,040 --> 00:21:03,280
+de requirements
+
+1072
+00:21:03,280 --> 00:21:04,380
+para
+
+1073
+00:21:04,380 --> 00:21:05,380
+prod
+
+1074
+00:21:05,380 --> 00:21:06,080
+vai fazer
+
+1075
+00:21:06,080 --> 00:21:06,380
+deploy
+
+1076
+00:21:06,380 --> 00:21:06,980
+e se quiser
+
+1077
+00:21:06,980 --> 00:21:07,580
+fazer até o seguinte
+
+1078
+00:21:07,580 --> 00:21:07,940
+tipo
+
+1079
+00:21:07,940 --> 00:21:09,180
+vamos dizer
+
+1080
+00:21:09,180 --> 00:21:09,600
+que
+
+1081
+00:21:09,600 --> 00:21:11,420
+no meu negócio
+
+1082
+00:21:11,420 --> 00:21:12,180
+vamos pegar
+
+1083
+00:21:12,180 --> 00:21:12,440
+aqui
+
+1084
+00:21:12,440 --> 00:21:13,260
+poetry
+
+1085
+00:21:13,260 --> 00:21:13,640
+add
+
+1086
+00:21:13,640 --> 00:21:14,900
+mkdocs
+
+1087
+00:21:14,900 --> 00:21:15,720
+opa
+
+1088
+00:21:15,720 --> 00:21:16,220
+besteira
+
+1089
+00:21:16,220 --> 00:21:16,480
+que eu fiz
+
+1090
+00:21:16,480 --> 00:21:16,980
+poetry
+
+1091
+00:21:16,980 --> 00:21:17,260
+add
+
+1092
+00:21:17,260 --> 00:21:18,160
+mkdocs
+
+1093
+00:21:18,160 --> 00:21:18,880
+mkdocs
+
+1094
+00:21:18,880 --> 00:21:19,320
+é uma biblioteca
+
+1095
+00:21:19,320 --> 00:21:19,720
+muito boa
+
+1096
+00:21:19,720 --> 00:21:20,460
+quem gosta
+
+1097
+00:21:20,460 --> 00:21:21,080
+de mkdocs
+
+1098
+00:21:21,080 --> 00:21:21,640
+muito boa
+
+1099
+00:21:21,640 --> 00:21:22,600
+mas
+
+1100
+00:21:22,600 --> 00:21:23,200
+eu não preciso
+
+1101
+00:21:23,200 --> 00:21:23,840
+do mkdocs
+
+1102
+00:21:23,840 --> 00:21:24,460
+no meu deploy
+
+1103
+00:21:24,460 --> 00:21:24,780
+né
+
+1104
+00:21:24,780 --> 00:21:27,420
+então opa
+
+1105
+00:21:27,420 --> 00:21:28,620
+eu posso vir aqui
+
+1106
+00:21:28,620 --> 00:21:29,220
+pip
+
+1107
+00:21:29,220 --> 00:21:30,580
+freeze
+
+1108
+00:21:30,580 --> 00:21:31,840
+requirements
+
+1109
+00:21:31,840 --> 00:21:32,260
+e eu deixo
+
+1110
+00:21:32,260 --> 00:21:32,860
+dois requirements
+
+1111
+00:21:32,860 --> 00:21:33,620
+no meu projeto
+
+1112
+00:21:33,620 --> 00:21:34,380
+um
+
+1113
+00:21:34,380 --> 00:21:35,160
+para o ambiente
+
+1114
+00:21:35,160 --> 00:21:35,800
+de dev
+
+1115
+00:21:35,800 --> 00:21:36,640
+ou um para o ambiente
+
+1116
+00:21:36,640 --> 00:21:37,140
+de prod
+
+1117
+00:21:37,140 --> 00:21:38,020
+porque no ambiente
+
+1118
+00:21:38,020 --> 00:21:38,420
+de produção
+
+1119
+00:21:38,420 --> 00:21:38,920
+não precisa estar
+
+1120
+00:21:38,920 --> 00:21:39,460
+rodando um negócio
+
+1121
+00:21:39,460 --> 00:21:40,240
+de documentação
+
+1122
+00:21:40,240 --> 00:21:40,620
+tá ligado
+
+1123
+00:21:40,620 --> 00:21:41,700
+negócio de documentação
+
+1124
+00:21:41,700 --> 00:21:42,040
+eu vou rodar
+
+1125
+00:21:42,040 --> 00:21:42,660
+num outro servidor
+
+1126
+00:21:42,660 --> 00:21:43,040
+depois
+
+1127
+00:21:43,040 --> 00:21:44,120
+da minha aplicação
+
+1128
+00:21:44,120 --> 00:21:44,920
+vai ser uma API
+
+1129
+00:21:44,920 --> 00:21:45,800
+vai ser alguma coisa
+
+1130
+00:21:45,800 --> 00:21:46,320
+não precisa ficar
+
+1131
+00:21:46,320 --> 00:21:47,100
+renderizando uma
+
+1132
+00:21:47,100 --> 00:21:47,660
+paginazinha
+
+1133
+00:21:47,660 --> 00:21:48,420
+eu não vou acessar
+
+1134
+00:21:48,420 --> 00:21:48,680
+de lá
+
+1135
+00:21:48,680 --> 00:21:49,500
+então a gente pode
+
+1136
+00:21:49,500 --> 00:21:50,260
+ter diferentes
+
+1137
+00:21:50,260 --> 00:21:50,940
+requirements
+
+1138
+00:21:50,940 --> 00:21:51,500
+um para o ambiente
+
+1139
+00:21:51,500 --> 00:21:52,160
+de dev
+
+1140
+00:21:52,160 --> 00:21:53,060
+um ambiente
+
+1141
+00:21:53,060 --> 00:21:54,080
+de prod
+
+1142
+00:21:54,080 --> 00:21:55,080
+se eu tiver
+
+1143
+00:21:55,080 --> 00:21:55,840
+tipo um
+
+1144
+00:21:55,840 --> 00:21:56,720
+um ambiente
+
+1145
+00:21:56,720 --> 00:21:58,020
+de v2
+
+1146
+00:21:58,020 --> 00:21:59,020
+um ambiente
+
+1147
+00:21:59,020 --> 00:21:59,800
+de v3
+
+1148
+00:21:59,800 --> 00:22:00,980
+lembra que isso aqui
+
+1149
+00:22:00,980 --> 00:22:01,960
+está me ajudando
+
+1150
+00:22:01,960 --> 00:22:02,660
+porque quando eu for
+
+1151
+00:22:02,660 --> 00:22:03,520
+pegar uma máquina
+
+1152
+00:22:03,520 --> 00:22:04,360
+lá na AWS
+
+1153
+00:22:04,360 --> 00:22:05,360
+na AWS
+
+1154
+00:22:05,360 --> 00:22:06,640
+eu tenho que configurar
+
+1155
+00:22:06,640 --> 00:22:06,900
+tudo isso
+
+1156
+00:22:06,900 --> 00:22:07,620
+ele pergunta para mim
+
+1157
+00:22:07,620 --> 00:22:08,060
+ele fala
+
+1158
+00:22:08,060 --> 00:22:08,920
+qual é a sua versão do Python
+
+1159
+00:22:08,920 --> 00:22:09,800
+vou ter que responder
+
+1160
+00:22:09,800 --> 00:22:10,260
+vou botar
+
+1161
+00:22:10,260 --> 00:22:11,060
+escolhe
+
+1162
+00:22:11,060 --> 00:22:11,440
+aí pode
+
+1163
+00:22:11,440 --> 00:22:12,340
+eu sempre coloco
+
+1164
+00:22:12,340 --> 00:22:13,140
+para alguém escolher
+
+1165
+00:22:13,140 --> 00:22:13,500
+para mim
+
+1166
+00:22:13,500 --> 00:22:14,380
+a chance
+
+1167
+00:22:14,380 --> 00:22:15,360
+é essa aqui
+
+1168
+00:22:15,360 --> 00:22:16,580
+se eu vou rodar
+
+1169
+00:22:16,580 --> 00:22:17,240
+na minha máquina
+
+1170
+00:22:17,240 --> 00:22:17,960
+um projeto
+
+1171
+00:22:17,960 --> 00:22:18,260
+que foi
+
+1172
+00:22:18,260 --> 00:22:18,960
+no caso
+
+1173
+00:22:18,960 --> 00:22:19,600
+feito com
+
+1174
+00:22:19,600 --> 00:22:20,780
+usando o Poetry
+
+1175
+00:22:20,780 --> 00:22:21,620
+ele vai buscar
+
+1176
+00:22:21,620 --> 00:22:22,120
+as dependências
+
+1177
+00:22:22,120 --> 00:22:22,900
+lá naquele ponto
+
+1178
+00:22:22,900 --> 00:22:23,160
+lock
+
+1179
+00:22:23,160 --> 00:22:23,680
+isso
+
+1180
+00:22:23,680 --> 00:22:24,160
+o Poetry
+
+1181
+00:22:24,160 --> 00:22:24,540
+quando você dá
+
+1182
+00:22:24,540 --> 00:22:25,300
+o Poetry install
+
+1183
+00:22:25,300 --> 00:22:25,980
+ele usa esse
+
+1184
+00:22:25,980 --> 00:22:26,500
+e esse aqui
+
+1185
+00:22:26,500 --> 00:22:27,160
+tá bom
+
+1186
+00:22:27,160 --> 00:22:28,320
+esse requirement
+
+1187
+00:22:28,320 --> 00:22:28,900
+seria só
+
+1188
+00:22:28,900 --> 00:22:29,780
+para um ambiente virtual
+
+1189
+00:22:29,780 --> 00:22:30,300
+usando o pip
+
+1190
+00:22:30,300 --> 00:22:30,900
+esse aqui
+
+1191
+00:22:30,900 --> 00:22:31,280
+se eu quero
+
+1192
+00:22:31,280 --> 00:22:32,060
+quiser usar o pip
+
+1193
+00:22:32,060 --> 00:22:32,820
+ou qualquer coisa
+
+1194
+00:22:32,820 --> 00:22:33,420
+porque tipo assim
+
+1195
+00:22:33,420 --> 00:22:34,460
+se eu for começar
+
+1196
+00:22:34,460 --> 00:22:35,500
+um outro projeto do zero
+
+1197
+00:22:35,500 --> 00:22:36,740
+eu posso fazer o pip
+
+1198
+00:22:36,740 --> 00:22:38,020
+install pandas
+
+1199
+00:22:38,020 --> 00:22:38,940
+mas eu posso vir em
+
+1200
+00:22:38,940 --> 00:22:39,560
+pip install
+
+1201
+00:22:39,560 --> 00:22:40,820
+r requirements
+
+1202
+00:22:40,820 --> 00:22:43,180
+dev
+
+1203
+00:22:43,180 --> 00:22:44,220
+aí ele vai instalar
+
+1204
+00:22:44,220 --> 00:22:45,340
+todas as bibliotecas
+
+1205
+00:22:45,340 --> 00:22:46,480
+daquele lugar aqui
+
+1206
+00:22:46,480 --> 00:22:47,460
+então tipo assim
+
+1207
+00:22:47,460 --> 00:22:48,300
+tanto o Poetry
+
+1208
+00:22:48,300 --> 00:22:48,940
+quanto o Pip
+
+1209
+00:22:48,940 --> 00:22:50,320
+eles fazem a mesma coisa
+
+1210
+00:22:50,320 --> 00:22:51,920
+a diferença é que o Poetry
+
+1211
+00:22:51,920 --> 00:22:52,960
+é mais moderno
+
+1212
+00:22:52,960 --> 00:22:53,500
+isso aqui
+
+1213
+00:22:53,500 --> 00:22:54,520
+o que tu prefere
+
+1214
+00:22:54,520 --> 00:22:55,480
+começar um projeto
+
+1215
+00:22:55,480 --> 00:22:56,020
+com isso
+
+1216
+00:22:56,020 --> 00:22:56,660
+que vai falar assim
+
+1217
+00:22:56,660 --> 00:22:57,500
+Renato
+
+1218
+00:22:57,500 --> 00:22:58,160
+foi contratado
+
+1219
+00:22:58,160 --> 00:22:59,440
+qual é a especificação
+
+1220
+00:22:59,440 --> 00:22:59,880
+do projeto
+
+1221
+00:22:59,880 --> 00:23:00,320
+isso aqui
+
+1222
+00:23:00,320 --> 00:23:02,960
+agora um desse aqui
+
+1223
+00:23:02,960 --> 00:23:03,520
+tá ligado
+
+1224
+00:23:03,520 --> 00:23:05,280
+quem tu tem que procurar
+
+1225
+00:23:05,280 --> 00:23:07,060
+a versão do Python
+
+1226
+00:23:07,060 --> 00:23:08,680
+a versão das bibliotecas
+
+1227
+00:23:08,680 --> 00:23:09,320
+que usa
+
+1228
+00:23:09,320 --> 00:23:10,440
+o requirement
+
+1229
+00:23:10,440 --> 00:23:10,860
+do pip
+
+1230
+00:23:10,860 --> 00:23:11,480
+ele joga tudo
+
+1231
+00:23:11,480 --> 00:23:12,080
+tá ligado
+
+1232
+00:23:12,080 --> 00:23:12,560
+porque ele pega
+
+1233
+00:23:12,560 --> 00:23:13,180
+as dependências
+
+1234
+00:23:13,180 --> 00:23:13,960
+das dependências
+
+1235
+00:23:13,960 --> 00:23:15,040
+mas vale a pena
+
+1236
+00:23:15,040 --> 00:23:15,720
+num projeto
+
+1237
+00:23:15,720 --> 00:23:16,660
+eu pôr
+
+1238
+00:23:16,660 --> 00:23:17,440
+como é que se roda
+
+1239
+00:23:17,440 --> 00:23:17,920
+com o Pip
+
+1240
+00:23:17,920 --> 00:23:18,600
+também ou não
+
+1241
+00:23:18,600 --> 00:23:20,740
+o que é mais implementado
+
+1242
+00:23:20,740 --> 00:23:20,980
+hoje
+
+1243
+00:23:20,980 --> 00:23:22,860
+o Poetry já é
+
+1244
+00:23:22,860 --> 00:23:23,200
+os dois
+
+1245
+00:23:23,200 --> 00:23:23,940
+os dois
+
+1246
+00:23:23,940 --> 00:23:24,540
+Poetry e Pip
+
+1247
+00:23:24,540 --> 00:23:25,700
+os dois são maduros
+
+1248
+00:23:25,700 --> 00:23:26,060
+tipo assim
+
+1249
+00:23:26,060 --> 00:23:27,080
+o líder do projeto
+
+1250
+00:23:27,080 --> 00:23:28,380
+tem que charar
+
+1251
+00:23:28,380 --> 00:23:28,960
+tem o V
+
+1252
+00:23:28,960 --> 00:23:29,740
+que é tipo Poetry
+
+1253
+00:23:29,740 --> 00:23:30,680
+porém mais rápido
+
+1254
+00:23:30,680 --> 00:23:31,900
+pelos testes
+
+1255
+00:23:31,900 --> 00:23:32,060
+é
+
+1256
+00:23:32,060 --> 00:23:33,180
+eu nunca usei esse o V
+
+1257
+00:23:33,180 --> 00:23:34,040
+eu uso Poetry
+
+1258
+00:23:34,040 --> 00:23:34,380
+Pip
+
+1259
+00:23:34,380 --> 00:23:35,840
+tem vários
+
+1260
+00:23:35,840 --> 00:23:36,620
+tem tipo assim
+
+1261
+00:23:36,620 --> 00:23:37,400
+isso aqui não tem
+
+1262
+00:23:37,400 --> 00:23:38,780
+um preferido
+
+1263
+00:23:38,780 --> 00:23:39,420
+até pensei em fazer
+
+1264
+00:23:39,420 --> 00:23:40,700
+um tier list
+
+1265
+00:23:40,700 --> 00:23:41,000
+disso
+
+1266
+00:23:41,000 --> 00:23:41,680
+mas assim
+
+1267
+00:23:41,680 --> 00:23:42,800
+o importante é definir um
+
+1268
+00:23:42,800 --> 00:23:43,360
+é assim
+
+1269
+00:23:43,360 --> 00:23:43,940
+dois minutos
+
+1270
+00:23:43,940 --> 00:23:44,380
+chegou assim
+
+1271
+00:23:44,380 --> 00:23:44,660
+Rafael
+
+1272
+00:23:44,660 --> 00:23:45,120
+escolhe um
+
+1273
+00:23:45,120 --> 00:23:45,700
+Pip ou Poetry
+
+1274
+00:23:45,700 --> 00:23:46,000
+Poetry
+
+1275
+00:23:46,000 --> 00:23:46,260
+Pip
+
+1276
+00:23:46,260 --> 00:23:47,060
+vamos lá
+
+1277
+00:23:47,060 --> 00:23:48,000
+seja uma coisa
+
+1278
+00:23:48,000 --> 00:23:48,500
+que você não discute
+
+1279
+00:23:48,500 --> 00:23:49,260
+mas discute no início
+
+1280
+00:23:49,260 --> 00:23:49,720
+do projeto
+
+1281
+00:23:49,720 --> 00:23:51,340
+eles fazem a mesma coisa
+
+1282
+00:23:51,340 --> 00:23:52,260
+é um comando
+
+1283
+00:23:52,260 --> 00:23:52,820
+o outro só
+
+1284
+00:23:52,820 --> 00:23:53,860
+eu gosto do Poetry
+
+1285
+00:23:53,860 --> 00:23:54,420
+porque o Poetry
+
+1286
+00:23:54,420 --> 00:23:55,520
+é o recomendado
+
+1287
+00:23:55,520 --> 00:23:57,480
+você já me respondeu
+
+1288
+00:23:57,480 --> 00:23:59,180
+o que eu ia perguntar
+
+1289
+00:23:59,180 --> 00:24:01,120
+mais uma pergunta
+
+1290
+00:24:01,120 --> 00:24:01,400
+então
+
+1291
+00:24:01,400 --> 00:24:01,780
+vamos lá
+
+1292
+00:24:01,780 --> 00:24:02,580
+sobre as aulas aí
+
+1293
+00:24:02,580 --> 00:24:03,540
+tem dois minutos
+
+1294
+00:24:03,540 --> 00:24:04,060
+você precisa fazer
+
+1295
+00:24:04,060 --> 00:24:04,880
+um sorteio pontual
+
+1296
+00:24:04,880 --> 00:24:05,900
+se uma pergunta difícil
+
+1297
+00:24:05,900 --> 00:24:06,400
+eu não vou responder
+
+1298
+00:24:06,400 --> 00:24:07,880
+ó
+
+1299
+00:24:07,880 --> 00:24:08,700
+caramba assim
+
+1300
+00:24:08,700 --> 00:24:09,220
+tem que ser
+
+1301
+00:24:09,220 --> 00:24:10,300
+coisa sim difícil
+
+1302
+00:24:10,300 --> 00:24:10,780
+pra você ficar
+
+1303
+00:24:10,780 --> 00:24:12,620
+carimbado já
+
+1304
+00:24:12,620 --> 00:24:13,080
+bem
+
+1305
+00:24:13,080 --> 00:24:13,860
+eu vou ter que entrar
+
+1306
+00:24:13,860 --> 00:24:14,780
+aqui numa reunião
+
+1307
+00:24:14,780 --> 00:24:16,320
+com o gringo
+
+1308
+00:24:16,320 --> 00:24:17,860
+já falto
+
+1309
+00:24:17,860 --> 00:24:19,040
+daqui dois minutos
+
+1310
+00:24:19,040 --> 00:24:19,320
+boa
+
+1311
+00:24:19,320 --> 00:24:19,920
+boa reunião
+
+1312
+00:24:19,920 --> 00:24:20,180
+aí
+
+1313
+00:24:20,180 --> 00:24:21,460
+tá ligado
+
+1314
+00:24:21,460 --> 00:24:23,660
+todo mundo falando
+
+1315
+00:24:23,660 --> 00:24:24,160
+com o gringo
+
+1316
+00:24:24,160 --> 00:24:25,060
+até que eu vou ter
+
+1317
+00:24:25,060 --> 00:24:25,380
+uma reunião
+
+1318
+00:24:25,380 --> 00:24:25,800
+com o gringo
+
+1319
+00:24:25,800 --> 00:24:26,180
+hoje né
+
+1320
+00:24:26,180 --> 00:24:27,140
+é boato
+
+1321
+00:24:27,140 --> 00:24:27,480
+só
+
+1322
+00:24:27,480 --> 00:24:28,540
+fala aí
+
+1323
+00:24:28,540 --> 00:24:29,160
+decoreitor
+
+1324
+00:24:29,160 --> 00:24:29,660
+faz aí
+
+1325
+00:24:29,660 --> 00:24:31,000
+toda vez que a gente
+
+1326
+00:24:31,000 --> 00:24:32,040
+cria um decoreitor
+
+1327
+00:24:32,040 --> 00:24:32,980
+precisa importar
+
+1328
+00:24:32,980 --> 00:24:33,520
+aquela da
+
+1329
+00:24:33,520 --> 00:24:34,140
+punk tool
+
+1330
+00:24:34,140 --> 00:24:35,120
+a rap
+
+1331
+00:24:35,120 --> 00:24:35,740
+pra indicar
+
+1332
+00:24:35,740 --> 00:24:36,400
+que é um decoreitor
+
+1333
+00:24:36,400 --> 00:24:37,100
+quando você vai criar
+
+1334
+00:24:37,100 --> 00:24:37,380
+sim
+
+1335
+00:24:37,380 --> 00:24:38,240
+não como você vai importar
+
+1336
+00:24:38,240 --> 00:24:38,980
+mas quando você vai criar
+
+1337
+00:24:38,980 --> 00:24:39,260
+sim
+
+1338
+00:24:39,260 --> 00:24:40,300
+ou você pode criar
+
+1339
+00:24:40,300 --> 00:24:40,960
+o seu rapper
+
+1340
+00:24:40,960 --> 00:24:41,700
+tá ele tá perguntando
+
+1341
+00:24:41,700 --> 00:24:42,100
+disso aqui
+
+1342
+00:24:42,100 --> 00:24:43,600
+pra usar um decoreitor
+
+1343
+00:24:43,600 --> 00:24:44,620
+eu tenho que usar
+
+1344
+00:24:44,620 --> 00:24:45,500
+o rapper
+
+1345
+00:24:45,500 --> 00:24:46,180
+obrigatoriamente
+
+1346
+00:24:46,180 --> 00:24:46,660
+do python
+
+1347
+00:24:46,660 --> 00:24:47,320
+a parada é
+
+1348
+00:24:47,320 --> 00:24:47,480
+não
+
+1349
+00:24:47,480 --> 00:24:48,200
+não obrigatoriamente
+
+1350
+00:24:48,200 --> 00:24:48,700
+você precisa
+
+1351
+00:24:48,700 --> 00:24:50,340
+mas ele tem várias vantagens
+
+1352
+00:24:50,340 --> 00:24:51,260
+eu vou botar aqui
+
+1353
+00:24:51,260 --> 00:24:51,940
+pra tu ler depois
+
+1354
+00:24:51,940 --> 00:24:52,620
+aí depois tu vai falar
+
+1355
+00:24:52,620 --> 00:24:53,180
+pô se eu não quiser
+
+1356
+00:24:53,180 --> 00:24:53,680
+essas vantagens
+
+1357
+00:24:53,680 --> 00:24:54,140
+eu não uso
+
+1358
+00:24:54,140 --> 00:24:55,880
+mas fizeram coisas
+
+1359
+00:24:55,880 --> 00:24:56,660
+pra facilitar
+
+1360
+00:24:56,660 --> 00:24:57,440
+roda normal
+
+1361
+00:24:57,440 --> 00:25:00,040
+isso aqui é uma coisa
+
+1362
+00:25:00,040 --> 00:25:00,960
+que é uma funcionalidade
+
+1363
+00:25:00,960 --> 00:25:01,440
+que ele faz
+
+1364
+00:25:01,440 --> 00:25:01,960
+pra você
+
+1365
+00:25:01,960 --> 00:25:03,460
+porque qual que é a questão
+
+1366
+00:25:03,460 --> 00:25:04,660
+se eu jogo
+
+1367
+00:25:04,660 --> 00:25:06,020
+essa função aqui
+
+1368
+00:25:06,020 --> 00:25:06,560
+essa aqui
+
+1369
+00:25:06,560 --> 00:25:07,720
+acaba sendo caracterizada
+
+1370
+00:25:07,720 --> 00:25:08,640
+então quando eu
+
+1371
+00:25:08,640 --> 00:25:09,720
+eu posso chamar
+
+1372
+00:25:09,720 --> 00:25:10,680
+o docstring dela
+
+1373
+00:25:10,680 --> 00:25:11,580
+pra ver a documentação
+
+1374
+00:25:11,580 --> 00:25:12,260
+ela vai estar mostrando
+
+1375
+00:25:12,260 --> 00:25:12,760
+dessa aqui
+
+1376
+00:25:12,760 --> 00:25:13,360
+não dessa aqui
+
+1377
+00:25:13,360 --> 00:25:14,020
+essa aqui
+
+1378
+00:25:14,020 --> 00:25:14,560
+ela garante
+
+1379
+00:25:14,560 --> 00:25:15,980
+que eu não vou perder
+
+1380
+00:25:15,980 --> 00:25:16,440
+nenhuma função
+
+1381
+00:25:16,440 --> 00:25:17,560
+da área da minha função
+
+1382
+00:25:17,560 --> 00:25:17,700
+não
+
+1383
+00:25:17,700 --> 00:25:18,320
+então é uma segurança
+
+1384
+00:25:18,320 --> 00:25:18,760
+tá bom
+
+1385
+00:25:18,760 --> 00:25:19,540
+mas assim tipo
+
+1386
+00:25:19,540 --> 00:25:20,280
+essa foi uma coisa
+
+1387
+00:25:20,280 --> 00:25:21,300
+desenvolvida no python
+
+1388
+00:25:21,300 --> 00:25:21,480
+né
+
+1389
+00:25:21,480 --> 00:25:21,860
+então tipo assim
+
+1390
+00:25:21,860 --> 00:25:22,500
+todas essas coisas
+
+1391
+00:25:22,500 --> 00:25:23,320
+que são desenvolvidas
+
+1392
+00:25:23,320 --> 00:25:24,380
+no python
+
+1393
+00:25:24,380 --> 00:25:25,280
+tu consegue vir
+
+1394
+00:25:25,280 --> 00:25:26,100
+na documentação
+
+1395
+00:25:26,100 --> 00:25:27,040
+e aí tu vai
+
+1396
+00:25:27,040 --> 00:25:27,560
+acho que nem
+
+1397
+00:25:27,560 --> 00:25:28,260
+não era isso aqui não
+
+1398
+00:25:28,260 --> 00:25:28,440
+né
+
+1399
+00:25:28,440 --> 00:25:29,500
+mas aí tu consegue vir
+
+1400
+00:25:29,500 --> 00:25:29,680
+ó
+
+1401
+00:25:29,680 --> 00:25:30,120
+boa
+
+1402
+00:25:30,120 --> 00:25:31,000
+mais usa
+
+1403
+00:25:31,000 --> 00:25:31,520
+fala aí
+
+1404
+00:25:31,520 --> 00:25:31,860
+xará
+
+1405
+00:25:31,860 --> 00:25:32,900
+oi pessoal
+
+1406
+00:25:32,900 --> 00:25:33,920
+boa tarde
+
+1407
+00:25:33,920 --> 00:25:34,440
+boa tarde
+
+1408
+00:25:34,440 --> 00:25:35,360
+xará
+
+1409
+00:25:35,360 --> 00:25:36,200
+tinha feito uma pergunta
+
+1410
+00:25:36,200 --> 00:25:37,680
+aí nas mensagens
+
+1411
+00:25:37,680 --> 00:25:38,340
+aí mas eu vou
+
+1412
+00:25:38,340 --> 00:25:39,480
+replicar aqui
+
+1413
+00:25:39,480 --> 00:25:40,860
+cara você tem como
+
+1414
+00:25:40,860 --> 00:25:41,380
+explicar aí
+
+1415
+00:25:41,380 --> 00:25:42,380
+de forma resumida
+
+1416
+00:25:42,380 --> 00:25:44,060
+qual é o problema
+
+1417
+00:25:44,060 --> 00:25:45,140
+que esses decorators
+
+1418
+00:25:45,140 --> 00:25:46,800
+aí ele resolve
+
+1419
+00:25:46,800 --> 00:25:47,040
+né
+
+1420
+00:25:47,040 --> 00:25:48,060
+se for extenso
+
+1421
+00:25:48,060 --> 00:25:48,600
+cara a gente pode deixar
+
+1422
+00:25:48,600 --> 00:25:49,160
+pra outro momento
+
+1423
+00:25:49,160 --> 00:25:49,420
+certo
+
+1424
+00:25:49,420 --> 00:25:49,800
+não
+
+1425
+00:25:49,800 --> 00:25:50,660
+mais assim
+
+1426
+00:25:50,660 --> 00:25:51,120
+dois minutos
+
+1427
+00:25:51,120 --> 00:25:51,720
+e aí a gente
+
+1428
+00:25:51,720 --> 00:25:53,460
+realmente eu fiquei com dúvida
+
+1429
+00:25:53,460 --> 00:25:54,640
+em relação a isso
+
+1430
+00:25:54,640 --> 00:25:54,920
+tá
+
+1431
+00:25:54,920 --> 00:25:55,900
+a gente vai ter aqui
+
+1432
+00:25:55,900 --> 00:25:56,940
+prepara aí o corte
+
+1433
+00:25:56,940 --> 00:25:57,240
+editor
+
+1434
+00:25:57,240 --> 00:25:57,980
+beleza
+
+1435
+00:25:57,980 --> 00:25:58,780
+esse negócio
+
+1436
+00:25:58,780 --> 00:25:59,660
+faz seta muito feio
+
+1437
+00:25:59,660 --> 00:25:59,960
+aqui
+
+1438
+00:25:59,960 --> 00:26:00,980
+deixa eu dar um zoom
+
+1439
+00:26:00,980 --> 00:26:01,280
+aqui
+
+1440
+00:26:01,280 --> 00:26:02,100
+imagina que a gente
+
+1441
+00:26:02,100 --> 00:26:02,600
+tem uma etélica
+
+1442
+00:26:02,600 --> 00:26:02,980
+qualquer
+
+1443
+00:26:02,980 --> 00:26:03,860
+dá um exemplo
+
+1444
+00:26:03,860 --> 00:26:04,420
+de uma etélica
+
+1445
+00:26:04,420 --> 00:26:05,380
+ela pega
+
+1446
+00:26:05,380 --> 00:26:06,420
+pdf
+
+1447
+00:26:06,420 --> 00:26:07,420
+e transforma
+
+1448
+00:26:07,420 --> 00:26:08,420
+num banco
+
+1449
+00:26:08,420 --> 00:26:08,860
+oracle
+
+1450
+00:26:08,860 --> 00:26:09,580
+projeto que tem
+
+1451
+00:26:09,580 --> 00:26:10,160
+toda a empresa
+
+1452
+00:26:10,160 --> 00:26:11,040
+oracle
+
+1453
+00:26:11,040 --> 00:26:12,140
+assim é oracle
+
+1454
+00:26:12,140 --> 00:26:13,040
+oracle
+
+1455
+00:26:13,040 --> 00:26:14,120
+começa um pdf
+
+1456
+00:26:14,120 --> 00:26:14,740
+projeto de engenharia
+
+1457
+00:26:14,740 --> 00:26:15,200
+básico
+
+1458
+00:26:15,200 --> 00:26:16,140
+engenharia de dados
+
+1459
+00:26:16,140 --> 00:26:16,500
+básicos
+
+1460
+00:26:16,500 --> 00:26:17,440
+eu tenho um pdf
+
+1461
+00:26:17,440 --> 00:26:18,420
+que transforma em oracle
+
+1462
+00:26:18,420 --> 00:26:19,600
+vem aqui no
+
+1463
+00:26:19,600 --> 00:26:20,220
+e-mail
+
+1464
+00:26:20,220 --> 00:26:21,060
+que eu chego
+
+1465
+00:26:21,060 --> 00:26:22,160
+do júris brasil
+
+1466
+00:26:22,160 --> 00:26:23,120
+e eu tenho que colocar
+
+1467
+00:26:23,120 --> 00:26:23,660
+no meu
+
+1468
+00:26:23,660 --> 00:26:24,840
+dw
+
+1469
+00:26:24,840 --> 00:26:25,480
+ou premise
+
+1470
+00:26:25,480 --> 00:26:26,580
+tudo aqui
+
+1471
+00:26:26,580 --> 00:26:28,080
+é um arquivo python
+
+1472
+00:26:28,080 --> 00:26:29,540
+minha etélica vai ser aqui
+
+1473
+00:26:29,540 --> 00:26:30,800
+tudo feito em python
+
+1474
+00:26:30,800 --> 00:26:31,980
+blá blá blá blá
+
+1475
+00:26:31,980 --> 00:26:32,980
+tranquilo
+
+1476
+00:26:32,980 --> 00:26:34,040
+qual que é o desafio
+
+1477
+00:26:34,040 --> 00:26:34,500
+que a gente tem
+
+1478
+00:26:34,500 --> 00:26:35,300
+na vida real
+
+1479
+00:26:35,300 --> 00:26:36,140
+e aí eu falei
+
+1480
+00:26:36,140 --> 00:26:36,540
+tipo assim
+
+1481
+00:26:36,540 --> 00:26:36,800
+beleza
+
+1482
+00:26:36,800 --> 00:26:37,540
+eu gostei de log
+
+1483
+00:26:37,540 --> 00:26:38,880
+vou implementar o log
+
+1484
+00:26:38,880 --> 00:26:39,680
+qual o desafio
+
+1485
+00:26:39,680 --> 00:26:40,040
+que a gente tem
+
+1486
+00:26:40,040 --> 00:26:40,540
+na vida real
+
+1487
+00:26:40,540 --> 00:26:41,820
+o desafio da real
+
+1488
+00:26:41,820 --> 00:26:42,360
+é que isso aqui
+
+1489
+00:26:42,360 --> 00:26:44,320
+é uma etélica
+
+1490
+00:26:44,320 --> 00:26:44,740
+na vida real
+
+1491
+00:26:44,740 --> 00:26:45,160
+você vai ter
+
+1492
+00:26:45,160 --> 00:26:45,900
+o Fabio falando
+
+1493
+00:26:45,900 --> 00:26:46,780
+a gente tinha 33
+
+1494
+00:26:46,780 --> 00:26:47,500
+na coca cola
+
+1495
+00:26:47,500 --> 00:26:48,460
+qual é a maneira burra
+
+1496
+00:26:48,460 --> 00:26:49,160
+de implementar o log
+
+1497
+00:26:49,160 --> 00:26:49,540
+você vai pegar
+
+1498
+00:26:49,540 --> 00:26:49,960
+em cada um
+
+1499
+00:26:49,960 --> 00:26:50,940
+desses códigos python
+
+1500
+00:26:50,940 --> 00:26:52,040
+e implementar ele
+
+1501
+00:26:52,040 --> 00:26:52,720
+aí você vai ter
+
+1502
+00:26:52,720 --> 00:26:53,040
+um cara
+
+1503
+00:26:53,040 --> 00:26:53,880
+só para cuidar de log
+
+1504
+00:26:53,880 --> 00:26:54,500
+porque ele vai ter
+
+1505
+00:26:54,500 --> 00:26:54,720
+que entrar
+
+1506
+00:26:54,720 --> 00:26:55,420
+em cada projeto
+
+1507
+00:26:55,420 --> 00:26:56,080
+e implementar
+
+1508
+00:26:56,080 --> 00:26:57,080
+então o que você vai fazer
+
+1509
+00:26:57,080 --> 00:26:57,680
+você vai fazer
+
+1510
+00:26:57,680 --> 00:26:58,660
+um decorator de log
+
+1511
+00:26:58,660 --> 00:26:59,160
+você vai fazer
+
+1512
+00:26:59,160 --> 00:27:00,660
+um código log só
+
+1513
+00:27:00,660 --> 00:27:01,540
+vai chamar de
+
+1514
+00:27:01,540 --> 00:27:03,460
+log decorator
+
+1515
+00:27:03,460 --> 00:27:04,860
+toda a sua lógica
+
+1516
+00:27:04,860 --> 00:27:05,920
+o que é a sua lógica
+
+1517
+00:27:05,920 --> 00:27:06,520
+quando a gente fala
+
+1518
+00:27:06,520 --> 00:27:07,260
+é se você vai usar
+
+1519
+00:27:07,260 --> 00:27:07,760
+o centre
+
+1520
+00:27:07,760 --> 00:27:09,340
+se você vai salvar
+
+1521
+00:27:09,340 --> 00:27:10,100
+o critical
+
+1522
+00:27:10,100 --> 00:27:11,800
+se você quer
+
+1523
+00:27:11,800 --> 00:27:13,360
+colocar o usuário
+
+1524
+00:27:13,360 --> 00:27:13,880
+beleza
+
+1525
+00:27:13,880 --> 00:27:14,600
+toda essa lógica
+
+1526
+00:27:14,600 --> 00:27:14,920
+você vai fazer
+
+1527
+00:27:14,920 --> 00:27:15,660
+nesse arquivo só
+
+1528
+00:27:15,660 --> 00:27:16,740
+e nos outros
+
+1529
+00:27:16,740 --> 00:27:17,300
+você vai fazer o que
+
+1530
+00:27:17,300 --> 00:27:18,260
+você vai decorar ele
+
+1531
+00:27:18,260 --> 00:27:19,020
+porque eu quero
+
+1532
+00:27:19,020 --> 00:27:20,360
+que toda a função minha
+
+1533
+00:27:20,360 --> 00:27:21,080
+gtl
+
+1534
+00:27:21,080 --> 00:27:21,980
+tenha a função
+
+1535
+00:27:21,980 --> 00:27:22,380
+do log
+
+1536
+00:27:22,380 --> 00:27:23,340
+do decorator
+
+1537
+00:27:23,340 --> 00:27:24,080
+só que eu não quero
+
+1538
+00:27:24,080 --> 00:27:24,780
+ter que desenvolver
+
+1539
+00:27:24,780 --> 00:27:25,880
+aí qual que é a vantagem
+
+1540
+00:27:25,880 --> 00:27:26,580
+de eu usar um decorator
+
+1541
+00:27:26,580 --> 00:27:27,860
+é que não quero mais
+
+1542
+00:27:27,860 --> 00:27:28,440
+usar o centre
+
+1543
+00:27:28,440 --> 00:27:29,700
+quero usar o
+
+1544
+00:27:29,700 --> 00:27:30,540
+qual outro lá
+
+1545
+00:27:30,540 --> 00:27:30,860
+que vocês falaram
+
+1546
+00:27:30,860 --> 00:27:31,440
+que é melhor que o centre
+
+1547
+00:27:31,440 --> 00:27:32,460
+centre demora duas horas
+
+1548
+00:27:32,460 --> 00:27:33,520
+quero usar o que paga
+
+1549
+00:27:33,520 --> 00:27:34,340
+data dog
+
+1550
+00:27:34,340 --> 00:27:35,140
+data dog
+
+1551
+00:27:35,140 --> 00:27:36,080
+ele recebe na hora
+
+1552
+00:27:36,080 --> 00:27:36,760
+data
+
+1553
+00:27:36,760 --> 00:27:38,140
+data dog
+
+1554
+00:27:38,140 --> 00:27:38,700
+só que custa
+
+1555
+00:27:38,700 --> 00:27:39,440
+200 mil reais
+
+1556
+00:27:39,440 --> 00:27:40,360
+200 mil
+
+1557
+00:27:40,360 --> 00:27:41,760
+centre demora
+
+1558
+00:27:41,760 --> 00:27:42,300
+duas horas
+
+1559
+00:27:42,300 --> 00:27:42,860
+e é de graça
+
+1560
+00:27:42,860 --> 00:27:43,900
+e aí
+
+1561
+00:27:43,900 --> 00:27:44,600
+qual que você escolhe
+
+1562
+00:27:44,600 --> 00:27:45,320
+uma decisão
+
+1563
+00:27:45,320 --> 00:27:45,980
+que você vai ter que tomar
+
+1564
+00:27:45,980 --> 00:27:46,600
+de arquitetura
+
+1565
+00:27:46,600 --> 00:27:47,920
+aí vamos dizer que você mudou
+
+1566
+00:27:47,920 --> 00:27:48,700
+data dog
+
+1567
+00:27:48,700 --> 00:27:49,800
+área de negócio
+
+1568
+00:27:49,800 --> 00:27:50,360
+tá com dinheiro
+
+1569
+00:27:50,360 --> 00:27:50,800
+pá
+
+1570
+00:27:50,800 --> 00:27:51,340
+que é recido
+
+1571
+00:27:51,340 --> 00:27:51,940
+na hora ali
+
+1572
+00:27:51,940 --> 00:27:52,460
+beleza
+
+1573
+00:27:52,460 --> 00:27:53,480
+mas se eu tivesse feito
+
+1574
+00:27:53,480 --> 00:27:53,960
+daquela maneira
+
+1575
+00:27:53,960 --> 00:27:54,420
+eu ia ter que mudar
+
+1576
+00:27:54,420 --> 00:27:55,420
+em 33 códigos
+
+1577
+00:27:55,420 --> 00:27:56,480
+aqui eu vou mudar
+
+1578
+00:27:56,480 --> 00:27:57,240
+só aqui
+
+1579
+00:27:57,240 --> 00:27:58,020
+nessa classe
+
+1580
+00:27:58,020 --> 00:27:59,220
+que vai afetar
+
+1581
+00:27:59,220 --> 00:28:00,200
+todos os que estão decorados
+
+1582
+00:28:00,200 --> 00:28:00,940
+posso fazer só
+
+1583
+00:28:00,940 --> 00:28:01,260
+pra isso
+
+1584
+00:28:01,260 --> 00:28:01,600
+pra dog
+
+1585
+00:28:01,600 --> 00:28:01,760
+não
+
+1586
+00:28:01,760 --> 00:28:02,440
+o decorei
+
+1587
+00:28:02,440 --> 00:28:03,260
+é qualquer coisa
+
+1588
+00:28:03,260 --> 00:28:04,320
+que a gente chama
+
+1589
+00:28:04,320 --> 00:28:04,920
+de bibliotecas
+
+1590
+00:28:04,920 --> 00:28:05,700
+que são úteis
+
+1591
+00:28:05,700 --> 00:28:07,840
+que são pacotes
+
+1592
+00:28:07,840 --> 00:28:08,580
+que a gente vai usar
+
+1593
+00:28:08,580 --> 00:28:09,780
+em vários projetos
+
+1594
+00:28:09,780 --> 00:28:10,440
+então sei lá
+
+1595
+00:28:10,440 --> 00:28:10,980
+log
+
+1596
+00:28:10,980 --> 00:28:12,380
+pandera
+
+1597
+00:28:12,380 --> 00:28:13,920
+pydentic
+
+1598
+00:28:13,920 --> 00:28:14,840
+airflow
+
+1599
+00:28:14,840 --> 00:28:15,960
+fast
+
+1600
+00:28:15,960 --> 00:28:16,640
+api
+
+1601
+00:28:16,640 --> 00:28:17,840
+tudo que é moderno
+
+1602
+00:28:17,840 --> 00:28:18,700
+você acaba usando
+
+1603
+00:28:18,700 --> 00:28:19,260
+decorators
+
+1604
+00:28:19,260 --> 00:28:19,800
+aí muitas vezes
+
+1605
+00:28:19,800 --> 00:28:20,220
+a gente usa
+
+1606
+00:28:20,220 --> 00:28:20,780
+se você fala
+
+1607
+00:28:20,780 --> 00:28:21,440
+cara já trabalhei
+
+1608
+00:28:21,440 --> 00:28:22,420
+com qualquer um desses aqui
+
+1609
+00:28:22,420 --> 00:28:23,200
+você já trabalhou
+
+1610
+00:28:23,200 --> 00:28:23,740
+com decorators
+
+1611
+00:28:23,740 --> 00:28:24,840
+sem saber que é decorators
+
+1612
+00:28:24,840 --> 00:28:26,020
+então o python
+
+1613
+00:28:26,020 --> 00:28:27,180
+você também pode criar o seu
+
+1614
+00:28:27,180 --> 00:28:27,680
+quais
+
+1615
+00:28:27,680 --> 00:28:28,300
+o que você quiser
+
+1616
+00:28:28,300 --> 00:28:29,160
+aí você pode tipo assim
+
+1617
+00:28:29,160 --> 00:28:30,120
+fazer qualquer coisa
+
+1618
+00:28:30,120 --> 00:28:30,500
+tá ligado
+
+1619
+00:28:30,500 --> 00:28:31,140
+você pode tipo assim
+
+1620
+00:28:31,140 --> 00:28:32,120
+eu quero criar um decorator
+
+1621
+00:28:32,120 --> 00:28:34,340
+do pipeline importante
+
+1622
+00:28:34,340 --> 00:28:36,420
+pipeline importante
+
+1623
+00:28:36,420 --> 00:28:38,140
+vai ser uma função
+
+1624
+00:28:38,140 --> 00:28:38,680
+que vai ser o seguinte
+
+1625
+00:28:38,680 --> 00:28:39,460
+sempre quando eu rodar
+
+1626
+00:28:39,460 --> 00:28:41,460
+uma ETL específica
+
+1627
+00:28:41,460 --> 00:28:41,980
+ou melhor ainda
+
+1628
+00:28:41,980 --> 00:28:42,420
+vou fazer um
+
+1629
+00:28:42,420 --> 00:28:43,580
+sabe um decorator real
+
+1630
+00:28:43,580 --> 00:28:44,640
+power bi
+
+1631
+00:28:44,640 --> 00:28:45,960
+atualizar
+
+1632
+00:28:45,960 --> 00:28:46,860
+você vai fazer o seguinte
+
+1633
+00:28:46,860 --> 00:28:47,860
+eu tenho um power bi
+
+1634
+00:28:47,860 --> 00:28:48,440
+aqui na empresa
+
+1635
+00:28:48,440 --> 00:28:49,780
+e eu tenho que atualizar ele manual
+
+1636
+00:28:49,780 --> 00:28:51,480
+essas três pipelines aqui
+
+1637
+00:28:51,480 --> 00:28:53,120
+quando eu tiver aqui no oracle
+
+1638
+00:28:53,120 --> 00:28:54,780
+eu quero que atualize o power bi
+
+1639
+00:28:54,780 --> 00:28:55,720
+aí eu vou fazer o seguinte
+
+1640
+00:28:55,720 --> 00:28:56,740
+eu vou ter um código só
+
+1641
+00:28:56,740 --> 00:28:57,840
+que atualizar power bi
+
+1642
+00:28:57,840 --> 00:28:59,260
+toda a ETL que eu tiver
+
+1643
+00:28:59,260 --> 00:28:59,980
+eu vou botar aqui
+
+1644
+00:28:59,980 --> 00:29:01,040
+esse decorador
+
+1645
+00:29:01,040 --> 00:29:01,900
+provavelmente vai ter um
+
+1646
+00:29:01,900 --> 00:29:02,420
+parâmetro
+
+1647
+00:29:02,420 --> 00:29:03,160
+que vai ser
+
+1648
+00:29:03,160 --> 00:29:04,720
+o meu pbx
+
+1649
+00:29:04,720 --> 00:29:07,240
+pbx.pbx
+
+1650
+00:29:07,240 --> 00:29:07,500
+né
+
+1651
+00:29:07,500 --> 00:29:08,920
+é power bi pbx né
+
+1652
+00:29:08,920 --> 00:29:09,740
+pbx né
+
+1653
+00:29:09,740 --> 00:29:10,860
+arquivo
+
+1654
+00:29:10,860 --> 00:29:12,220
+vai ser arquivo
+
+1655
+00:29:12,220 --> 00:29:14,460
+jornada pbx
+
+1656
+00:29:14,460 --> 00:29:15,580
+aí vai ter um decorator
+
+1657
+00:29:15,580 --> 00:29:15,960
+chamado
+
+1658
+00:29:15,960 --> 00:29:17,420
+vai ter um decorator
+
+1659
+00:29:17,420 --> 00:29:17,840
+chamado
+
+1660
+00:29:17,840 --> 00:29:19,300
+atualizar
+
+1661
+00:29:19,300 --> 00:29:21,180
+dash.py
+
+1662
+00:29:21,180 --> 00:29:21,920
+aí qual é a vantagem
+
+1663
+00:29:21,920 --> 00:29:22,500
+de eu ter um decorator
+
+1664
+00:29:22,500 --> 00:29:23,540
+atualizar dash.py
+
+1665
+00:29:23,540 --> 00:29:24,040
+porque vai dizer
+
+1666
+00:29:24,040 --> 00:29:24,880
+que depois eu quero
+
+1667
+00:29:24,880 --> 00:29:26,120
+utilizar o
+
+1668
+00:29:26,120 --> 00:29:27,040
+quelic
+
+1669
+00:29:27,040 --> 00:29:28,020
+do nosso general
+
+1670
+00:29:28,020 --> 00:29:29,180
+eu consigo fazer
+
+1671
+00:29:29,180 --> 00:29:29,880
+uma transferência
+
+1672
+00:29:29,880 --> 00:29:30,420
+de power bi
+
+1673
+00:29:30,420 --> 00:29:31,000
+pro pelic
+
+1674
+00:29:31,000 --> 00:29:31,700
+em uma tarde
+
+1675
+00:29:31,700 --> 00:29:32,520
+quanto tempo eu preciso
+
+1676
+00:29:32,520 --> 00:29:33,280
+demorar ali na tua empresa
+
+1677
+00:29:33,280 --> 00:29:34,400
+pra mudar o beta bicho
+
+1678
+00:29:34,400 --> 00:29:35,140
+eu mudo em um dia
+
+1679
+00:29:35,140 --> 00:29:37,020
+aqui eu posso botar
+
+1680
+00:29:37,020 --> 00:29:37,820
+as validações
+
+1681
+00:29:37,820 --> 00:29:38,980
+o decorador
+
+1682
+00:29:38,980 --> 00:29:40,540
+é tudo que você vai usar
+
+1683
+00:29:40,540 --> 00:29:41,140
+mais de uma vez
+
+1684
+00:29:41,140 --> 00:29:41,480
+em várias
+
+1685
+00:29:41,480 --> 00:29:42,360
+pensa que a gente é engenheiro
+
+1686
+00:29:42,360 --> 00:29:42,640
+de dados
+
+1687
+00:29:42,640 --> 00:29:44,560
+a gente tem que se multiplicar
+
+1688
+00:29:44,560 --> 00:29:45,780
+então se você tem um código
+
+1689
+00:29:45,780 --> 00:29:46,580
+que você usa mais de uma vez
+
+1690
+00:29:46,580 --> 00:29:48,280
+o decorador pode ser uma solução
+
+1691
+00:29:48,280 --> 00:29:48,980
+e onde você vai usar
+
+1692
+00:29:48,980 --> 00:29:49,440
+onde você quiser
+
+1693
+00:29:49,440 --> 00:29:50,280
+é a criatividade
+
+1694
+00:29:50,280 --> 00:29:51,400
+vamos fazer o sorteio
+
+1695
+00:29:51,400 --> 00:29:52,220
+respondido?
+
+1696
+00:29:53,220 --> 00:29:53,500
+respondido
+
+1697
+00:29:53,500 --> 00:29:54,100
+cara, muito obrigado
+
+1698
+00:29:54,100 --> 00:29:54,900
+um abraço
+
+1699
+00:29:54,900 --> 00:29:55,700
+nada, faz sentido?
+
+1700
+00:29:55,800 --> 00:29:56,180
+fez sentido?
+
+1701
+00:29:56,580 --> 00:29:57,220
+ó, mas eu vou te falar
+
+1702
+00:29:57,220 --> 00:29:58,280
+esse do Fábio
+
+1703
+00:29:58,280 --> 00:29:59,020
+ele era super contra
+
+1704
+00:29:59,020 --> 00:29:59,420
+de fazer isso
+
+1705
+00:29:59,420 --> 00:29:59,840
+porque ele falava
+
+1706
+00:29:59,840 --> 00:30:00,560
+cara, na nossa equipe
+
+1707
+00:30:00,560 --> 00:30:01,800
+tem sênior que não usa decorador
+
+1708
+00:30:01,800 --> 00:30:02,260
+e não sabe
+
+1709
+00:30:02,260 --> 00:30:02,780
+tu vai falar
+
+1710
+00:30:02,780 --> 00:30:04,280
+pras pessoas de duas semanas
+
+1711
+00:30:04,280 --> 00:30:05,080
+o que é decorador
+
+1712
+00:30:05,080 --> 00:30:06,520
+por isso que a gente tem que fazer
+
+1713
+00:30:06,520 --> 00:30:07,200
+porque a gente tem que falar
+
+1714
+00:30:07,200 --> 00:30:08,280
+pras pessoas que elas tem que usar
+
+1715
+00:30:08,280 --> 00:30:09,340
+então tipo assim
+
+1716
+00:30:09,340 --> 00:30:10,340
+você pode não entender nada
+
+1717
+00:30:10,340 --> 00:30:11,460
+pode acontecer
+
+1718
+00:30:11,460 --> 00:30:13,340
+mas chega depois
+
+1719
+00:30:13,340 --> 00:30:14,800
+aplica
+
+1720
+00:30:14,800 --> 00:30:15,740
+aplica
+
+1721
+00:30:15,740 --> 00:30:16,400
+tipo, porra
+
+1722
+00:30:16,400 --> 00:30:17,240
+e vai começando
+
+1723
+00:30:17,240 --> 00:30:18,080
+e tipo assim
+
+1724
+00:30:18,080 --> 00:30:18,460
+isso que eu falei
+
+1725
+00:30:18,460 --> 00:30:19,260
+as pessoas usam
+
+1726
+00:30:19,260 --> 00:30:20,000
+quem não usa Airflow?
+
+1727
+00:30:20,880 --> 00:30:22,080
+todo mundo usa Airflow, cara
+
+1728
+00:30:22,080 --> 00:30:23,360
+duvido que metade das pessoas
+
+1729
+00:30:23,360 --> 00:30:23,780
+que usam Airflow
+
+1730
+00:30:23,780 --> 00:30:24,700
+sabe o que é um decorador
+
+1731
+00:30:24,700 --> 00:30:25,820
+ele coloca o arroba ali
+
+1732
+00:30:25,820 --> 00:30:26,840
+arroba deg
+
+1733
+00:30:26,840 --> 00:30:27,980
+porque ele decorou
+
+1734
+00:30:27,980 --> 00:30:29,600
+o decorator é o decorou, né
+
+1735
+00:30:29,600 --> 00:30:30,360
+decorou que tem que botar
+
+1736
+00:30:30,360 --> 00:30:30,840
+o arroba deg
+
+1737
+00:30:30,840 --> 00:30:31,800
+o que é aquele arroba deg?
+
+1738
+00:30:32,200 --> 00:30:33,300
+aí depois a empresa dele
+
+1739
+00:30:33,300 --> 00:30:34,000
+muda pro degster
+
+1740
+00:30:34,000 --> 00:30:34,480
+ele se fudeu
+
+1741
+00:30:34,480 --> 00:30:35,980
+ele virou um apertador
+
+1742
+00:30:35,980 --> 00:30:37,200
+de ferramenta
+
+1743
+00:30:37,200 --> 00:30:37,560
+mas beleza
+
+1744
+00:30:37,560 --> 00:30:38,240
+bora sortear
+
+1745
+00:30:38,240 --> 00:30:39,780
+nossa, eu fico
+
+1746
+00:30:39,780 --> 00:30:40,520
+eu gosto que a gente
+
+1747
+00:30:40,520 --> 00:30:41,360
+põe perguntas assim
+
+1748
+00:30:41,360 --> 00:30:42,360
+na lata
+
+1749
+00:30:42,360 --> 00:30:44,060
+mas é difícil, mano
+
+1750
+00:30:44,060 --> 00:30:45,180
+perguntas difíceis de vocês
+
+1751
+00:30:45,180 --> 00:30:46,120
+o outro perguntou ali
+
+1752
+00:30:46,120 --> 00:30:47,280
+caralho
+
+1753
+00:30:47,280 --> 00:30:48,400
+perguntas difíceis de vocês
+
+1754
+00:30:48,400 --> 00:30:49,140
+são boas, hein
+
+1755
+00:30:49,140 --> 00:30:50,440
+pessoal
+
+1756
+00:30:50,440 --> 00:30:52,920
+vamos sortear agora
+
+1757
+00:30:52,920 --> 00:30:55,500
+responder e entrar na live
+
+1758
+00:30:55,500 --> 00:30:58,260
+quanto tá o tempo de sorteio?
+
+1759
+00:30:58,380 --> 00:30:59,520
+posso fazer mais uma pergunta?
+
+1760
+00:30:59,680 --> 00:30:59,900
+pode
+
+1761
+00:30:59,900 --> 00:31:02,660
+você já falou do
+
+1762
+00:31:02,660 --> 00:31:03,820
+do
+
+1763
+00:31:03,820 --> 00:31:04,780
+do
+
+1764
+00:31:04,780 --> 00:31:05,940
+do
+
+1765
+00:31:05,940 --> 00:31:06,640
+do
+
+1766
+00:31:06,640 --> 00:31:07,960
+do
+
+1767
+00:31:07,960 --> 00:31:08,380
+do
+
+1768
+00:31:08,380 --> 00:31:09,280
+rapidamente
+
+1769
+00:31:09,280 --> 00:31:10,600
+foi o
+
+1770
+00:31:10,600 --> 00:31:11,540
+workshop inteiro
+
+1771
+00:31:11,540 --> 00:31:12,120
+de DataQuality
+
+1772
+00:31:12,120 --> 00:31:12,540
+não consigo
+
+1773
+00:31:12,540 --> 00:31:13,560
+tem que assistir o DataQuality
+
+1774
+00:31:13,560 --> 00:31:14,540
+todo mundo consegue assistir
+
+1775
+00:31:14,540 --> 00:31:15,740
+que eu acesse na plataforma
+
+1776
+00:31:15,740 --> 00:31:16,780
+mas assim
+
+1777
+00:31:16,780 --> 00:31:18,080
+ele é um decorator
+
+1778
+00:31:18,080 --> 00:31:19,200
+vou conseguir falar
+
+1779
+00:31:19,200 --> 00:31:19,940
+porque eu sou pica, né
+
+1780
+00:31:19,940 --> 00:31:20,460
+vamos lá
+
+1781
+00:31:20,460 --> 00:31:21,940
+pergunta difícil de 4 horas
+
+1782
+00:31:21,940 --> 00:31:22,720
+o
+
+1783
+00:31:22,720 --> 00:31:22,780
+o
+
+1784
+00:31:22,780 --> 00:31:23,260
+o
+
+1785
+00:31:23,260 --> 00:31:23,800
+o
+
+1786
+00:31:23,800 --> 00:31:24,500
+o
+
+1787
+00:31:24,500 --> 00:31:25,360
+o
+
+1788
+00:31:25,360 --> 00:31:25,780
+o
+
+1789
+00:31:25,780 --> 00:31:26,240
+o
+
+1790
+00:31:26,240 --> 00:31:27,220
+o
+
+1791
+00:31:27,220 --> 00:31:27,840
+o
+
+1792
+00:31:27,840 --> 00:31:29,960
+ovo, muito melhor que você, muito melhor que qualquer um
+
+1793
+00:31:29,960 --> 00:31:31,840
+aqui, fez o seguinte. Falou, vou dedicar a minha
+
+1794
+00:31:31,840 --> 00:31:33,560
+vida a fazer a melhor parada de qualidade
+
+1795
+00:31:33,560 --> 00:31:35,880
+possível. Aí ele foi e contratou
+
+1796
+00:31:35,880 --> 00:31:37,720
+mais 50 caras, que são pica.
+
+1797
+00:31:38,340 --> 00:31:39,500
+Se você colocar um arroba
+
+1798
+00:31:39,500 --> 00:31:41,040
+em qualquer código seu,
+
+1799
+00:31:41,780 --> 00:31:43,680
+automaticamente tu vai pegar esse código inteiro
+
+1800
+00:31:43,680 --> 00:31:45,920
+que ele fez e aplicar a qualidade
+
+1801
+00:31:45,920 --> 00:31:47,900
+na tua empresa. Isso é o pai dente que o pandeira.
+
+1802
+00:31:48,820 --> 00:31:50,040
+Com um arroba que tu coloca
+
+1803
+00:31:50,040 --> 00:31:52,120
+na tua função, tu já não se preocupa
+
+1804
+00:31:52,120 --> 00:31:54,200
+com contrato de dados, não se preocupa com input,
+
+1805
+00:31:54,300 --> 00:31:55,640
+não se preocupa com validação.
+
+1806
+00:31:55,640 --> 00:31:57,620
+Esse eu resumo. Deu pra responder?
+
+1807
+00:31:57,940 --> 00:31:59,720
+Entendeu? Deu um motivo de assistir
+
+1808
+00:31:59,720 --> 00:32:01,640
+quatro horas de live lá? Porque você tem direito, você pode,
+
+1809
+00:32:01,700 --> 00:32:04,220
+você vai chegar e no final de semana vai ver aquela live lá.
+
+1810
+00:32:04,700 --> 00:32:05,940
+Sim, sim, vai ser
+
+1811
+00:32:05,940 --> 00:32:07,900
+ao vivo, mas realmente porque ele é
+
+1812
+00:32:07,900 --> 00:32:10,000
+bem denso. Pega, mas pensa
+
+1813
+00:32:10,000 --> 00:32:11,960
+nesse daí. Pensa o seguinte também, por que
+
+1814
+00:32:11,960 --> 00:32:13,560
+utilizar o pai dente? Ele
+
+1815
+00:32:13,560 --> 00:32:15,440
+é o mais utilizado de Python.
+
+1816
+00:32:15,960 --> 00:32:17,880
+Mais dois minutos pra escrever a camisa, hein, pessoal? Vamos lá.
+
+1817
+00:32:18,480 --> 00:32:20,000
+Ele é utilizado por 400 mil
+
+1818
+00:32:20,000 --> 00:32:21,260
+pessoas. Pensa o seguinte,
+
+1819
+00:32:21,940 --> 00:32:23,900
+tem 400 mil desenvolvedores que usam
+
+1820
+00:32:23,900 --> 00:32:26,040
+isso hoje. Se você usa essa ferramenta
+
+1821
+00:32:26,040 --> 00:32:27,920
+bem, é uma maneira de você poder
+
+1822
+00:32:27,920 --> 00:32:30,040
+trabalhar com 377 mil pessoas.
+
+1823
+00:32:30,740 --> 00:32:32,180
+Tá ligado? Tipo, pessoas que usam no dia a dia.
+
+1824
+00:32:32,260 --> 00:32:34,300
+Então, assim, muitas pessoas usam isso hoje.
+
+1825
+00:32:34,720 --> 00:32:35,560
+Tá ligado? Então, tipo, ó,
+
+1826
+00:32:35,960 --> 00:32:37,060
+e é uma, e tipo,
+
+1827
+00:32:38,180 --> 00:32:39,480
+é o mais utilizado de Python.
+
+1828
+00:32:39,920 --> 00:32:42,060
+Por quê? O pai dente que pensa no seguinte,
+
+1829
+00:32:42,480 --> 00:32:43,720
+já viu falar em JavaScript
+
+1830
+00:32:43,720 --> 00:32:44,700
+e TypeScript?
+
+1831
+00:32:45,740 --> 00:32:47,960
+E você viu que todo mundo migrou do JavaScript pro TypeScript?
+
+1832
+00:32:48,480 --> 00:32:49,340
+É mais ou menos isso.
+
+1833
+00:32:49,680 --> 00:32:51,920
+O pai dente que tipa o seu
+
+1834
+00:32:51,920 --> 00:32:53,940
+Python. Só que é diferente. Aí foram
+
+1835
+00:32:53,940 --> 00:32:55,880
+estratégias diferentes aí. Mais um minuto aí
+
+1836
+00:32:55,880 --> 00:32:57,720
+pra gente sortear a camiseta. Pode ir ligando a câmera
+
+1837
+00:32:57,720 --> 00:33:00,240
+pra gente tirar foto. Mais um minuto.
+
+1838
+00:33:01,140 --> 00:33:01,920
+Vai colocar, ó,
+
+1839
+00:33:02,200 --> 00:33:03,800
+faz o seguinte, ó, nessa ordem.
+
+1840
+00:33:04,240 --> 00:33:04,600
+Git
+
+1841
+00:33:04,600 --> 00:33:06,160
+Piedentic.
+
+1842
+00:33:06,720 --> 00:33:07,460
+Essa é outra coisa também.
+
+1843
+00:33:07,580 --> 00:33:09,760
+Quando o pessoal tirando o último minuto, não tenta implementar
+
+1844
+00:33:09,760 --> 00:33:10,980
+tudo de uma vez no seu time.
+
+1845
+00:33:11,720 --> 00:33:12,300
+Senão tu morre.
+
+1846
+00:33:13,060 --> 00:33:13,280
+Tá bom?
+
+1847
+00:33:14,500 --> 00:33:14,860
+Escolhe.
+
+1848
+00:33:15,760 --> 00:33:16,220
+Faz o seguinte.
+
+1849
+00:33:16,660 --> 00:33:17,380
+O teu time não tem nada.
+
+1850
+00:33:17,740 --> 00:33:19,440
+Cheguei num projeto muito ruim. Já peguei isso várias vezes.
+
+1851
+00:33:19,520 --> 00:33:21,000
+Cheguei num projeto que, caraca, o que salva ali?
+
+1852
+00:33:21,000 --> 00:33:22,500
+As pessoas, tá bom?
+
+1853
+00:33:22,620 --> 00:33:23,160
+Então, tipo assim,
+
+1854
+00:33:23,740 --> 00:33:25,340
+cada semana tu tenta implementar uma coisa
+
+1855
+00:33:25,340 --> 00:33:26,320
+e conquista isso.
+
+1856
+00:33:26,460 --> 00:33:28,100
+Senão tu vai ser só o dev maluco, tá ligado?
+
+1857
+00:33:28,120 --> 00:33:28,560
+Vai chegar lá.
+
+1858
+00:33:28,620 --> 00:33:29,220
+Pessoal, tô cheio de ideias.
+
+1859
+00:33:29,280 --> 00:33:29,780
+Quinze ideias.
+
+1860
+00:33:30,100 --> 00:33:32,380
+Aí eu trabalhei num lugar que a gente chamava que tinha
+
+1861
+00:33:32,380 --> 00:33:34,120
+o mural das grandes ideias
+
+1862
+00:33:34,120 --> 00:33:35,000
+que nunca foram implementadas.
+
+1863
+00:33:35,900 --> 00:33:37,020
+Então sempre quando alguém chegava com uma ideia,
+
+1864
+00:33:37,120 --> 00:33:37,820
+assim, ó, tô com uma ideia aqui.
+
+1865
+00:33:37,980 --> 00:33:40,420
+A gente falava, aí, bota mais ali no mural das ideias
+
+1866
+00:33:40,420 --> 00:33:41,000
+que nunca vão ser implementadas.
+
+1867
+00:33:41,860 --> 00:33:43,020
+Não adianta. Só trazer ideia, tá ligado?
+
+1868
+00:33:43,060 --> 00:33:43,700
+Então, tipo, ó, pessoal,
+
+1869
+00:33:44,040 --> 00:33:45,440
+vou botar o Pai Envy aqui
+
+1870
+00:33:45,440 --> 00:33:46,520
+nessas duas semanas.
+
+1871
+00:33:46,640 --> 00:33:47,620
+Hoje eu vou ser o responsável.
+
+1872
+00:33:48,100 --> 00:33:48,780
+Alô, Sênio,
+
+1873
+00:33:48,780 --> 00:33:50,040
+eu vou ser o responsável por isso,
+
+1874
+00:33:50,140 --> 00:33:51,440
+vou mostrar o valor pra todo mundo aqui,
+
+1875
+00:33:51,560 --> 00:33:53,240
+vou me responsabilizar pra ver isso, não sei o que, não sei o que.
+
+1876
+00:33:53,460 --> 00:33:54,100
+E o Pandera?
+
+1877
+00:33:54,420 --> 00:33:55,660
+O Pai Envy é mais importante que o Pandera.
+
+1878
+00:33:56,100 --> 00:33:57,560
+Semana que vem tu faz essa briga, tá ligado?
+
+1879
+00:33:58,060 --> 00:33:58,320
+Não...
