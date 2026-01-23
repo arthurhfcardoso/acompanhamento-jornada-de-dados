@@ -9,7 +9,7 @@ Este repositório reúne meu acompanhamento da Jornada de Dados, com estudos, ex
 - Consolidar fundamentos de Python (sintaxe, tipos, estruturas de dados e controle de fluxo)
 - Praticar Git e organização de projetos durante as aulas iniciais
 - Aplicar SQL para anǭlise de negócio e respostas a perguntas reais
-- Usar Python para ingestǜo, integração e limpeza de dados
+- Usar Python para ingestão, integração e limpeza de dados
 - Avançar na visão de engenharia de dados com foco em pipelines e boas práticas
 
 ## 📁 Estrutura do Projeto
@@ -69,4 +69,3 @@ pip install -r requirements.txt
 ## 👤 Autor
 
 Arthur Cardoso
-
